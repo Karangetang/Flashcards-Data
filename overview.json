@@ -1,6 +1,16 @@
 {
   "settings": {
     "languages": [
-    {"uuid": "e8ad2695-3b1a-4d7d-b0ca-6a24c9836095", "name": "English", "code": "en"}
-  ]}
+      {
+        "uuid": "e8ad2695-3b1a-4d7d-b0ca-6a24c9836095",
+        "name": "English",
+        "code": "en"
+      },
+      {
+        "uuid": "2cbc407d-341a-47a5-aaa1-f89e2eaa66bb",
+        "name": "Indonesian",
+        "code": "id"
+      }
+    ]
+  }
 }
