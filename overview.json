@@ -9,8 +9,23 @@
       {
         "uuid": "2cbc407d-341a-47a5-aaa1-f89e2eaa66bb",
         "name": "Indonesian",
+        "image": "https://raw.githubusercontent.com/Karangetang/Flashcards-Data/master/images/indonesia.jpg",
         "code": "id"
       }
     ]
-  }
+  },
+  "books": [
+    {
+      "uuid": "b7cd8611-763d-42e0-92c2-33cf54c80374",
+      "title": "Bahasa Indonesia",
+      "sourceLng": "en",
+      "targetLng": "id"
+    },
+    {
+      "uuid": "1727c7d7-388c-4d88-ae3d-0c37a709c184",
+      "title": "Bahasa Indonesia",
+      "sourceLng": "en",
+      "targetLng": "tw"
+    }
+  ]
 }
