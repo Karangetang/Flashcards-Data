@@ -1,0 +1,32 @@
+{
+  "uuid": "b7cd8611-763d-42e0-92c2-33cf54c80374",
+  "title": "Cinta Bahasa 2",
+  "sourceLng": "en",
+  "targetLng": "id",
+  "books": [
+    {
+      "uuid": "ad03bfd2-aff6-4fee-8dca-48754e5fb30b",
+      "title": "Cinta Bahasa 1A",
+      "comment": "Yayasan Cinta Bahasa Indonesia",
+      "chapter": [
+        {
+          "uuid": "88163a8b-c263-43f1-9d37-c0d16ca9b67b",
+          "title": "Alfabet",
+          "comment": "Bab 1",
+          "words": [
+            {
+              "uuid": "9247cab9-aa45-4002-b6da-0f2c1cb9c7bf",
+              "source": "evening",
+              "target": "malam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "cd08076c-018d-4f84-95a0-904498a45fd7",
+      "title": "Cinta Bahasa 1B",
+      "comment": "Yayasan Cinta Bahasa Indonesia"
+    }
+  ]
+}
