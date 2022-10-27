@@ -2,12 +2,14 @@
   "languages": [
     {
       "code": "en",
+      "voice": "en",
       "name": "English",
       "image": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/unitedstates.png",
       "icon": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/us.png"
     },
     {
       "code": "id",
+      "voice": "id",
       "name": "Indonesian",
       "image": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/indonesia.png",
       "icon": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/id.png"
