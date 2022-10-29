@@ -2,31 +2,35 @@
   "languages": [
     {
       "code": "en",
-      "voice": "en",
       "name": "English",
       "image": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/unitedstates.png",
-      "icon": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/us.png"
+      "icon": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/us.png",
+      "voice": "en",
+      "sample": "Good evening"
     },
     {
       "code": "id",
-      "voice": "id",
       "name": "Indonesian",
       "image": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/indonesia.png",
-      "icon": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/id.png"
+      "icon": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/id.png",
+      "voice": "id",
+      "sample": "Selamat malam"
     },
     {
       "code": "tw",
-      "voice": "zh",
       "name": "Chinese (繁體字)",
       "image": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/taiwan.png",
-      "icon": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/tw.png"
+      "icon": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/tw.png",
+      "voice": "zh",
+      "sample": "晚上好"
     },
     {
       "code": "cn",
-      "voice": "zh",
       "name": "Chinese (简体字)",
       "image": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/china.png",
-      "icon": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/cn.png"
+      "icon": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/cn.png",
+      "voice": "zh",
+      "sample": "晚上好"
     }
   ],
   "courses": [
