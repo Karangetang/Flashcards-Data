@@ -1,0 +1,4950 @@
+{
+  "uuid": "0FC94542-26CE-4340-9743-730D1571935D",
+  "title": "Practical Audio-Visual Chinese",
+  "comment": "National Taiwan Normal University",
+  "sourceLng": "en",
+  "targetLng": "tw",
+  "books": [
+    {
+      "uuid": "6E0964FB-FFF6-48CF-8015-0970FED75001",
+      "title": "Book 1",
+      "sort": 1,
+      "chapters": [
+        {
+          "uuid": "A5AC9FDC-AFB2-40D6-B03B-6BB690D3E58D",
+          "title": "What is your name?",
+          "comment": "Lesson 1",
+          "sort": 2,
+          "words": [
+            {
+              "uuid": "10DF1262-53C8-4302-B196-6FD83DCDB40F",
+              "source": "to be (am, are, is)",
+              "target": "是",
+              "targetComment": "shì"
+            },
+            {
+              "uuid": "340255E9-E112-424A-A5B7-5FE05C8F806A",
+              "source": "What is your last name?",
+              "target": "貴姓",
+              "targetComment": "guìxìng"
+            },
+            {
+              "uuid": "48282D50-42B0-476B-A6FB-FBEC798CB31A",
+              "source": "to be good / well",
+              "target": "好",
+              "targetComment": "hăo"
+            },
+            {
+              "uuid": "2A94C0C7-263E-4ABF-9A3F-2A686E59DF4B",
+              "source": "you",
+              "target": "你",
+              "targetComment": "nĭ"
+            },
+            {
+              "uuid": "40C8D703-1635-4E8A-9A87-C75FA14FC633",
+              "source": "the U.S.A., American",
+              "target": "美國",
+              "targetComment": "Měiguó"
+            },
+            {
+              "uuid": "07C338E2-A567-4387-84EF-46EBBF8AB7D4",
+              "source": "he, she, him, her",
+              "target": "他",
+              "targetComment": "tā"
+            },
+            {
+              "uuid": "0BFB7BF8-DEA8-4C3B-BAA2-A0568A1F090B",
+              "source": "who, whom",
+              "target": "誰",
+              "targetComment": "shéi"
+            },
+            {
+              "uuid": "42401A8C-4108-485F-8616-E8B26281309B",
+              "source": "you (polite)",
+              "target": "您",
+              "targetComment": "nín"
+            },
+            {
+              "uuid": "66F8B3A5-83FD-4937-BC11-C1B24CF74954",
+              "source": "to be called, to call",
+              "target": "叫",
+              "targetComment": "jiào"
+            },
+            {
+              "uuid": "7E30169B-FD46-41C3-8B14-DBA31EC904EA",
+              "source": "Mr., Sir, gentleman, husband",
+              "target": "先生",
+              "targetComment": "xiānshēng"
+            },
+            {
+              "uuid": "57BCCABA-8013-4784-B31C-35691A7C5531",
+              "source": "I, me",
+              "target": "我",
+              "targetComment": "wŏ"
+            },
+            {
+              "uuid": "4BB140C0-6546-424E-80C0-8ECB3D775515",
+              "source": "surname, family name",
+              "target": "姓",
+              "targetComment": "xìng"
+            },
+            {
+              "uuid": "7CFC5F09-573E-4F3D-9D29-B773EC8F897D",
+              "source": "(a question particle)",
+              "target": "呢",
+              "targetComment": "ne"
+            },
+            {
+              "uuid": "582DDD47-F233-40E0-A3CF-466631CF4FC2",
+              "source": "Lee (a common surname); plum",
+              "target": "李",
+              "targetComment": "lĭ"
+            },
+            {
+              "uuid": "6A269396-3349-458F-8837-62FC5E0E76CF",
+              "source": "England, English",
+              "target": "英國",
+              "targetComment": "Yīngguó"
+            },
+            {
+              "uuid": "852DD96E-6E33-4F75-A1E0-8F043DE866D4",
+              "source": "she, her",
+              "target": "她",
+              "targetComment": "tā"
+            },
+            {
+              "uuid": "8CDAB281-165C-4DC8-9C38-CE62E5D8102B",
+              "source": "Wang (a common surname); king",
+              "target": "王",
+              "targetComment": "Wáng"
+            },
+            {
+              "uuid": "577FF937-D1A6-44EF-B49C-42030B65603C",
+              "source": "which",
+              "target": "哪",
+              "targetComment": "nă/něi"
+            },
+            {
+              "uuid": "78622099-4265-4383-B392-FC593E4841EC",
+              "source": "country, nation",
+              "target": "國",
+              "targetComment": "guó"
+            },
+            {
+              "uuid": "D05050FF-537A-4FD6-9CA9-FC900F10069E",
+              "source": "not, no",
+              "target": "不",
+              "targetComment": "bù"
+            },
+            {
+              "uuid": "D9D38BA1-6499-40C6-9097-60AEAC460663",
+              "source": "China, Chinese",
+              "target": "中國",
+              "targetComment": "Zhōngguó"
+            },
+            {
+              "uuid": "C88F0049-81D7-4415-A041-ED393EA45876",
+              "source": "people, person",
+              "target": "人",
+              "targetComment": "rén"
+            },
+            {
+              "uuid": "D0E40DF0-4A92-49E3-9F2B-0AFC5BB5AB3D",
+              "source": "(a question particle)",
+              "target": "嗎",
+              "targetComment": "ma"
+            },
+            {
+              "uuid": "D2F467BA-F9B2-4F37-A7D8-1E52E0778BE4",
+              "source": "what",
+              "target": "什麼",
+              "targetComment": "shénme"
+            },
+            {
+              "uuid": "F425B547-7C36-4745-8E33-A9A9B30749CF",
+              "source": "full name, given name",
+              "target": "名字",
+              "targetComment": "míngzi"
+            },
+            {
+              "uuid": "E11EB2D7-A686-408F-8E3F-7539DBFEF3E3",
+              "source": "to be beautiful",
+              "target": "美",
+              "targetComment": "měi"
+            },
+            {
+              "uuid": "DF68F278-07DB-4756-9467-4E6F2423E769",
+              "source": "American people/person",
+              "target": "美國人",
+              "targetComment": "Měiguórén"
+            },
+            {
+              "uuid": "3ABA7591-60BB-4DA7-BE50-CB83FC01BA47",
+              "source": "Is his last name Wang?",
+              "target": "他姓王嗎？",
+              "targetComment": "Tā xìng wáng ma?"
+            },
+            {
+              "uuid": "6071CDF6-7032-4481-BC55-61AA4D11A9AE",
+              "source": "I am Chinese.",
+              "target": "我是中國人。",
+              "targetComment": "Wǒ shì Zhōngguó rén."
+            },
+            {
+              "uuid": "4B92CC40-A9EB-4A2C-B511-772A3AEA86CF",
+              "source": "Hello, Mr. Lee!",
+              "target": "李先生好！",
+              "targetComment": "Lǐ Xiānshēng hǎo!"
+            },
+            {
+              "uuid": "A7EE1F8E-C9CB-4D9C-88BB-D32E7A9A92A3",
+              "source": "What is your surname?",
+              "target": "您貴姓？",
+              "targetComment": "Nín guìxìng?"
+            },
+            {
+              "uuid": "C4CBE8ED-116F-48AC-9B59-49A2FB40B4C1",
+              "source": "His name is David.",
+              "target": "他叫大衛。",
+              "targetComment": "Tā jiào Dàwèi."
+            },
+            {
+              "uuid": "E7A964D1-B886-42DC-8556-7B21A2346E80",
+              "source": "Hello!",
+              "target": "您好！",
+              "targetComment": "Nín hǎo"
+            }
+          ]
+        },
+        {
+          "uuid": "2A923830-A166-48CE-BC1A-A686E1DB8850",
+          "title": "Hello. Good morning.",
+          "comment": "Lesson 2",
+          "sort": 36,
+          "words": [
+            {
+              "uuid": "4A5A2038-AF23-4EA2-B3AA-D07AC45ECE1C",
+              "source": "to be hot",
+              "target": "熱",
+              "targetComment": "rè"
+            },
+            {
+              "uuid": "2647A449-B3B8-4606-88FB-0E4A46C83939",
+              "source": "very",
+              "target": "很",
+              "targetComment": "hěn"
+            },
+            {
+              "uuid": "3CBFB5FE-BFA6-480A-A77C-2C6F136F4351",
+              "source": "to thank you, to thank",
+              "target": "謝謝",
+              "targetComment": "xièxiè"
+            },
+            {
+              "uuid": "34D79F3C-6288-4183-870D-BCB32EC6B7CA",
+              "source": "to be a long time",
+              "target": "久",
+              "targetComment": "jiŭ"
+            },
+            {
+              "uuid": "14A5F0A0-755C-4A30-BDC6-17FE41C6CFE8",
+              "source": "too [excessive]",
+              "target": "太",
+              "targetComment": "tài"
+            },
+            {
+              "uuid": "1DEAA0B0-0DE7-4BD3-BD31-8FDAFEA0C0DB",
+              "source": "Long time no see.",
+              "target": "好久不見",
+              "targetComment": "hăojiŭbùjiàn"
+            },
+            {
+              "uuid": "7E75D881-CA20-4825-9892-AC7244BDAE06",
+              "source": "Good morning / to be early",
+              "target": "早",
+              "targetComment": "zăo"
+            },
+            {
+              "uuid": "6F580C65-0128-48D1-BC71-7444B40983B4",
+              "source": "Miss, young lady",
+              "target": "小姐",
+              "targetComment": "xiăojĭe"
+            },
+            {
+              "uuid": "74B6539D-4F75-4C90-862F-5D12F249820B",
+              "source": "to go to class; to attend class",
+              "target": "上課",
+              "targetComment": "shàng kè"
+            },
+            {
+              "uuid": "6BFCEEF4-6FFB-43D7-9AAE-6ED5C3488CAC",
+              "source": "(used at the end of a sentence to emphasize agreement, exclamation,interrogation, etc.)",
+              "target": "啊",
+              "targetComment": "a"
+            },
+            {
+              "uuid": "57A3054B-2B71-477D-9AB8-C280B1953D11",
+              "source": "to go",
+              "target": "去",
+              "targetComment": "qù"
+            },
+            {
+              "uuid": "663A9CD7-D2C1-4635-A31C-BD24273D921C",
+              "source": "to be cold",
+              "target": "冷",
+              "targetComment": "lěng"
+            },
+            {
+              "uuid": "5D6B59AA-EC02-4CE0-AC5E-30C2CAE35FC5",
+              "source": "to be busy",
+              "target": "忙",
+              "targetComment": "máng"
+            },
+            {
+              "uuid": "67F5CF3A-AEFA-46FA-B742-AC8B93BBF0BA",
+              "source": "Good-bye.",
+              "target": "再見",
+              "targetComment": "zàijiàn"
+            },
+            {
+              "uuid": "C459187C-718F-40B1-9678-5F40FAA40782",
+              "source": "they, them",
+              "target": "他們",
+              "targetComment": "tāmen"
+            },
+            {
+              "uuid": "99AA1FA4-278E-4AF0-A1C0-3A49FF8604BA",
+              "source": "too, also",
+              "target": "也",
+              "targetComment": "yě"
+            },
+            {
+              "uuid": "C2958216-6EE9-4DBA-AAFA-F22D0B17602A",
+              "source": "weather",
+              "target": "天氣",
+              "targetComment": "tiānqì"
+            },
+            {
+              "uuid": "B2FE0067-AEA6-4160-82D8-2415CCCEE1B9",
+              "source": "you (plural)",
+              "target": "你們",
+              "targetComment": "nĭmen"
+            },
+            {
+              "uuid": "C8C9B7EC-B1EE-4AC9-8FF2-D1F3A7365ADC",
+              "source": "to see, to meet",
+              "target": "見",
+              "targetComment": "jiàn"
+            },
+            {
+              "uuid": "CD41C9AE-0890-4B49-8FE1-DBAD3BD031C8",
+              "source": "this",
+              "target": "這",
+              "targetComment": "zhè/zhèi"
+            },
+            {
+              "uuid": "9685D816-1C55-48E7-9C47-9C821FE5623E",
+              "source": "we, us",
+              "target": "我們",
+              "targetComment": "wŏmen"
+            },
+            {
+              "uuid": "B6010BB9-4D5D-4B77-9047-38A15F7FB29E",
+              "source": "wife, Mrs.",
+              "target": "太太",
+              "targetComment": "tàitai"
+            },
+            {
+              "uuid": "B710814E-715D-408F-AB89-1F1BC16608A3",
+              "source": "very, quite",
+              "target": "好",
+              "targetComment": "hăo"
+            }
+          ]
+        },
+        {
+          "uuid": "445A03D6-871E-4F5A-B05F-92F4EA86CD51",
+          "title": "I like to watch movies.",
+          "comment": "Lesson 3",
+          "sort": 60,
+          "words": [
+            {
+              "uuid": "0C13AEC1-EB29-4805-BCFA-F5AF829EDD83",
+              "source": "to be good-looking",
+              "target": "好看",
+              "targetComment": "hăokàn"
+            },
+            {
+              "uuid": "0FE872AA-DA0D-4BE9-9479-8665D88182B7",
+              "source": "vehicle, car",
+              "target": "車",
+              "targetComment": "chē"
+            },
+            {
+              "uuid": "2B423607-85BB-42EA-9005-819B821F4F8F",
+              "source": "fruit juice",
+              "target": "果汁",
+              "targetComment": "guŏzhī"
+            },
+            {
+              "uuid": "2CD9CA04-59CD-471B-B922-C4A1C7C0F3D7",
+              "source": "to want",
+              "target": "要",
+              "targetComment": "yào"
+            },
+            {
+              "uuid": "2A63B634-D91B-4C63-92AD-3FD470B58FFC",
+              "source": "cola",
+              "target": "可樂",
+              "targetComment": "kělè"
+            },
+            {
+              "uuid": "2264BD62-C373-449B-B930-1FF979F07478",
+              "source": "not (have)",
+              "target": "沒",
+              "targetComment": "méi"
+            },
+            {
+              "uuid": "03C91C1E-9CC0-450F-BCAD-FC6048975912",
+              "source": "Germany, German",
+              "target": "德國",
+              "targetComment": "Déguó"
+            },
+            {
+              "uuid": "24EEFCBA-D2E6-4AAC-B59B-2EAFF39D3F58",
+              "source": "to watch, to read, to look at",
+              "target": "看",
+              "targetComment": "kàn"
+            },
+            {
+              "uuid": "3058DA68-99FA-450B-AC37-FC88EC783030",
+              "source": "book",
+              "target": "書",
+              "targetComment": "shū"
+            },
+            {
+              "uuid": "1B4FB39E-04BB-4D98-85C8-65F87B10D867",
+              "source": "to understand",
+              "target": "懂",
+              "targetComment": "dŏng"
+            },
+            {
+              "uuid": "61EECDDC-6A66-491D-BCA5-DF92FCCB2D4E",
+              "source": "both, all",
+              "target": "都",
+              "targetComment": "dōu"
+            },
+            {
+              "uuid": "65B0EE65-5DD8-4850-A54B-C74A60A8E252",
+              "source": "thing, object",
+              "target": "東西",
+              "targetComment": "dōngxi"
+            },
+            {
+              "uuid": "5D1A4295-162B-4281-A0C7-75771646C0EF",
+              "source": "coffee",
+              "target": "咖啡",
+              "targetComment": "kāfēi"
+            },
+            {
+              "uuid": "5050DE1B-3CF3-4E0C-8DAD-375BCF1F7CDE",
+              "source": "TV, TV set",
+              "target": "電視",
+              "targetComment": "diànshì"
+            },
+            {
+              "uuid": "7DA8EBBD-BFB3-4D7F-9E99-748F9319AA4B",
+              "source": "Japanese language",
+              "target": "日文",
+              "targetComment": "Rìwén"
+            },
+            {
+              "uuid": "57C6DD31-4194-4099-885F-4A7B16830156",
+              "source": "Chinese language",
+              "target": "中文",
+              "targetComment": "Zhōngwén"
+            },
+            {
+              "uuid": "5125C68B-72E4-4EB3-9E86-EF92929514BD",
+              "source": "horse",
+              "target": "馬",
+              "targetComment": "mă"
+            },
+            {
+              "uuid": "76AF8E7A-EC5F-4B76-A4C3-014566982C27",
+              "source": "but, however",
+              "target": "可是",
+              "targetComment": "kěshì"
+            },
+            {
+              "uuid": "54378557-CE79-489C-9D4D-EC3F0B147DD7",
+              "source": "France, French",
+              "target": "法國",
+              "targetComment": "Fàguó"
+            },
+            {
+              "uuid": "70E77A47-645B-48D5-AE4B-B0E8369CC85A",
+              "source": "to buy",
+              "target": "買",
+              "targetComment": "măi"
+            },
+            {
+              "uuid": "CEAF9C50-0CDF-41E2-ADA8-42B561DF6D48",
+              "source": "to be expensive",
+              "target": "貴",
+              "targetComment": "guì"
+            },
+            {
+              "uuid": "C47634DC-C670-41E6-9C07-85A11C2B5AB1",
+              "source": "automobile, car",
+              "target": "汽車",
+              "targetComment": "qìchē"
+            },
+            {
+              "uuid": "AA31C954-1393-47D7-A46A-3DDEC9C121FF",
+              "source": "written language",
+              "target": "文",
+              "targetComment": "wén"
+            },
+            {
+              "uuid": "B7239033-4E83-43A4-B7FA-21ECF7BE0E16",
+              "source": "newspaper",
+              "target": "報",
+              "targetComment": "bào"
+            },
+            {
+              "uuid": "D0DE0607-974D-4A66-B9E7-10BE3C83E5BC",
+              "source": "pen (generic writing stylus)",
+              "target": "筆",
+              "targetComment": "bĭ"
+            },
+            {
+              "uuid": "F7A0A90E-2B1E-4CA7-8782-7898B2BF4CB0",
+              "source": "to like, to prefer",
+              "target": "喜歡",
+              "targetComment": "xĭhuān"
+            },
+            {
+              "uuid": "EF866F32-15DB-4091-A166-6F199ABDCF12",
+              "source": "Japan, Japanese",
+              "target": "日本",
+              "targetComment": "Rìběn"
+            },
+            {
+              "uuid": "F5226217-8AC3-4FA8-8FFF-2CAE3C93DCE8",
+              "source": "movie",
+              "target": "電影",
+              "targetComment": "diànyĭng"
+            },
+            {
+              "uuid": "F55EE482-C308-4F3F-9305-416D716F72B8",
+              "source": "to have; there is/are",
+              "target": "有",
+              "targetComment": "yŏu"
+            }
+          ]
+        },
+        {
+          "uuid": "16D1D92C-436D-41B4-961D-48DDE4AC86AD",
+          "title": "How much is this pen?",
+          "comment": "Lesson 4",
+          "sort": 90,
+          "words": [
+            {
+              "uuid": "1FBAE956-ABAB-428F-A9F0-481AB9B64A69",
+              "source": "half",
+              "target": "半",
+              "targetComment": "bàn"
+            },
+            {
+              "uuid": "1D5C4E60-6816-498C-86EA-3FD8B4AE5C4D",
+              "source": "kind, type",
+              "target": "種",
+              "targetComment": "zhŏng"
+            },
+            {
+              "uuid": "207620C6-1EEE-44F8-8539-4A25489104A4",
+              "source": "(polite measure word for people)",
+              "target": "位",
+              "targetComment": "wèi"
+            },
+            {
+              "uuid": "04C6BE9F-5CAF-4EC3-B608-74B0CF6DD69C",
+              "source": "penny, 1 cent",
+              "target": "分",
+              "targetComment": "fēn"
+            },
+            {
+              "uuid": "478A76B2-821D-45CA-BFD6-6D42FAA52292",
+              "source": "volume; (measure word for books)",
+              "target": "本",
+              "targetComment": "běn"
+            },
+            {
+              "uuid": "4582A2F2-64DB-46CD-A408-67972910AACA",
+              "source": "zero",
+              "target": "零",
+              "targetComment": "líng"
+            },
+            {
+              "uuid": "0ED52C36-CA0D-4948-AD76-58F4961D520F",
+              "source": "to please; to invite",
+              "target": "請",
+              "targetComment": "qĭng"
+            },
+            {
+              "uuid": "3AA0ECFD-E4C9-412A-8094-2EC5CFF301DF",
+              "source": "dime, 10 cents",
+              "target": "毛",
+              "targetComment": "máo"
+            },
+            {
+              "uuid": "5ACED6CF-0D8D-4E7C-9A04-E4B97BF63B09",
+              "source": "altogether",
+              "target": "一共",
+              "targetComment": "yígòng"
+            },
+            {
+              "uuid": "53A430DF-0A3E-47BC-82E6-8CB8748BA142",
+              "source": "few, less",
+              "target": "少",
+              "targetComment": "shăo"
+            },
+            {
+              "uuid": "71595D73-8C4A-412E-B364-24273F1950A7",
+              "source": "many, more",
+              "target": "多",
+              "targetComment": "duō"
+            },
+            {
+              "uuid": "65FFDC0C-868F-4FA1-8C3C-2FBCC2CE7494",
+              "source": "change, coins",
+              "target": "零錢",
+              "targetComment": "língqián"
+            },
+            {
+              "uuid": "A41CB0C5-05B3-4EA8-9C48-9437B8A9559D",
+              "source": "cup / cup of",
+              "target": "杯(子)",
+              "targetComment": "bēi(zi)"
+            },
+            {
+              "uuid": "CDF47EC2-0993-415B-9260-6CE142831E05",
+              "source": "to give change to someone after a purchase",
+              "target": "找 (錢)",
+              "targetComment": "zhăo (qián)"
+            },
+            {
+              "uuid": "A7ED2B05-5C5C-4ED9-8A9A-479D25C1053D",
+              "source": "(measure word for stick-like things. e.g. pens, rifles)",
+              "target": "枝",
+              "targetComment": "zhī"
+            },
+            {
+              "uuid": "A2440923-12F5-42A1-A98C-EFCFDA4378C9",
+              "source": "money",
+              "target": "錢",
+              "targetComment": "qián"
+            },
+            {
+              "uuid": "AD6D64BC-865B-45C9-8C97-B757D7C9CBA7",
+              "source": "to give",
+              "target": "給",
+              "targetComment": "gěi"
+            },
+            {
+              "uuid": "BD8541B6-A696-4A2E-B627-83B741DEDEA4",
+              "source": "a piece or lump; (measure word for dollar)",
+              "target": "塊",
+              "targetComment": "kuài"
+            },
+            {
+              "uuid": "E9D60053-CBDE-4922-A209-65E08F5E467B",
+              "source": "(all-purpose measure word)",
+              "target": "個",
+              "targetComment": "ge"
+            },
+            {
+              "uuid": "FE468344-49FF-43CD-A1A5-4117EFABCB39",
+              "source": "two",
+              "target": "兩",
+              "targetComment": "liăng"
+            },
+            {
+              "uuid": "F516C794-2BD7-4992-8737-E2DC1467C83F",
+              "source": "how much, how many (>= 10)",
+              "target": "多少",
+              "targetComment": "duōshăo"
+            },
+            {
+              "uuid": "DF649BA9-77AD-48F8-968A-9B0F24014EA0",
+              "source": "a few, several; how many (>=3, <10)",
+              "target": "幾",
+              "targetComment": "jĭ"
+            },
+            {
+              "uuid": "FF5415E1-8C25-4A89-858E-3B56DA1FAE95",
+              "source": "that",
+              "target": "那",
+              "targetComment": "nà/nèi"
+            }
+          ]
+        },
+        {
+          "uuid": "CEEC3BD2-13F5-4244-B05F-504B4BC98865",
+          "title": "There are five members in my family.",
+          "comment": "Lesson 5",
+          "sort": 114,
+          "words": [
+            {
+              "uuid": "210F112E-2652-4045-91DC-F866B718C368",
+              "source": "uncle (father's elder brother)",
+              "target": "伯伯",
+              "targetComment": "bóbo"
+            },
+            {
+              "uuid": "02A1B9F5-B9A0-4F05-9911-9A20E2F9AD88",
+              "source": "daughter",
+              "target": "女兒",
+              "targetComment": "nǚér"
+            },
+            {
+              "uuid": "264F1891-C2FB-49A1-AC28-B12B98A7F51D",
+              "source": "male",
+              "target": "男",
+              "targetComment": "nán"
+            },
+            {
+              "uuid": "16A40784-BB8B-483F-905D-ECF5D1416B77",
+              "source": "son",
+              "target": "兒子",
+              "targetComment": "érzi"
+            },
+            {
+              "uuid": "4841CDF3-F927-4EC3-920F-68E9A262C0DB",
+              "source": "student",
+              "target": "學生",
+              "targetComment": "xuésheng"
+            },
+            {
+              "uuid": "34743CD3-8DCF-4193-B843-219553C0CF8B",
+              "source": "those",
+              "target": "那些",
+              "targetComment": "nèixiē"
+            },
+            {
+              "uuid": "00ADBC20-E238-4D45-945E-B68014EC1BFE",
+              "source": "dad",
+              "target": "爸爸",
+              "targetComment": "bàba"
+            },
+            {
+              "uuid": "221E7745-D445-41E0-9687-46B408F19B78",
+              "source": "dog",
+              "target": "狗",
+              "targetComment": "gŏu"
+            },
+            {
+              "uuid": "318F6CC7-912C-4E27-A1D2-6C0EE4A698B4",
+              "source": "younger brother",
+              "target": "弟弟",
+              "targetComment": "dìdi"
+            },
+            {
+              "uuid": "47D183D9-836D-4CCF-9DCA-57F9116BFE08",
+              "source": "(cooloq.) woman",
+              "target": "女人",
+              "targetComment": "nǚrén"
+            },
+            {
+              "uuid": "19A7B4C9-8EA9-49B3-9C55-B0D971DCF682",
+              "source": "friend",
+              "target": "朋友",
+              "targetComment": "péngyŏu"
+            },
+            {
+              "uuid": "2B966FDD-7E4A-4854-9BCF-2246D1A02473",
+              "source": "some, some of",
+              "target": "有的",
+              "targetComment": "yŏude"
+            },
+            {
+              "uuid": "6C129446-D92F-4A77-B80E-BDE369CDE360",
+              "source": "boyfriend",
+              "target": "男朋友",
+              "targetComment": "nánpéngyŏu"
+            },
+            {
+              "uuid": "5180736A-8299-4B10-9407-7EBBE8173E92",
+              "source": "older sister",
+              "target": "姐姐",
+              "targetComment": "jiějie"
+            },
+            {
+              "uuid": "965B8E2C-CA28-4D55-909B-6BEAEF60DB42",
+              "source": "man",
+              "target": "男人",
+              "targetComment": "nánrén"
+            },
+            {
+              "uuid": "6843DA1E-2CCB-42C3-9B93-2C179A0E1309",
+              "source": "(measure word for flat things, e.g. paper, table); Zhang (a surname)",
+              "target": "張",
+              "targetComment": "zhāng"
+            },
+            {
+              "uuid": "8506E05F-FA69-455B-ABA7-743008B3850F",
+              "source": "cat",
+              "target": "貓",
+              "targetComment": "māo"
+            },
+            {
+              "uuid": "8CA5ED6D-553F-420D-9AB9-0C6D1B5AD6DC",
+              "source": "boy",
+              "target": "男孩(子)",
+              "targetComment": "nánhái(zi)"
+            },
+            {
+              "uuid": "7BCF52B5-AF5E-4E8F-B945-72C587F28AFE",
+              "source": "to be correct",
+              "target": "對",
+              "targetComment": "duì"
+            },
+            {
+              "uuid": "53BE5184-7A6D-49C1-945F-7C6A85F5A069",
+              "source": "or",
+              "target": "還是",
+              "targetComment": "háishì"
+            },
+            {
+              "uuid": "77FB3137-79C3-4D69-91CA-A0E8BE2F93B8",
+              "source": "mom",
+              "target": "媽媽",
+              "targetComment": "māma"
+            },
+            {
+              "uuid": "7DD90221-22DA-437E-85A8-59836E1021FD",
+              "source": "girlfriend",
+              "target": "女朋友",
+              "targetComment": "nǚpéngyou"
+            },
+            {
+              "uuid": "8B72ACAD-2A44-4020-BF14-6940318F21EE",
+              "source": "these",
+              "target": "這些",
+              "targetComment": "zhèixiē"
+            },
+            {
+              "uuid": "5B759A72-E0A3-4A4A-BF49-3FA616540174",
+              "source": "family; home",
+              "target": "家",
+              "targetComment": "jiā"
+            },
+            {
+              "uuid": "6164BB2F-DD09-4C7E-BC86-B02C9537C70B",
+              "source": "younger sister",
+              "target": "妹妹",
+              "targetComment": "mèimei"
+            },
+            {
+              "uuid": "A2E0BBB9-7012-492A-AF61-70CC1CAE99D7",
+              "source": "older brother",
+              "target": "哥哥",
+              "targetComment": "gēge"
+            },
+            {
+              "uuid": "CB93817D-8C83-4A31-9529-F3E7D119E92C",
+              "source": "(possessive or modifying particle)",
+              "target": "的",
+              "targetComment": "de"
+            },
+            {
+              "uuid": "B3CEDE0A-9162-4BF3-B8E6-3027EA157210",
+              "source": "teacher",
+              "target": "老師",
+              "targetComment": "lăoshī"
+            },
+            {
+              "uuid": "B6BEC85E-B4C4-456D-B8E0-E162361AD511",
+              "source": "girl",
+              "target": "女孩(子)",
+              "targetComment": "nǚhái(zi)"
+            },
+            {
+              "uuid": "C098A86C-DD31-4005-B158-59CA03F60B5C",
+              "source": "to study",
+              "target": "學",
+              "targetComment": "xué"
+            },
+            {
+              "uuid": "CE1CAE2F-877D-423B-90AC-D90E1EC9B3A5",
+              "source": "photograph",
+              "target": "像片兒",
+              "targetComment": "xiàngpiānr"
+            },
+            {
+              "uuid": "FAD87AE5-3B50-4E8C-894C-60A493D03931",
+              "source": "female",
+              "target": "女",
+              "targetComment": "nǚ"
+            },
+            {
+              "uuid": "F948BFF9-ED2C-46E2-9080-BC7CAF9BBB43",
+              "source": "some, a few",
+              "target": "一些",
+              "targetComment": "yìxiē"
+            },
+            {
+              "uuid": "DFAFA932-7EEB-4E3B-BE1B-A619BA18FF3F",
+              "source": "child",
+              "target": "孩子",
+              "targetComment": "háizi"
+            }
+          ]
+        },
+        {
+          "uuid": "2C9B6A78-BB1F-4628-B957-C2EC2C9E4D39",
+          "title": "I'm thinking about buying a new camera.",
+          "comment": "Lesson 6",
+          "sort": 149,
+          "words": [
+            {
+              "uuid": "39D61D53-E9D2-4D6C-9007-5CA72511BB32",
+              "source": "ten thousand",
+              "target": "萬",
+              "targetComment": "wàn"
+            },
+            {
+              "uuid": "274F91A5-37F0-4815-A249-E775E1ED32F1",
+              "source": "school",
+              "target": "學校",
+              "targetComment": "xuéxiào"
+            },
+            {
+              "uuid": "34469444-7309-48E2-A7FB-EEC3E7BFC9CB",
+              "source": "to be small",
+              "target": "小",
+              "targetComment": "xiăo"
+            },
+            {
+              "uuid": "294D5ACE-0329-42ED-BAEC-8279BF092AA8",
+              "source": "(indicates excessiveness, completion of action, change of state, and imminent action)",
+              "target": "了",
+              "targetComment": "le"
+            },
+            {
+              "uuid": "301CFB42-C656-460B-98D1-840219ED633A",
+              "source": "Excuse me, may I ask...",
+              "target": "請問",
+              "targetComment": "qĭng wèn"
+            },
+            {
+              "uuid": "11E9AF5C-A4CA-41FC-B8A5-E027677F6968",
+              "source": "to ask",
+              "target": "問",
+              "targetComment": "wèn"
+            },
+            {
+              "uuid": "29B03014-F700-4AA3-80CB-E56A43D8F04A",
+              "source": "machine",
+              "target": "機",
+              "targetComment": "jī"
+            },
+            {
+              "uuid": "229FFD4F-FAB5-4EFC-A8BB-7487F3E6EC48",
+              "source": "to be large",
+              "target": "大",
+              "targetComment": "dà"
+            },
+            {
+              "uuid": "34B7D814-4653-4B2D-8EA2-40B54E0FD80F",
+              "source": "only",
+              "target": "只",
+              "targetComment": "zhĭ"
+            },
+            {
+              "uuid": "82EE348C-47FE-4795-AE55-B3C3FC598C6D",
+              "source": "to be cheap/inexpensive",
+              "target": "便宜",
+              "targetComment": "piányí"
+            },
+            {
+              "uuid": "6ADDB6C8-4A22-4337-93C5-C60F4CC143F9",
+              "source": "wristwatch",
+              "target": "錶",
+              "targetComment": "biăo"
+            },
+            {
+              "uuid": "81D983E3-062D-4033-9998-380F1DAD3DE1",
+              "source": "to be new / newly",
+              "target": "新",
+              "targetComment": "xīn"
+            },
+            {
+              "uuid": "80D6C589-A2B3-4C2B-83E5-FB1BDEF3E91A",
+              "source": "hundred million",
+              "target": "億",
+              "targetComment": "yì"
+            },
+            {
+              "uuid": "88F58BA0-8B51-4065-A0EA-31FC65A880F2",
+              "source": "to know (something)",
+              "target": "知道",
+              "targetComment": "zhīdào"
+            },
+            {
+              "uuid": "7E79F3D4-7325-4CF7-824C-A56A40B92E29",
+              "source": "to want to, to plan to / to think, to miss",
+              "target": "想",
+              "targetComment": "xiăng"
+            },
+            {
+              "uuid": "57DA778B-8D33-417A-9AD1-3C81F11DCB34",
+              "source": "really",
+              "target": "真",
+              "targetComment": "zhēn"
+            },
+            {
+              "uuid": "599F4AC9-7AAC-4D2E-91FC-8B6BF7B4A938",
+              "source": "to be famous",
+              "target": "有名",
+              "targetComment": "yŏumíng"
+            },
+            {
+              "uuid": "6BD63CFF-2CFA-4B5E-A053-06530ADC41FC",
+              "source": "to be old, to be used",
+              "target": "舊",
+              "targetComment": "jiù"
+            },
+            {
+              "uuid": "83A4F530-8F84-474E-B32B-C3D23207C59A",
+              "source": "camera",
+              "target": "照像機",
+              "targetComment": "zhàoxiàngjī"
+            },
+            {
+              "uuid": "954276FF-F5F4-48BD-8E16-735DE1E1322D",
+              "source": "goods, products, a commodity",
+              "target": "貨",
+              "targetComment": "huò"
+            },
+            {
+              "uuid": "53D35F89-78E2-43E5-B977-429D820EAD76",
+              "source": "to photograph",
+              "target": "照",
+              "targetComment": "zhào"
+            },
+            {
+              "uuid": "D469FB44-3F44-4297-9C27-05CB1F6B2E77",
+              "source": "hundred",
+              "target": "百",
+              "targetComment": "băi"
+            },
+            {
+              "uuid": "99E80D81-438B-4398-8120-5C693344E166",
+              "source": "to sell",
+              "target": "賣",
+              "targetComment": "mài"
+            },
+            {
+              "uuid": "99E95D72-87E9-48DD-9FD3-453682A692BD",
+              "source": "university, college",
+              "target": "大學",
+              "targetComment": "dàxué"
+            },
+            {
+              "uuid": "D1B5129F-7719-43E3-936B-1CA342608460",
+              "source": "to be enough",
+              "target": "夠",
+              "targetComment": "gòu"
+            },
+            {
+              "uuid": "F5E657E0-4EBA-4EAC-ACD4-FC244C6831B1",
+              "source": "to feel, to think, to consider",
+              "target": "覺得",
+              "targetComment": "juéde"
+            },
+            {
+              "uuid": "F6FC60C4-9FB2-49CE-9D82-EAFFACAE4022",
+              "source": "thousand",
+              "target": "千",
+              "targetComment": "qiān"
+            },
+            {
+              "uuid": "E9878BDE-C836-4E3F-BCB8-9798FC6A73B6",
+              "source": "camera (short form)",
+              "target": "像機",
+              "targetComment": "xiàngjī"
+            }
+          ]
+        },
+        {
+          "uuid": "8FBB55DE-F8A1-41BE-A0BC-8B0A9F615E9F",
+          "title": "Your French really sounds nice.",
+          "comment": "Lesson 7",
+          "sort": 178,
+          "words": [
+            {
+              "uuid": "1DFF20F6-7FD6-4124-A9A8-FD03FF93B522",
+              "source": "matter, affair, work",
+              "target": "事",
+              "targetComment": "shì"
+            },
+            {
+              "uuid": "0034737F-597A-4495-8F57-2DFBC841A063",
+              "source": "a little",
+              "target": "一點兒",
+              "targetComment": "yìdiănr"
+            },
+            {
+              "uuid": "407508CE-07DF-46C0-9555-2FBDB2A29764",
+              "source": "meaning, idea, definition",
+              "target": "意思",
+              "targetComment": "yìsi"
+            },
+            {
+              "uuid": "12444192-92E5-483D-BE12-8B122AD4B0D8",
+              "source": "to sing",
+              "target": "唱",
+              "targetComment": "chàng"
+            },
+            {
+              "uuid": "3019443A-6BA3-4CED-9989-D909955B20CA",
+              "source": "wine, liquor",
+              "target": "酒",
+              "targetComment": "jiŭ"
+            },
+            {
+              "uuid": "101AABD8-42DF-4CEF-BA03-D684BE0F602F",
+              "source": "painting, picture",
+              "target": "畫兒",
+              "targetComment": "huàr"
+            },
+            {
+              "uuid": "1E943B76-64DC-41CB-B8F7-B6CFBE8C8AAC",
+              "source": "to be slow / slowly",
+              "target": "慢",
+              "targetComment": "màn"
+            },
+            {
+              "uuid": "3BC59F77-0DD0-41D9-87E2-8A1B9B5444F0",
+              "source": "to do, to make",
+              "target": "做",
+              "targetComment": "zuò"
+            },
+            {
+              "uuid": "0F07288D-36C5-43F6-8E27-54BD4BACC6D2",
+              "source": "words, spoken language",
+              "target": "話",
+              "targetComment": "huà"
+            },
+            {
+              "uuid": "436C8279-E1B3-4FCC-859D-6DCA2B483027",
+              "source": "now, right now [for non-action]",
+              "target": "現在",
+              "targetComment": "xiànzài"
+            },
+            {
+              "uuid": "22A69580-8C83-4C37-A518-56F1170411D8",
+              "source": "still, yet",
+              "target": "還",
+              "targetComment": "hái"
+            },
+            {
+              "uuid": "7A3D8D05-4666-4E57-8BAA-727EE28D5E77",
+              "source": "can, may, be permitted",
+              "target": "可以",
+              "targetComment": "kěyĭ"
+            },
+            {
+              "uuid": "8AA78FC9-F5F6-46C7-88F3-205F133092CC",
+              "source": "(a particle indicating the situation or state of affairs is being sustained)",
+              "target": "呢",
+              "targetComment": "ne"
+            },
+            {
+              "uuid": "59ED46B0-2D82-466E-9BA3-02BBCB827667",
+              "source": "to teach",
+              "target": "教",
+              "targetComment": "jiaō"
+            },
+            {
+              "uuid": "7D765D20-97A4-43AC-9721-6AEC1E323B01",
+              "source": "to read/study book(s)",
+              "target": "念書",
+              "targetComment": "niàn shū"
+            },
+            {
+              "uuid": "73856EEA-D7CC-429F-941A-601A4BFDC4CD",
+              "source": "to read aloud, to study",
+              "target": "念",
+              "targetComment": "niàn"
+            },
+            {
+              "uuid": "7B621D64-1A5A-45A7-9A78-AFEC3D2F18BA",
+              "source": "to say, to speak",
+              "target": "說",
+              "targetComment": "shuō"
+            },
+            {
+              "uuid": "7ACBC8E9-B2AA-4FA0-A910-FCC51E236128",
+              "source": "to eat",
+              "target": "吃",
+              "targetComment": "chī"
+            },
+            {
+              "uuid": "7A2AAB55-4810-4204-801D-731A659852CD",
+              "source": "to drink",
+              "target": "喝",
+              "targetComment": "hē"
+            },
+            {
+              "uuid": "6DDA750D-7A17-4A5A-A961-C8D0F7C2FFD8",
+              "source": "to speak, to say, to talk (words)",
+              "target": "說話",
+              "targetComment": "shuō huà"
+            },
+            {
+              "uuid": "B754BD24-E772-43EE-A73C-94E10125022D",
+              "source": "to be interesting",
+              "target": "有意思",
+              "targetComment": "yŏuyìsi"
+            },
+            {
+              "uuid": "9912CCCC-763F-43F8-B43B-6DD1F578E86E",
+              "source": "(written) character",
+              "target": "字",
+              "targetComment": "zì"
+            },
+            {
+              "uuid": "BD9DD5BC-FE54-40BC-A7A5-80D672D3C44A",
+              "source": "(measure word for songs)",
+              "target": "首",
+              "targetComment": "shŏu"
+            },
+            {
+              "uuid": "B2F581D6-BE8B-458C-924B-745CBC152DFF",
+              "source": "to teach (books)",
+              "target": "教書",
+              "targetComment": "jiaōshū"
+            },
+            {
+              "uuid": "B0DA76CD-628D-4518-A35C-392981DE5948",
+              "source": "song",
+              "target": "歌(兒)",
+              "targetComment": "gē(r)"
+            },
+            {
+              "uuid": "C462351A-3199-44FF-8BAD-78224D3B1C23",
+              "source": "to write characters",
+              "target": "寫字",
+              "targetComment": "xiězì"
+            },
+            {
+              "uuid": "BCAF768C-2B6E-48C8-BCB3-AD24E138BE9F",
+              "source": "to listen",
+              "target": "聽",
+              "targetComment": "tīng"
+            },
+            {
+              "uuid": "9A7CFD3A-6A6B-4E7A-ABFE-ADDCC83A3296",
+              "source": "food, meal; (cooked) rice",
+              "target": "飯",
+              "targetComment": "fàn"
+            },
+            {
+              "uuid": "98202CF5-E87F-411E-9F3E-7E892AF3DECA",
+              "source": "to paint, to draw",
+              "target": "畫",
+              "targetComment": "huà"
+            },
+            {
+              "uuid": "9C888EA0-8CA1-4082-80FF-D77129AB2FC6",
+              "source": "(of food) dish, cuisine",
+              "target": "菜",
+              "targetComment": "cài"
+            },
+            {
+              "uuid": "A2A74EDB-624F-444E-B391-E2D7799AB916",
+              "source": "to be pleasant to listen to, pleasing to the ear, nice sounding",
+              "target": "好聽",
+              "targetComment": "hăotīng"
+            },
+            {
+              "uuid": "A7D9FCF9-B02F-4003-953F-D0FFBDF5E254",
+              "source": "to write",
+              "target": "寫",
+              "targetComment": "xiě"
+            },
+            {
+              "uuid": "9E1D85FA-CF1B-40C7-BE0F-ACE6D32EE059",
+              "source": "to cook food",
+              "target": "做飯",
+              "targetComment": "zuòfàn"
+            },
+            {
+              "uuid": "F38C5FA8-77A8-4338-8376-A5DB0EBFAAC2",
+              "source": "to be fast / quickly",
+              "target": "快",
+              "targetComment": "kuài"
+            },
+            {
+              "uuid": "E99513BD-E46F-45C4-8569-246795AB59A7",
+              "source": "to do things, to do work, to take care of things",
+              "target": "做事",
+              "targetComment": "zuòshì"
+            },
+            {
+              "uuid": "E9A0814F-0DB0-43A1-A5E8-D85E79AA7D72",
+              "source": "to be difficult",
+              "target": "難",
+              "targetComment": "nán"
+            },
+            {
+              "uuid": "E27974CD-6720-4B3C-B73A-196C0ABCB00B",
+              "source": "slightly, a little bit, somewhat",
+              "target": "有一點兒",
+              "targetComment": "yoŭ yìdiănr"
+            },
+            {
+              "uuid": "ED6CEC32-FE0C-4EA5-B3B9-C6008CD8B0C8",
+              "source": "can, be physically able to",
+              "target": "能",
+              "targetComment": "néng"
+            },
+            {
+              "uuid": "E9291011-E02E-41B2-9EB3-ADDA2BFDE038",
+              "source": "to paint, to draw (an image)",
+              "target": "畫畫兒",
+              "targetComment": "huàhuàr"
+            },
+            {
+              "uuid": "E75E438C-7E88-4F5C-9A09-001223399DEB",
+              "source": "(indicating that action is in progress)",
+              "target": "在",
+              "targetComment": "zài"
+            },
+            {
+              "uuid": "EC986220-042F-4E7B-A633-ED5B75CF9C1F",
+              "source": "can, know how to",
+              "target": "會",
+              "targetComment": "huì"
+            },
+            {
+              "uuid": "FBF512AB-D73D-4361-ADB9-7495639DC12D",
+              "source": "(a particle used between a verb or adjective and its compliment to indicate manner or degree)",
+              "target": "得",
+              "targetComment": "de"
+            }
+          ]
+        },
+        {
+          "uuid": "9C32DECE-0E6B-45CB-9B48-9B2D0F2F95B3",
+          "title": "This is our newly purchased television.",
+          "comment": "Lesson 8",
+          "sort": 221,
+          "words": [
+            {
+              "uuid": "0533E686-B95E-4CEA-B1A8-D428850DAF4C",
+              "source": "often, usually, generally",
+              "target": "常 (常)",
+              "targetComment": "cháng (cháng)"
+            },
+            {
+              "uuid": "3203E609-1178-4532-8259-9BBD54C94490",
+              "source": "(measure word for clothes, things, affairs, etc.)",
+              "target": "件",
+              "targetComment": "jiàn"
+            },
+            {
+              "uuid": "0BE705A9-66C9-4D33-B9DE-75A9E45B61DA",
+              "source": "to love / be apt to",
+              "target": "愛",
+              "targetComment": "ài"
+            },
+            {
+              "uuid": "312F1948-2218-4BB7-83EB-120610AFDAD8",
+              "source": "the most, (-est)",
+              "target": "最",
+              "targetComment": "zuì"
+            },
+            {
+              "uuid": "499791F9-0AB6-43CD-B62C-877EF0EE2B85",
+              "source": "Oh!",
+              "target": "噢",
+              "targetComment": "òu"
+            },
+            {
+              "uuid": "0CD9A1DF-2957-4897-BEE7-350D97600361",
+              "source": "mother, female",
+              "target": "母",
+              "targetComment": "mŭ"
+            },
+            {
+              "uuid": "08DCD6F8-69DF-41FB-8999-BD71A2A587D3",
+              "source": "clothes, clothing",
+              "target": "衣服",
+              "targetComment": "yīfú"
+            },
+            {
+              "uuid": "37358834-A98D-4CA4-93D5-9BDA829C7C82",
+              "source": "foreign, foreign country",
+              "target": "外國",
+              "targetComment": "waìguó"
+            },
+            {
+              "uuid": "59A9217B-8AE0-4E32-BA6F-2B02CE19C036",
+              "source": "father, male relative",
+              "target": "父",
+              "targetComment": "fù"
+            },
+            {
+              "uuid": "60E27A84-B828-4EB5-89C4-20602ECA2C41",
+              "source": "just, exactly, only",
+              "target": "就",
+              "targetComment": "jiù"
+            },
+            {
+              "uuid": "82A0747D-B972-41D7-A82B-828AE246A2EF",
+              "source": "parents",
+              "target": "父母",
+              "targetComment": "fùmŭ"
+            },
+            {
+              "uuid": "91D7F28F-0CDE-46F3-A58D-DEDE148CD8D1",
+              "source": "(TV, radio) program, performance",
+              "target": "節目",
+              "targetComment": "jiémù"
+            },
+            {
+              "uuid": "944C0F2F-3EAF-42BA-8BEA-85022898B31D",
+              "source": "businessman",
+              "target": "做生意的",
+              "targetComment": "zuòshēngyìde"
+            },
+            {
+              "uuid": "70E04DDA-145F-4BE9-8D9D-3A786D20CEB4",
+              "source": "to be not bad, pretty good",
+              "target": "不錯",
+              "targetComment": "búcuò"
+            },
+            {
+              "uuid": "55A3C2DF-7F68-40DE-BCD0-9D27D1A97C39",
+              "source": "therefore, so",
+              "target": "所以",
+              "targetComment": "suŏyĭ"
+            },
+            {
+              "uuid": "8A8963AA-AF06-4BB6-B1F7-667112D02AC6",
+              "source": "calligraphy",
+              "target": "書法",
+              "targetComment": "shūfă"
+            },
+            {
+              "uuid": "7BE613DB-DB2C-4A46-9874-65C72CF6DE00",
+              "source": "to wear, to put on (clothing only)",
+              "target": "穿",
+              "targetComment": "chuān"
+            },
+            {
+              "uuid": "919473FB-707D-4D86-B014-101DBF75203C",
+              "source": "blood relation, relative",
+              "target": "親",
+              "targetComment": "qīn"
+            },
+            {
+              "uuid": "C1C57789-24C5-4EEA-93A8-9B23070AF51B",
+              "source": "business, trade",
+              "target": "生意",
+              "targetComment": "shēngyì"
+            },
+            {
+              "uuid": "C5500CF9-BF5A-4017-874E-6CC8DEF18B87",
+              "source": "to be easy",
+              "target": "容易",
+              "targetComment": "róngyì"
+            },
+            {
+              "uuid": "9718E39B-9CBC-4B6C-80B8-07200B9D1986",
+              "source": "to dance",
+              "target": "跳舞",
+              "targetComment": "tiào wŭ"
+            },
+            {
+              "uuid": "A4D4B73A-76DA-4DF5-96E0-1DFB1A9315A9",
+              "source": "certainly, indeed, surely",
+              "target": "一定",
+              "targetComment": "yídìng"
+            },
+            {
+              "uuid": "CDC16B7C-F1D7-4200-837B-93DA9BF12C98",
+              "source": "to be wrong / mistake",
+              "target": "錯",
+              "targetComment": "cuò"
+            },
+            {
+              "uuid": "BDE2AF13-E35C-438F-97ED-51657BF86350",
+              "source": "mother",
+              "target": "母親",
+              "targetComment": "mŭqīn"
+            },
+            {
+              "uuid": "C7BD1C06-D286-4E1F-806B-558AA3226427",
+              "source": "tea",
+              "target": "茶",
+              "targetComment": "chá"
+            },
+            {
+              "uuid": "D2BB9ADC-8685-4EA0-8192-CAE9B6D4273F",
+              "source": "right, correct, by the way [change the topic]",
+              "target": "對了",
+              "targetComment": "duìle"
+            },
+            {
+              "uuid": "B987571D-5196-44D5-B448-7F21D9A62A84",
+              "source": "why",
+              "target": "為什麼",
+              "targetComment": "wèishénme"
+            },
+            {
+              "uuid": "C84AF22B-B9B3-474C-84F4-7960487E7010",
+              "source": "to have money, to be rich",
+              "target": "有錢",
+              "targetComment": "yŏuqián"
+            },
+            {
+              "uuid": "ABE1A128-9B2F-4615-ABA7-C6B8E1ADAA27",
+              "source": "a painter (an artist)",
+              "target": "畫家",
+              "targetComment": "huàjiā"
+            },
+            {
+              "uuid": "9EEB22EC-657A-4F05-9DDC-83AD65AFDBA3",
+              "source": "because",
+              "target": "因為",
+              "targetComment": "yīnwèi"
+            },
+            {
+              "uuid": "C7CA583A-827A-4B89-8E02-4015679A8C39",
+              "source": "water",
+              "target": "水",
+              "targetComment": "shuĭ"
+            },
+            {
+              "uuid": "CEABC80A-3465-4CD7-BE77-BF3B41538B95",
+              "source": "hear, hear it said",
+              "target": "聽說",
+              "targetComment": "tīngshuō"
+            },
+            {
+              "uuid": "BC70FF5A-B52F-470C-BA65-3DA075DA8DE2",
+              "source": "father",
+              "target": "父親",
+              "targetComment": "fùqīn"
+            },
+            {
+              "uuid": "B8AE3F93-6C4E-4187-B9B3-EABEBDDB2825",
+              "source": "outside, exterior / foreign",
+              "target": "外",
+              "targetComment": "wài"
+            },
+            {
+              "uuid": "DA5E1C60-8AAB-4590-B88E-48F60772F89F",
+              "source": "a cook",
+              "target": "做飯的(人)",
+              "targetComment": "zuòfànde(rén)"
+            }
+          ]
+        },
+        {
+          "uuid": "75C558FC-2C0E-4C72-9773-952074447703",
+          "title": "Where is your school?",
+          "comment": "Lesson 9",
+          "sort": 257,
+          "words": [
+            {
+              "uuid": "26EC8EA4-4004-45AC-911B-900E7CA9B811",
+              "source": "living room",
+              "target": "客廳",
+              "targetComment": "kètīng"
+            },
+            {
+              "uuid": "01C605AD-8C70-45F5-A51E-950A337A3EDB",
+              "source": "desk",
+              "target": "書桌",
+              "targetComment": "shūzhuō"
+            },
+            {
+              "uuid": "058E2D86-B295-482A-BF97-CB6EA74F4F5B",
+              "source": "the earth, land, soil, floor",
+              "target": "地",
+              "targetComment": "dì"
+            },
+            {
+              "uuid": "39011AA5-B7E6-43B5-9A3C-E7071B29BA89",
+              "source": "floor, story",
+              "target": "樓",
+              "targetComment": "lóu"
+            },
+            {
+              "uuid": "2ED07ADC-E9F9-4D3D-B675-9F01D6F23F3C",
+              "source": "house",
+              "target": "房(子)",
+              "targetComment": "fáng(zi)"
+            },
+            {
+              "uuid": "06FE9A38-8FC6-4730-A35D-D5B8ECF429E3",
+              "source": "side",
+              "target": "邊",
+              "targetComment": "biān"
+            },
+            {
+              "uuid": "2549363D-C2E9-4BA5-AB10-5CEAAD0749E0",
+              "source": "here, over here",
+              "target": "這邊",
+              "targetComment": "zhèibiān"
+            },
+            {
+              "uuid": "0AC58F70-59BB-46E5-8D32-AB0A307E45EE",
+              "source": "to be far from",
+              "target": "遠",
+              "targetComment": "yuăn"
+            },
+            {
+              "uuid": "101D0407-AC65-4ED5-A859-E8E9D0DB7EEE",
+              "source": "there, over there",
+              "target": "那邊",
+              "targetComment": "nèibiān"
+            },
+            {
+              "uuid": "3612F7C4-2227-488D-9B62-618EB9128F03",
+              "source": "(measure word for stores)",
+              "target": "家",
+              "targetComment": "jiā"
+            },
+            {
+              "uuid": "1C64E7D0-5962-4FBE-A3D8-1BDE144A9116",
+              "source": "upstairs",
+              "target": "樓上",
+              "targetComment": "lóushàng"
+            },
+            {
+              "uuid": "50358B12-DDDC-461D-AF8D-8BF3D440D39F",
+              "source": "outside",
+              "target": "外面",
+              "targetComment": "wàimiàn"
+            },
+            {
+              "uuid": "7F0EF246-7C68-4669-925E-507CFAA0C8F4",
+              "source": "place",
+              "target": "地方",
+              "targetComment": "dìfang"
+            },
+            {
+              "uuid": "7C3DBD37-3D49-4260-AC00-6848F90E09C1",
+              "source": "down, under",
+              "target": "下",
+              "targetComment": "xià"
+            },
+            {
+              "uuid": "8C978B89-5102-43CC-8CD6-1D184CC7B04A",
+              "source": "where",
+              "target": "哪裡",
+              "targetComment": "năli"
+            },
+            {
+              "uuid": "5AE23F0C-4332-4A3C-92BC-2F1F82A273E3",
+              "source": "where",
+              "target": "哪兒",
+              "targetComment": "năr"
+            },
+            {
+              "uuid": "7224663F-3FF2-45E4-B4C4-38AF79305A55",
+              "source": "room",
+              "target": "屋子",
+              "targetComment": "wūzi"
+            },
+            {
+              "uuid": "4C5734D7-CBB5-462D-B0E7-3C8952F6005A",
+              "source": "nearby",
+              "target": "附近",
+              "targetComment": "fùjìn"
+            },
+            {
+              "uuid": "6B4A642E-3B0E-4139-8220-B788936BD11B",
+              "source": "(measure word for buildings)",
+              "target": "所",
+              "targetComment": "suŏ"
+            },
+            {
+              "uuid": "6298505F-F91B-4090-A731-146562D9C5C7",
+              "source": "inside",
+              "target": "裡面",
+              "targetComment": "lĭmiàn"
+            },
+            {
+              "uuid": "95E3580D-0BC5-4A1C-A969-2E9FC2966476",
+              "source": "road",
+              "target": "路",
+              "targetComment": "lù"
+            },
+            {
+              "uuid": "631C3C5A-4D66-471A-98CA-346E00E13821",
+              "source": "downstairs",
+              "target": "樓下",
+              "targetComment": "lóuxià"
+            },
+            {
+              "uuid": "5447DF25-6A8C-4A3E-A289-A2B53DC820D7",
+              "source": "tall building, skyscraper",
+              "target": "大樓",
+              "targetComment": "dàlóu"
+            },
+            {
+              "uuid": "8443DA35-8800-4BF0-ACEE-E00479D2C648",
+              "source": "front, forward, before",
+              "target": "前",
+              "targetComment": "qián"
+            },
+            {
+              "uuid": "7186B0BB-9AAE-42A1-BFCE-AF64A0638CAE",
+              "source": "to be near",
+              "target": "近",
+              "targetComment": "jìn"
+            },
+            {
+              "uuid": "88E4363D-63FA-42D7-BE2A-A12B495656A8",
+              "source": "study (room)",
+              "target": "書房",
+              "targetComment": "shūfáng"
+            },
+            {
+              "uuid": "C5CC3A5A-DDF4-4E3C-B4F2-D5BA3844619E",
+              "source": "here",
+              "target": "這裡 / 這兒",
+              "targetComment": "zhèlĭ / zhèr"
+            },
+            {
+              "uuid": "BC8CD3F6-B273-43DB-A2E7-CE07A6D93AEE",
+              "source": "under, below",
+              "target": "下面",
+              "targetComment": "xiàmiàn"
+            },
+            {
+              "uuid": "B38C7986-2596-4454-8E08-DAAB969180C9",
+              "source": "underneath, below, beneath",
+              "target": "底下",
+              "targetComment": "dĭxià"
+            },
+            {
+              "uuid": "D13D114C-7F84-411C-AC2D-76DFDAA0F793",
+              "source": "to be (at, in, on, etc.)",
+              "target": "在",
+              "targetComment": "zài"
+            },
+            {
+              "uuid": "B8CA5684-BA38-4DD3-ADE7-23ED3CBADE75",
+              "source": "to be convenient",
+              "target": "方便",
+              "targetComment": "fāngbiàn"
+            },
+            {
+              "uuid": "CD952777-F697-4468-98D5-005CAC5BC9BB",
+              "source": "above, up there",
+              "target": "上面",
+              "targetComment": "shàngmiàn"
+            },
+            {
+              "uuid": "A5BC1B50-79FF-437C-A53F-097C9159B8D9",
+              "source": "store, shop",
+              "target": "店",
+              "targetComment": "diàn"
+            },
+            {
+              "uuid": "B97A06B2-9DB0-4FEE-97A2-D9DFD2B1DFB1",
+              "source": "library",
+              "target": "圖書館",
+              "targetComment": "túshūguăn"
+            },
+            {
+              "uuid": "AB6CEBBD-B48A-4704-97FE-F819CF548F4F",
+              "source": "elementary school",
+              "target": "小學",
+              "targetComment": "xiăoxué"
+            },
+            {
+              "uuid": "B25B9C6D-5020-42A3-B950-EEA0BF1A02F9",
+              "source": "well, in that case",
+              "target": "那麼",
+              "targetComment": "nàme"
+            },
+            {
+              "uuid": "B661342A-5845-49DD-B05B-24832B8BEAF5",
+              "source": "(measure word for rooms)",
+              "target": "間",
+              "targetComment": "jiān"
+            },
+            {
+              "uuid": "9BD4BBDF-C5EE-4A1E-8BE7-15BF0F8AE847",
+              "source": "after, behind",
+              "target": "後",
+              "targetComment": "hòu"
+            },
+            {
+              "uuid": "B4816B6E-308D-4A12-9149-9F33AFBE2E76",
+              "source": "wall",
+              "target": "牆",
+              "targetComment": "qiáng"
+            },
+            {
+              "uuid": "CF83A4FB-225C-4632-B662-287AF13182F9",
+              "source": "above, up there",
+              "target": "上面",
+              "targetComment": "shàngmiàn"
+            },
+            {
+              "uuid": "AD329D1E-C7FD-4DFB-9735-4DF31797F0ED",
+              "source": "up, on",
+              "target": "上",
+              "targetComment": "shàng"
+            },
+            {
+              "uuid": "D9F54350-7DB8-44C5-A045-F338B57B193C",
+              "source": "there",
+              "target": "那裡 / 那兒",
+              "targetComment": "nàlĭ / nàr"
+            },
+            {
+              "uuid": "A47C8D43-2859-4F87-AA6C-2BAFDA19378F",
+              "source": "restaurant (esp. cheap & small)",
+              "target": "飯館(兒)",
+              "targetComment": "fànguăn(r)"
+            },
+            {
+              "uuid": "CC3A0176-8101-4A25-A456-A4B57D197706",
+              "source": "dining room",
+              "target": "飯廳",
+              "targetComment": "fàntīng"
+            },
+            {
+              "uuid": "C7CDE250-5A82-4571-B78B-15F0BD094470",
+              "source": "behind, back",
+              "target": "後面",
+              "targetComment": "hòumiàn"
+            },
+            {
+              "uuid": "E6203D5D-2F1B-4950-9608-552F317CC4BA",
+              "source": "bookstore",
+              "target": "書店",
+              "targetComment": "shūdiàn"
+            },
+            {
+              "uuid": "F853EEEA-E2BB-46C2-B954-8342DEB13B56",
+              "source": "table",
+              "target": "桌(子)",
+              "targetComment": "zhuō(zi)"
+            },
+            {
+              "uuid": "EDE6A95C-897A-438D-901E-13778239C364",
+              "source": "chair",
+              "target": "椅(子)",
+              "targetComment": "yĭ(zi)"
+            },
+            {
+              "uuid": "EA3FAE76-1BB8-4DA2-A1A8-1CADFDDCE19E",
+              "source": "ahead, in front of",
+              "target": "前面",
+              "targetComment": "qiánmiàn"
+            },
+            {
+              "uuid": "E75A72E1-458C-4A97-9670-7900245A61B3",
+              "source": "store",
+              "target": "商店",
+              "targetComment": "shāngdiàn"
+            },
+            {
+              "uuid": "FA6EE1C1-D916-496A-B22C-44072730534E",
+              "source": "room (esp. a personal room)",
+              "target": "房間",
+              "targetComment": "fángjiān"
+            },
+            {
+              "uuid": "ECB43B88-2931-485B-97F7-B9DA02D527E6",
+              "source": "beside",
+              "target": "旁邊",
+              "targetComment": "pángbiān"
+            },
+            {
+              "uuid": "FA888F9E-7B11-490B-ABF4-56B600327CF6",
+              "source": "be away from, apart from, separated from",
+              "target": "離",
+              "targetComment": "lí"
+            },
+            {
+              "uuid": "DD3E4C6C-F2A4-4923-8A70-18A19F8DC3F1",
+              "source": "in",
+              "target": "裡",
+              "targetComment": "li"
+            },
+            {
+              "uuid": "E5DE315B-4001-4B5E-8BFA-BF42A23BCEA4",
+              "source": "face, surface, side",
+              "target": "面",
+              "targetComment": "miàn"
+            }
+          ]
+        },
+        {
+          "uuid": "C0AB4781-E3C1-4D2C-A694-6A6D52D14676",
+          "title": "I went to Japan.",
+          "comment": "Lesson 10",
+          "sort": 313,
+          "words": [
+            {
+              "uuid": "36B47E56-AE73-4865-9AC4-21CB6E3B6C71",
+              "source": "yesterday",
+              "target": "昨天",
+              "targetComment": "zuótiān"
+            },
+            {
+              "uuid": "11BE1C72-C8C4-4066-B336-58DD755228B8",
+              "source": "to be late",
+              "target": "晚",
+              "targetComment": "wăn"
+            },
+            {
+              "uuid": "3210F35D-1637-4B3A-A844-437CFAE644A0",
+              "source": "today",
+              "target": "今天",
+              "targetComment": "jīntiān"
+            },
+            {
+              "uuid": "183037AC-4EAB-4BC5-AC03-471B08E0EE86",
+              "source": "to look for, to search",
+              "target": "找",
+              "targetComment": "zhăo"
+            },
+            {
+              "uuid": "65D585EF-1BE7-4062-BBF8-914397921316",
+              "source": "tomorrow",
+              "target": "明天",
+              "targetComment": "míngtiān"
+            },
+            {
+              "uuid": "554F45D8-F11C-4B5D-9FB4-446901520301",
+              "source": "How about...?, How's everything?; (by itself, this is a challenge to fight)",
+              "target": "怎麼樣",
+              "targetComment": "zěnmeyàng"
+            },
+            {
+              "uuid": "B683F50E-ACD4-4070-8608-6593CE0230AC",
+              "source": "to be OK, to be nothing special",
+              "target": "還好",
+              "targetComment": "háihăo"
+            },
+            {
+              "uuid": "A5C2ADB9-5BA5-45C6-9C9C-2F9785921F94",
+              "source": "(indicates completion of an action; sometimes can be translated as past tense)",
+              "target": "了",
+              "targetComment": "le"
+            },
+            {
+              "uuid": "C43EDFE0-C755-4A99-9F0A-9107A739E02E",
+              "source": "to come",
+              "target": "來",
+              "targetComment": "lái"
+            },
+            {
+              "uuid": "F889992C-82DF-4166-A0CC-F30E460415B0",
+              "source": "dinner, supper",
+              "target": "晚飯",
+              "targetComment": "wănfàn"
+            },
+            {
+              "uuid": "E3D7C4C3-D121-4528-9958-984AB6A354EF",
+              "source": "evening",
+              "target": "晚上",
+              "targetComment": "wănshàng"
+            }
+          ]
+        },
+        {
+          "uuid": "302A3EF1-D63B-4F7C-A916-96AE33F64713",
+          "title": "When do you get out of class?",
+          "comment": "Lesson 11",
+          "sort": 325,
+          "words": [
+            {
+              "uuid": "4326578E-727D-4225-AACC-B0169EAFEA88",
+              "source": "a moment, a short while",
+              "target": "一會兒",
+              "targetComment": "yìhuĭr"
+            },
+            {
+              "uuid": "155025D4-172A-4F59-874C-661F5DEF99B2",
+              "source": "night",
+              "target": "夜裡",
+              "targetComment": "yèlĭ"
+            },
+            {
+              "uuid": "40438E41-99DE-437A-B67C-CADCB9EAEC51",
+              "source": "together",
+              "target": "一起",
+              "targetComment": "yìqĭ"
+            },
+            {
+              "uuid": "1A0E3593-8D77-40E3-B16E-B872D4CDEF93",
+              "source": "to get out of class / end of class",
+              "target": "下課",
+              "targetComment": "xiàkè"
+            },
+            {
+              "uuid": "1FE7492E-7569-45C6-ABE6-F6016E669E50",
+              "source": "door, gate",
+              "target": "門",
+              "targetComment": "mén"
+            },
+            {
+              "uuid": "41DA7BFB-8984-4BE8-9551-7C71CBE3C3C3",
+              "source": "class / (measure word for lessons)",
+              "target": "課",
+              "targetComment": "kè"
+            },
+            {
+              "uuid": "13E85E94-3919-4CB3-A1F8-2ADA1EE332D4",
+              "source": "clock",
+              "target": "鐘",
+              "targetComment": "zhōng"
+            },
+            {
+              "uuid": "3871FE94-8AD2-4C95-83B6-82E2F8C8280F",
+              "source": "don't",
+              "target": "別",
+              "targetComment": "bié"
+            },
+            {
+              "uuid": "15BDF7EF-8406-49AA-A1A8-25C988112FEF",
+              "source": "to get up",
+              "target": "起床",
+              "targetComment": "qĭchuáng"
+            },
+            {
+              "uuid": "0B6CC190-F39E-4C83-BC04-1B779F8B20E3",
+              "source": "to disembark, to get off",
+              "target": "下",
+              "targetComment": "xià"
+            },
+            {
+              "uuid": "21F9A953-090A-4AD4-B805-0B1819A62DD2",
+              "source": "to be short of, to lack",
+              "target": "差",
+              "targetComment": "chà"
+            },
+            {
+              "uuid": "4647AB75-A514-44A1-BF16-FD96762E60ED",
+              "source": "quarter of an hour",
+              "target": "刻",
+              "targetComment": "kè"
+            },
+            {
+              "uuid": "16DD2CE9-4540-441B-9C1C-4D645D447BC9",
+              "source": "question, problem",
+              "target": "問題",
+              "targetComment": "wèntí"
+            },
+            {
+              "uuid": "184EA2D3-1925-47A9-B19B-5DCB298DC58C",
+              "source": "hour (more formal?)",
+              "target": "鐘頭",
+              "targetComment": "zhōngtóu"
+            },
+            {
+              "uuid": "5806C339-9CC4-4F61-9CCF-C0BEE2C80EBC",
+              "source": "o'clock; point, spot",
+              "target": "點",
+              "targetComment": "diăn"
+            },
+            {
+              "uuid": "545FEA8E-844A-4A1B-8CEE-61DA67C11DB9",
+              "source": "I'm sorry, excuse me",
+              "target": "對不起",
+              "targetComment": "duìbùqĭ"
+            },
+            {
+              "uuid": "76682F5C-6960-4065-9EF5-D669B3D39149",
+              "source": "then, right away",
+              "target": "就",
+              "targetComment": "jiù"
+            },
+            {
+              "uuid": "79D24E78-D980-4CDA-9A2A-C373DB06647A",
+              "source": "to go to, to get on, to board",
+              "target": "上",
+              "targetComment": "shàng"
+            },
+            {
+              "uuid": "62E559CB-4CBB-45D8-9168-DA3FCAA07BBD",
+              "source": "to pass",
+              "target": "過",
+              "targetComment": "guò"
+            },
+            {
+              "uuid": "69784C7F-F66C-4D9E-A4BF-533DC1AC39DE",
+              "source": "to sleep",
+              "target": "睡",
+              "targetComment": "shuì"
+            },
+            {
+              "uuid": "6EBEF853-8FC6-468D-B592-D1364EE31DB3",
+              "source": "about, almost, nearly",
+              "target": "差不多",
+              "targetComment": "chàbùduō"
+            },
+            {
+              "uuid": "749B246E-A5D5-4024-8887-153278303CC8",
+              "source": "to stand / (train, bus) station",
+              "target": "站",
+              "targetComment": "zhàn"
+            },
+            {
+              "uuid": "4D04D2F4-A9A0-4890-90BD-C0BE3F85F435",
+              "source": "to sleep",
+              "target": "睡覺",
+              "targetComment": "shuìjiào"
+            },
+            {
+              "uuid": "785EB0D4-3E81-43AB-8A7A-B693541E49C8",
+              "source": "to wait",
+              "target": "等",
+              "targetComment": "děng"
+            },
+            {
+              "uuid": "68A347BF-F70E-4C6F-9109-73EB3AED833E",
+              "source": "hour",
+              "target": "小時",
+              "targetComment": "xiăoshí"
+            },
+            {
+              "uuid": "7E23FC6B-287F-4D21-BD12-3736B06FC6AF",
+              "source": "train station",
+              "target": "火車站",
+              "targetComment": "huŏchēzhàn"
+            },
+            {
+              "uuid": "BDDC65B5-41EF-4A2C-9E4E-3489B2ABE13B",
+              "source": "every, each (usually followed by a measure word)",
+              "target": "每",
+              "targetComment": "měi"
+            },
+            {
+              "uuid": "B986AF53-16B9-466E-BD8B-7C9B570D8652",
+              "source": "o'clock",
+              "target": "點(鐘)",
+              "targetComment": "diăn(zhōng)"
+            },
+            {
+              "uuid": "A266EB69-E20D-45AA-91C8-1DEC46D223BC",
+              "source": "bus stop",
+              "target": "公車站",
+              "targetComment": "gōngchēzhàn"
+            },
+            {
+              "uuid": "D9EDCF32-96B0-45EB-975C-8AC835A77D31",
+              "source": "immediately",
+              "target": "馬上",
+              "targetComment": "măshàng"
+            },
+            {
+              "uuid": "9D23E9A2-BD8F-4EAD-9A6E-8E3BD49D021E",
+              "source": "doorway, entrance",
+              "target": "門口",
+              "targetComment": "ménkŏu"
+            },
+            {
+              "uuid": "A126B635-162A-4263-AA09-5F3DA3CF8FE0",
+              "source": "company",
+              "target": "公司",
+              "targetComment": "gōngsī"
+            },
+            {
+              "uuid": "CD6DEBD4-5125-4EEF-A095-EEC633A9A7A4",
+              "source": "no problem (if asked to do something)",
+              "target": "沒問題",
+              "targetComment": "méiwèntí"
+            },
+            {
+              "uuid": "ED146008-C29B-47D2-AFF0-BEA2670A4249",
+              "source": "bed",
+              "target": "床",
+              "targetComment": "chuáng"
+            },
+            {
+              "uuid": "F3F9EE84-8AFD-4EC6-AA8F-5FCBCFFED18B",
+              "source": "sleep",
+              "target": "覺",
+              "targetComment": "jiào"
+            },
+            {
+              "uuid": "F60926AD-42AE-48F1-8321-F972D51EB071",
+              "source": "night",
+              "target": "夜",
+              "targetComment": "yè"
+            },
+            {
+              "uuid": "DBEEB595-1683-41D3-937F-F8C25BCCADF0",
+              "source": "to begin work, to go to work",
+              "target": "上班",
+              "targetComment": "shàngbān"
+            },
+            {
+              "uuid": "DE7E4A29-337E-47CD-9ABE-A51C26BCD8D9",
+              "source": "minute",
+              "target": "分(鐘)",
+              "targetComment": "fēn(zhōng)"
+            },
+            {
+              "uuid": "EEB494FE-13A0-477E-A801-CF3C070BA447",
+              "source": "other",
+              "target": "別的",
+              "targetComment": "biéde"
+            },
+            {
+              "uuid": "EADAA4D8-6D7D-4D7E-BAF2-8940359AA08E",
+              "source": "to rest",
+              "target": "休息",
+              "targetComment": "xiūxí"
+            },
+            {
+              "uuid": "E4976527-607A-4FC1-8EC5-E7F6F1025A37",
+              "source": "class / (measure word for a group)",
+              "target": "班",
+              "targetComment": "bān"
+            }
+          ]
+        },
+        {
+          "uuid": "95AC42E9-6CA6-445E-83B7-AA1748ACAE26",
+          "title": "I went abroad for more than eight months.",
+          "comment": "Lesson 12",
+          "sort": 367,
+          "words": [
+            {
+              "uuid": "41D6C35C-BCC8-4FA2-8DDF-FE850A6FBF2F",
+              "source": "last year",
+              "target": "去年",
+              "targetComment": "qùnián"
+            },
+            {
+              "uuid": "3A1B65E2-CDE4-466F-9C00-92AE19A7FCF2",
+              "source": "festival / section (for classes)",
+              "target": "節",
+              "targetComment": "jié"
+            },
+            {
+              "uuid": "3D66C786-E58F-4BAC-B601-7EE8FD86E576",
+              "source": "to be nervous, anxious",
+              "target": "著急",
+              "targetComment": "zháojí"
+            },
+            {
+              "uuid": "0C2148B5-1715-44CA-B30E-798728F3510F",
+              "source": "to try and see",
+              "target": "試試看",
+              "targetComment": "shìshìkàn"
+            },
+            {
+              "uuid": "3329B16F-C070-4D11-B093-35D1AC43681E",
+              "source": "holiday",
+              "target": "節日",
+              "targetComment": "jiérì"
+            },
+            {
+              "uuid": "3F5D289C-1273-44D5-BE60-7E4A919D5676",
+              "source": "just now",
+              "target": "剛剛",
+              "targetComment": "gānggāng"
+            },
+            {
+              "uuid": "02D21040-DD96-48A4-BCF4-F3491AE9CEBD",
+              "source": "hotel, inn (smaller hotel)",
+              "target": "旅館",
+              "targetComment": "lǚguăn"
+            },
+            {
+              "uuid": "463044C2-AACC-47FC-8129-B912F0E24EDA",
+              "source": "to give or take a test / test, exam",
+              "target": "考試",
+              "targetComment": "kăoshì"
+            },
+            {
+              "uuid": "3E0A01C0-1A60-4EBA-961C-0158D2472126",
+              "source": "next year",
+              "target": "明年",
+              "targetComment": "míngnián"
+            },
+            {
+              "uuid": "1776D531-AD60-4E84-ABAA-18C482812B1D",
+              "source": "autumn, fall",
+              "target": "秋天 / 秋季",
+              "targetComment": "qiūtiān / qiūjì"
+            },
+            {
+              "uuid": "1B18ADEE-460A-4739-B387-6DB052A2349F",
+              "source": "the Mid-autumn Festival",
+              "target": "中秋節",
+              "targetComment": "Zhōngqiū Jié"
+            },
+            {
+              "uuid": "2B950DA9-29E5-4548-9BC5-B532FFFF1B89",
+              "source": "(a measure word for cars, buses, etc.)",
+              "target": "輛",
+              "targetComment": "liàng"
+            },
+            {
+              "uuid": "322A60C0-BADA-4F1E-B9E8-8CD37599E201",
+              "source": "should, ought to",
+              "target": "(應)該",
+              "targetComment": "(yīng)gāi"
+            },
+            {
+              "uuid": "2F2AF9C3-4CD0-4CBB-8851-0DDBB5FFB8CB",
+              "source": "this year",
+              "target": "今年",
+              "targetComment": "jīnnián"
+            },
+            {
+              "uuid": "4A3BD0F0-3BA6-4B14-BC63-210DDBC0FFC9",
+              "source": "to be OK, to be permitted",
+              "target": "行",
+              "targetComment": "xíng"
+            },
+            {
+              "uuid": "8B161FC6-9B9D-4D40-8BBE-722909E8DA82",
+              "source": "season",
+              "target": "季",
+              "targetComment": "jì"
+            },
+            {
+              "uuid": "4B1221CF-059F-45B3-BE7D-C86B29DDEDED",
+              "source": "to give or take a test",
+              "target": "考",
+              "targetComment": "kăo"
+            },
+            {
+              "uuid": "4B65AC8C-4AFB-4FAE-A0D5-7F495F7C3391",
+              "source": "what now?, what am I supposed to do now?, what happens...?",
+              "target": "怎麼辦",
+              "targetComment": "zěnme bàn"
+            },
+            {
+              "uuid": "6A1FD695-9667-4AA0-9718-F5ADDA70FFCF",
+              "source": "spring, springtime",
+              "target": "春天 / 春季",
+              "targetComment": "chūntiān / chūnjì"
+            },
+            {
+              "uuid": "62C38B0B-4615-4169-A173-6BFCB067BD5F",
+              "source": "oral test",
+              "target": "口試",
+              "targetComment": "kŏushì"
+            },
+            {
+              "uuid": "9448E133-A4D7-4295-A760-37DEDEB3530F",
+              "source": "to handle, to manage",
+              "target": "辦",
+              "targetComment": "bàn"
+            },
+            {
+              "uuid": "505D51EE-ED3C-4A45-B2BE-5E18667AEF6F",
+              "source": "winter, wintertime",
+              "target": "冬天 / 冬季",
+              "targetComment": "dōngtiān / dōngjì"
+            },
+            {
+              "uuid": "8724F35C-26C7-45B2-AE8C-2170B6A29778",
+              "source": "recently, lately",
+              "target": "最近",
+              "targetComment": "zuìjìn"
+            },
+            {
+              "uuid": "803EEA20-DA2C-48B5-8320-7BC9679F1FB4",
+              "source": "written test",
+              "target": "筆試",
+              "targetComment": "bĭshì"
+            },
+            {
+              "uuid": "5FF8DF00-5063-4417-AFC9-67420F367647",
+              "source": "to rain",
+              "target": "下雨",
+              "targetComment": "xiàyŭ"
+            },
+            {
+              "uuid": "7A142D86-8F6B-4EA3-9B7F-2B61D7AFAA15",
+              "source": "Spring Festival (Chinese New Year)",
+              "target": "春節",
+              "targetComment": "Chūn Jié"
+            },
+            {
+              "uuid": "7FC77B01-9F10-40E7-8FA9-B787E46AA867",
+              "source": "just, recently",
+              "target": "剛",
+              "targetComment": "gāng"
+            },
+            {
+              "uuid": "5A1025B5-9E6D-4A0E-A126-664DCDC3397C",
+              "source": "time",
+              "target": "時間",
+              "targetComment": "shíjiān"
+            },
+            {
+              "uuid": "5C5A9683-B2DF-43B7-A7D7-607814D07BEB",
+              "source": "nation, country",
+              "target": "國家",
+              "targetComment": "guójiā"
+            },
+            {
+              "uuid": "50AAB3DB-65B8-4DA0-9784-45BB084B9E3B",
+              "source": "(measure word for numbers and dates)",
+              "target": "號",
+              "targetComment": "hào"
+            },
+            {
+              "uuid": "7C8B7D21-B67E-4723-AA62-39A264487E8A",
+              "source": "(measure word for school semesters)",
+              "target": "期",
+              "targetComment": "qí"
+            },
+            {
+              "uuid": "4F89D104-25DE-4DF6-960F-E3F274C96275",
+              "source": "quite a few",
+              "target": "好幾",
+              "targetComment": "hăojĭ"
+            },
+            {
+              "uuid": "C6148CBF-2BA4-4538-942B-A7590816F61C",
+              "source": "semester",
+              "target": "學期",
+              "targetComment": "xuéqí"
+            },
+            {
+              "uuid": "D45953B6-AFCC-4BCD-93AA-B7950D6DA77B",
+              "source": "to try",
+              "target": "試",
+              "targetComment": "shì"
+            },
+            {
+              "uuid": "B65DC696-C557-4F1B-A294-11805C74BBE3",
+              "source": "scenery, view, landscape",
+              "target": "風景",
+              "targetComment": "fēngjĭng"
+            },
+            {
+              "uuid": "C2C26C12-78E2-4D6C-B19C-E630E25FBDE4",
+              "source": "season",
+              "target": "季節",
+              "targetComment": "jìjié"
+            },
+            {
+              "uuid": "A91EABC1-8190-4058-977D-13EE90E66493",
+              "source": "to be anxious, rushing",
+              "target": "急",
+              "targetComment": "jí"
+            },
+            {
+              "uuid": "B104812C-0AFC-41B9-ADED-6307101AD3F8",
+              "source": "new year",
+              "target": "新年",
+              "targetComment": "xīnnián"
+            },
+            {
+              "uuid": "D3D06A85-14C7-45DD-BB42-441B13E7ED81",
+              "source": "summer, summertime",
+              "target": "夏天 / 夏季",
+              "targetComment": "xiàtiān / xiàjì"
+            },
+            {
+              "uuid": "BD4C33DD-A6C6-409D-99C6-6C18F481A773",
+              "source": "rain",
+              "target": "雨",
+              "targetComment": "yŭ"
+            },
+            {
+              "uuid": "B73B6990-FE54-4B69-A5A2-C2EB3B54FB49",
+              "source": "to stay, to live",
+              "target": "住",
+              "targetComment": "zhù"
+            },
+            {
+              "uuid": "BE288B44-620E-4E2E-AA1C-F83A0A17B9C7",
+              "source": "rainy season, monsoon season",
+              "target": "雨季",
+              "targetComment": "yŭjì"
+            },
+            {
+              "uuid": "B93A9006-9B24-4361-B296-004CD9A9646B",
+              "source": "week",
+              "target": "星期",
+              "targetComment": "xīngqí"
+            },
+            {
+              "uuid": "D102646F-F2D2-40FE-989D-F7F9C937F176",
+              "source": "month",
+              "target": "月",
+              "targetComment": "yuè"
+            },
+            {
+              "uuid": "ED4AF245-F6C1-42A2-842C-6F295DF69314",
+              "source": "year",
+              "target": "年",
+              "targetComment": "nián"
+            },
+            {
+              "uuid": "F1C211CD-66B7-4970-8ECA-CC5633639E03",
+              "source": "Europe",
+              "target": "欧洲",
+              "targetComment": "ōuzhōu"
+            },
+            {
+              "uuid": "DCD108FB-2C1C-4456-B4AD-813684EF1BD0",
+              "source": "to see, to visit",
+              "target": "看到",
+              "targetComment": "kàndào"
+            },
+            {
+              "uuid": "F8DE5BA9-CE62-4A80-9FBE-7D5EFC5532B0",
+              "source": "to travel, to take a trip",
+              "target": "旅行",
+              "targetComment": "lǚxíng"
+            }
+          ]
+        },
+        {
+          "uuid": "70E5BF8D-ADBA-4028-929E-CD22AC83C2A6",
+          "title": "I was sick.",
+          "comment": "Lesson 13",
+          "sort": 416,
+          "words": [
+            {
+              "uuid": "359AFFD5-DFF7-4998-8024-A507E84D35A7",
+              "source": "doctor, physician",
+              "target": "醫生",
+              "targetComment": "yīshēng"
+            },
+            {
+              "uuid": "366C0F91-B550-4E0E-B97E-D4D6EF6E08A1",
+              "source": "to be well again, recover",
+              "target": "好了",
+              "targetComment": "hăole"
+            },
+            {
+              "uuid": "21144035-7848-4FB5-B733-C8503B28A087",
+              "source": "possibly / to be possible / possibility",
+              "target": "可能",
+              "targetComment": "kěnéng"
+            },
+            {
+              "uuid": "37AB73BA-1E7B-40F8-BC4F-D11B1898D789",
+              "source": "Sunday",
+              "target": "禮拜天",
+              "targetComment": "lĭbàitiān"
+            },
+            {
+              "uuid": "1942469A-D3A9-46FC-8C16-3F46E7DDD197",
+              "source": "to forget",
+              "target": "忘",
+              "targetComment": "wàng"
+            },
+            {
+              "uuid": "25363031-9404-41DF-873B-8140677B6CC4",
+              "source": "vacation; holiday",
+              "target": "假",
+              "targetComment": "jià"
+            },
+            {
+              "uuid": "1F6E7BF2-646E-4EDA-81B0-349A6B97498C",
+              "source": "illness, disease",
+              "target": "病",
+              "targetComment": "bìng"
+            },
+            {
+              "uuid": "0C710199-92F0-4D75-B26D-285A8675DF4A",
+              "source": "to allow, to permit",
+              "target": "許",
+              "targetComment": "xŭ"
+            },
+            {
+              "uuid": "3D29E549-F23E-458E-8F9A-F0BC244934BC",
+              "source": "countryside",
+              "target": "鄉下",
+              "targetComment": "xiāngxià"
+            },
+            {
+              "uuid": "0DD0C8B9-BA0E-46F4-AF5D-B7F48E65D128",
+              "source": "to (snow) ski",
+              "target": "滑雪",
+              "targetComment": "huá xuě"
+            },
+            {
+              "uuid": "370A884D-4263-444E-9636-2E96239AF9E3",
+              "source": "snow",
+              "target": "雪",
+              "targetComment": "xuě"
+            },
+            {
+              "uuid": "18E404A5-A25B-4588-94F7-112D0AA99E7C",
+              "source": "never mind, it doesn't matter, it's nothing, that's all right",
+              "target": "沒事兒",
+              "targetComment": "méishìr"
+            },
+            {
+              "uuid": "3EC009DE-DC09-4BA4-BA30-73889FAF27FE",
+              "source": "must, have to",
+              "target": "得",
+              "targetComment": "děi"
+            },
+            {
+              "uuid": "69FC1DBB-1A1D-4ADF-8495-1D670642433F",
+              "source": "(a measure word for mountains, bridges, tall buildings, etc.)",
+              "target": "座",
+              "targetComment": "zuò"
+            },
+            {
+              "uuid": "566151AC-01CE-4FD0-9A3F-8CC1E03054EB",
+              "source": "to become ill",
+              "target": "病了",
+              "targetComment": "bìngle"
+            },
+            {
+              "uuid": "858057BB-FF9F-4DEE-895C-49C58B59F360",
+              "source": "to be bad",
+              "target": "壞",
+              "targetComment": "huài"
+            },
+            {
+              "uuid": "7ABB018E-01DB-4AE8-89A3-C00CC451094B",
+              "source": "to be at ease / to not worry",
+              "target": "放心",
+              "targetComment": "fàngxīn"
+            },
+            {
+              "uuid": "66B442E2-1D31-4E6C-AA0D-A14432366A33",
+              "source": "mountain, hill",
+              "target": "山",
+              "targetComment": "shān"
+            },
+            {
+              "uuid": "6A2A7A72-FA8E-4479-B0DB-70CA2762D209",
+              "source": "to have a holiday or vacation",
+              "target": "放假",
+              "targetComment": "fàngjià"
+            },
+            {
+              "uuid": "4BB21946-2C0E-4AD7-AF58-77B505908E90",
+              "source": "to be broken, ruined, out of order, spoiled",
+              "target": "壞了",
+              "targetComment": "huàile"
+            },
+            {
+              "uuid": "4DCBDB09-EA50-4D0B-A2A1-2793BFDC2018",
+              "source": "weekend",
+              "target": "週末",
+              "targetComment": "zhōumò"
+            },
+            {
+              "uuid": "B1FBFAC5-5140-4C83-9FBA-2E8AA488BDAE",
+              "source": "to plan",
+              "target": "打算",
+              "targetComment": "dăsuàn"
+            },
+            {
+              "uuid": "CE52363C-C5B9-4421-B40B-B6653358A20A",
+              "source": "to be careful",
+              "target": "小心",
+              "targetComment": "xiăoxīn"
+            },
+            {
+              "uuid": "9E023939-E766-4302-81B1-0ABF945437C0",
+              "source": "to have a cold / cold, flu",
+              "target": "感冒",
+              "targetComment": "gănmào"
+            },
+            {
+              "uuid": "9C240AC7-9E0E-4F87-B269-75A1BC637661",
+              "source": "perhaps, maybe, might",
+              "target": "也許",
+              "targetComment": "yěxŭ"
+            },
+            {
+              "uuid": "D68B7C5A-D7FC-419E-A8A9-634AAB11A97D",
+              "source": "(indicating physical immediacy)",
+              "target": "就",
+              "targetComment": "jiù"
+            },
+            {
+              "uuid": "BEA7E94E-AE5A-4043-B3E3-B411F7009826",
+              "source": "what's wrong?",
+              "target": "怎麼了",
+              "targetComment": "zěnmele"
+            },
+            {
+              "uuid": "D356E0B2-19BB-4E89-BFA7-3A94D7A64989",
+              "source": "to hit, to beat, to strike",
+              "target": "打",
+              "targetComment": "dă"
+            },
+            {
+              "uuid": "BA44E5CE-9F75-4180-8AEC-78B624E326B3",
+              "source": "to calculate",
+              "target": "算",
+              "targetComment": "suàn"
+            },
+            {
+              "uuid": "B07962B7-46DC-48AF-807A-C6220E63E49A",
+              "source": "especially / to be special",
+              "target": "特別",
+              "targetComment": "tèbié"
+            },
+            {
+              "uuid": "CBC99870-C38E-42CE-A597-62A968FC9648",
+              "source": "no problem, never mind, it doesn't matter",
+              "target": "沒關係",
+              "targetComment": "méi guānxi"
+            },
+            {
+              "uuid": "AFF46A35-1D82-4994-9049-5DEA7C8E227C",
+              "source": "to be comfortable",
+              "target": "舒服",
+              "targetComment": "shūfu"
+            },
+            {
+              "uuid": "C98F3E08-FCD1-4966-AFEA-1226DDCE969C",
+              "source": "medicine",
+              "target": "藥",
+              "targetComment": "yào"
+            },
+            {
+              "uuid": "D83E38EA-CC84-4E56-800D-61C0756BD01D",
+              "source": "week",
+              "target": "禮拜",
+              "targetComment": "lĭbài"
+            },
+            {
+              "uuid": "DB531D41-5CF4-457A-B63A-48EE244EB7C2",
+              "source": "heart",
+              "target": "心",
+              "targetComment": "xīn"
+            },
+            {
+              "uuid": "E28AB222-BB8B-4D8C-B947-FE49B0DF89D6",
+              "source": "to snow",
+              "target": "下雪",
+              "targetComment": "xiàxuě"
+            },
+            {
+              "uuid": "F4054ADB-2ACA-4E0F-9562-929B18C427EB",
+              "source": "to put, to release, to place",
+              "target": "放",
+              "targetComment": "fàng"
+            },
+            {
+              "uuid": "FEE1E234-5B82-476C-9565-185E03CD7B6E",
+              "source": "don't have to, need not",
+              "target": "不必",
+              "targetComment": "búbì"
+            },
+            {
+              "uuid": "DD33C5E8-978D-48DD-A647-26B1F75EDBD5",
+              "source": "to become ill, to be sick",
+              "target": "生病",
+              "targetComment": "shēngbìng"
+            },
+            {
+              "uuid": "E5BC52CC-C17D-406E-AD06-8B5B246AFA90",
+              "source": "to cure, to treat (an illness)",
+              "target": "醫",
+              "targetComment": "yī"
+            }
+          ]
+        },
+        {
+          "uuid": "352DD250-E7BD-4384-8A29-537475C4E546",
+          "title": "How do you get there?",
+          "comment": "Lesson 14",
+          "sort": 457,
+          "words": [
+            {
+              "uuid": "232B2F9A-06A9-4D6E-977F-5EC4FFB0DD95",
+              "source": "post office",
+              "target": "郵局",
+              "targetComment": "yóujú"
+            },
+            {
+              "uuid": "0A1E76DC-391A-4BC0-A9C6-614D2EA9E5AB",
+              "source": "if",
+              "target": "要是",
+              "targetComment": "yàoshi"
+            },
+            {
+              "uuid": "432E8C09-C05C-469A-8740-C6C50DD8EF84",
+              "source": "first, in advance, before",
+              "target": "先",
+              "targetComment": "xiān"
+            },
+            {
+              "uuid": "10018A98-A4C6-46AF-B315-D67C6A73EC2E",
+              "source": "to turn",
+              "target": "轉",
+              "targetComment": "zhuăn"
+            },
+            {
+              "uuid": "23499B5A-699B-48A2-A40E-A55FFAD23233",
+              "source": "north",
+              "target": "北",
+              "targetComment": "běi"
+            },
+            {
+              "uuid": "46DD5F4C-C336-4133-A371-CA5B5798663F",
+              "source": "sea, ocean",
+              "target": "海",
+              "targetComment": "hăi"
+            },
+            {
+              "uuid": "0BF8882E-0DFA-42F5-B503-AE1DD041588D",
+              "source": "straight; constantly, continuously",
+              "target": "一直",
+              "targetComment": "yìzhí"
+            },
+            {
+              "uuid": "478B4D3B-1CD5-4897-8AF7-0978F10B7EF3",
+              "source": "south",
+              "target": "南",
+              "targetComment": "nán"
+            },
+            {
+              "uuid": "4658EFB4-232C-4422-9D9A-52A91A76B3BF",
+              "source": "you're welcome, don't be so polite.",
+              "target": "不客氣",
+              "targetComment": "bú kèqi"
+            },
+            {
+              "uuid": "25929C5E-D98F-46FD-B617-669A9B76D8DF",
+              "source": "(measure word for long narrow things such as pants, rivers, roads, fish, etc.)",
+              "target": "條",
+              "targetComment": "tiáo"
+            },
+            {
+              "uuid": "26E8748E-7400-48B9-A62B-657E01261CC6",
+              "source": "city, city wall",
+              "target": "城",
+              "targetComment": "chéng"
+            },
+            {
+              "uuid": "8CFC48A8-74D5-4512-9F53-BBF90BACE68B",
+              "source": "city",
+              "target": "城市",
+              "targetComment": "chéngshì"
+            },
+            {
+              "uuid": "618ECA6B-D5F7-41FF-AEA9-C6951FF6EB9C",
+              "source": "west",
+              "target": "西",
+              "targetComment": "xī"
+            },
+            {
+              "uuid": "8A4DF707-B127-4C02-B5D1-78C6B2430EB8",
+              "source": "intersection",
+              "target": "十字路口",
+              "targetComment": "shízìlùkŏu"
+            },
+            {
+              "uuid": "519E9D28-C82D-426C-BAC0-FBACFD4431F3",
+              "source": "street entrance",
+              "target": "路口",
+              "targetComment": "lùkŏu"
+            },
+            {
+              "uuid": "7B182C6B-AF2D-43A3-95E8-B9FB435D8735",
+              "source": "to leave, to depart from",
+              "target": "離開",
+              "targetComment": "líkāi"
+            },
+            {
+              "uuid": "7E2143F2-B3EA-4071-A930-45C8CC137467",
+              "source": "then (after doing something first)",
+              "target": "再",
+              "targetComment": "zài"
+            },
+            {
+              "uuid": "89D8D1D4-C2E7-4224-BD98-21D658353F5B",
+              "source": "Taipei (name of a city in Taiwan)",
+              "target": "台北",
+              "targetComment": "Táiběi"
+            },
+            {
+              "uuid": "7EE343D8-0FF8-4945-9811-4B3F7C919393",
+              "source": "east",
+              "target": "東",
+              "targetComment": "dōng"
+            },
+            {
+              "uuid": "69D4DA32-2141-4EAA-BEB4-230D36A341FD",
+              "source": "part, area, section; department",
+              "target": "部",
+              "targetComment": "bù"
+            },
+            {
+              "uuid": "8FA2FE66-ED46-4CC5-846C-A49E9B5F33AF",
+              "source": "to help someone do something, to do someone a favor",
+              "target": "幫忙",
+              "targetComment": "bāng máng"
+            },
+            {
+              "uuid": "54D3C41C-1B5B-4DDE-A1F4-63B7E4287029",
+              "source": "to be straight / continuously",
+              "target": "直",
+              "targetComment": "zhí"
+            },
+            {
+              "uuid": "AB6A8A7E-9EB4-434F-9542-02AB120832E3",
+              "source": "to pass by, to pass through",
+              "target": "經過",
+              "targetComment": "jīngguò"
+            },
+            {
+              "uuid": "D2DFB36A-DB45-4A95-8AEE-5F54008B447A",
+              "source": "right",
+              "target": "右",
+              "targetComment": "yòu"
+            },
+            {
+              "uuid": "B215CE54-FCA5-4D16-B08D-AFA2A54FFDC6",
+              "source": "river",
+              "target": "河",
+              "targetComment": "hé"
+            },
+            {
+              "uuid": "AAF0A44F-D3AE-4056-97EA-58532E8165A6",
+              "source": "afterwards, then",
+              "target": "然後",
+              "targetComment": "ránhòu"
+            },
+            {
+              "uuid": "D8C43C93-E74D-41AC-9EF2-57BAE76E56F7",
+              "source": "to be polite",
+              "target": "客氣",
+              "targetComment": "kèqi"
+            },
+            {
+              "uuid": "CB39A52E-75EF-4551-B3E2-FFB71F33B099",
+              "source": "to be tall, to be high",
+              "target": "高",
+              "targetComment": "gāo"
+            },
+            {
+              "uuid": "C273205B-175C-4491-97D7-5992B98D16A8",
+              "source": "to help, to assist",
+              "target": "幫",
+              "targetComment": "bāng"
+            },
+            {
+              "uuid": "B67A8372-F8BB-4E2D-A2CA-7FA8577441C0",
+              "source": "street",
+              "target": "街",
+              "targetComment": "jiē"
+            },
+            {
+              "uuid": "C531B433-BC3D-4A98-8A94-F52CA3ABA70E",
+              "source": "to go toward",
+              "target": "往",
+              "targetComment": "wăng"
+            },
+            {
+              "uuid": "BFE67912-1FC5-4E54-9CE7-1B632DC3708C",
+              "source": "left",
+              "target": "左",
+              "targetComment": "zuŏ"
+            },
+            {
+              "uuid": "D58E99CE-7079-40F5-B913-0C03557ACFB4",
+              "source": "to take off (in an airplane)",
+              "target": "起飛",
+              "targetComment": "qĭfēi"
+            },
+            {
+              "uuid": "E831863B-BAFD-4C64-9706-D51FC661F40D",
+              "source": "department store",
+              "target": "百貨公司",
+              "targetComment": "băihuògōngsī"
+            },
+            {
+              "uuid": "FDC0FB05-F7AC-46E5-980D-EA6060FD6098",
+              "source": "(prefix for oridinal numbers)",
+              "target": "第",
+              "targetComment": "dì"
+            },
+            {
+              "uuid": "FB48411C-7930-4E27-90AF-0017D09E4CCF",
+              "source": "(sentence suffix used to indicate request, soften the tone, or indicate probability)",
+              "target": "吧",
+              "targetComment": "ba"
+            },
+            {
+              "uuid": "EECC81A9-7B3D-434E-8CED-C327EBFE180D",
+              "source": "city municipality, market",
+              "target": "市",
+              "targetComment": "shì"
+            },
+            {
+              "uuid": "E1782A13-7E84-4C40-9DC7-AACF699EBFAA",
+              "source": "eastern part, eastern area",
+              "target": "東部",
+              "targetComment": "dōngbù"
+            }
+          ]
+        },
+        {
+          "uuid": "84361E08-1308-4B3B-AAE3-3346562B22CF",
+          "title": "Please suggest some dishes to us.",
+          "comment": "Lesson 15",
+          "sort": 496,
+          "words": [
+            {
+              "uuid": "47797C46-8999-4150-B34C-D33F862F0135",
+              "source": "waiter, waitress",
+              "target": "服務生",
+              "targetComment": "fúwùsheng"
+            },
+            {
+              "uuid": "235EBF0A-7F5D-437B-AB50-7C2DB5B4A58F",
+              "source": "soup",
+              "target": "湯",
+              "targetComment": "tāng"
+            },
+            {
+              "uuid": "28D77D5B-B748-4685-BCE0-E19D3B4E63A9",
+              "source": "Hsieh (a surname)",
+              "target": "謝",
+              "targetComment": "xiè"
+            },
+            {
+              "uuid": "0790B839-DDB1-4A7D-BF2E-C9C32D78DC0D",
+              "source": "for [the benefit], to",
+              "target": "給",
+              "targetComment": "gěi"
+            },
+            {
+              "uuid": "882C5001-5987-41FA-A0A2-C62A97E028D3",
+              "source": "soup spoon",
+              "target": "湯匙",
+              "targetComment": "tāngchí"
+            },
+            {
+              "uuid": "5B0CD68D-B429-4A2E-AA10-3AEA201DD3D2",
+              "source": "bowl / (measure word for servings of food)",
+              "target": "碗",
+              "targetComment": "wăn"
+            },
+            {
+              "uuid": "55F76BCD-CD67-4EB3-9804-EE3C9D355EEE",
+              "source": "brush pen",
+              "target": "毛筆",
+              "targetComment": "máobĭ"
+            },
+            {
+              "uuid": "8E63BC94-5F36-437E-AE08-5D37CC57CACF",
+              "source": "so, like this",
+              "target": "這麼",
+              "targetComment": "zhème"
+            },
+            {
+              "uuid": "72958F0F-2380-427D-8DE3-78F050959342",
+              "source": "fish",
+              "target": "魚",
+              "targetComment": "yú"
+            },
+            {
+              "uuid": "B7D11709-53A3-4D39-B6D6-B7F40B8ABB59",
+              "source": "to wish someone well, to send best regards to someone",
+              "target": "問.....好",
+              "targetComment": "wèn.....hăo"
+            },
+            {
+              "uuid": "CEF64F55-19EA-4A6E-B9C9-1CBCE3B8DE13",
+              "source": "oneself, by oneself",
+              "target": "自己",
+              "targetComment": "zìjĭ"
+            },
+            {
+              "uuid": "B0C9181D-4671-4408-8FBE-01254DD49FE8",
+              "source": "everybody",
+              "target": "大家",
+              "targetComment": "dàjiā"
+            },
+            {
+              "uuid": "F91D0D31-3FC5-4552-AEA5-A80EA73CA135",
+              "source": "cow, cattle, ox",
+              "target": "牛",
+              "targetComment": "niú"
+            },
+            {
+              "uuid": "F99CB7CF-C5EA-49A6-B290-3517CD584939",
+              "source": "letter",
+              "target": "信",
+              "targetComment": "xìn"
+            },
+            {
+              "uuid": "EA112C8E-BB02-4F2B-B73D-8EF895CA4C81",
+              "source": "Fang (a surname)",
+              "target": "方",
+              "targetComment": "fāng"
+            },
+            {
+              "uuid": "E8E022AE-A7DD-4766-A701-A977343AFE15",
+              "source": "to order dishes (in a restaurant)",
+              "target": "點菜",
+              "targetComment": "diăn cài"
+            },
+            {
+              "uuid": "E1025CCA-8424-4FAD-9EA5-A0ED09E15FA6",
+              "source": "meat",
+              "target": "肉",
+              "targetComment": "ròu"
+            },
+            {
+              "uuid": "DF774D54-F3E0-4FE0-9E68-6309C6B0884C",
+              "source": "to use /  using, with",
+              "target": "用",
+              "targetComment": "yòng"
+            },
+            {
+              "uuid": "EF1D407B-25C9-437B-A99B-02CA6F32AA8A",
+              "source": "to introduce, to suggest",
+              "target": "介紹",
+              "targetComment": "jièshào"
+            }
+          ]
+        },
+        {
+          "uuid": "BFCEEC8D-AF29-42F1-BC8E-F1D6D48F1A54",
+          "title": "Please tell her to give me a call when she gets back.",
+          "comment": "Lesson 16",
+          "sort": 516,
+          "words": [
+            {
+              "uuid": "3B166C12-D5F4-41F1-8FDB-621DF25838EE",
+              "source": "before, ago, previously",
+              "target": "以前",
+              "targetComment": "yĭqián"
+            },
+            {
+              "uuid": "094B5582-AEB7-4AB5-9F6C-53C80B787471",
+              "source": "Italy",
+              "target": "意大利",
+              "targetComment": "Yìdàlì"
+            },
+            {
+              "uuid": "1D80EB66-98A4-452C-B3B3-E717BF5DB093",
+              "source": "to leave (a note, message, thing, etc.), to stay, to remain",
+              "target": "留",
+              "targetComment": "liú"
+            },
+            {
+              "uuid": "20AB3ED6-624D-499C-BFEB-6E167B8BCD9B",
+              "source": "(a common telephone or intercom greeting)",
+              "target": "喂",
+              "targetComment": "wéi"
+            },
+            {
+              "uuid": "0092AB01-2BE7-440E-B6D6-E42BBF8B4BC0",
+              "source": "number",
+              "target": "號碼",
+              "targetComment": "hàomă"
+            },
+            {
+              "uuid": "41798FFA-35AE-4519-9A7E-B8C9DF0FB285",
+              "source": "to be bothersome / to bother (to do something) / a bother",
+              "target": "麻煩",
+              "targetComment": "máfán"
+            },
+            {
+              "uuid": "3C3FB2F3-9911-4FCD-8A24-63E2CE58C33B",
+              "source": "(measure word for occurance or affair's time)",
+              "target": "次",
+              "targetComment": "cì"
+            },
+            {
+              "uuid": "333506CF-C5C1-42C0-A313-84E74B527A49",
+              "source": "to borrow, to lend",
+              "target": "借",
+              "targetComment": "jiè"
+            },
+            {
+              "uuid": "2100EA13-9419-4D85-A1F3-A66248756627",
+              "source": "telephone, call",
+              "target": "電話",
+              "targetComment": "diànhuà"
+            },
+            {
+              "uuid": "8782F802-B283-4ADD-829E-2FD2931BFF5E",
+              "source": "to be vexed, annoyed / to annoy",
+              "target": "煩",
+              "targetComment": "fán"
+            },
+            {
+              "uuid": "787AF25C-A5C8-49CA-BFA4-E8BF6051416E",
+              "source": "middle school",
+              "target": "中學",
+              "targetComment": "zhōngxué"
+            },
+            {
+              "uuid": "8EC50003-3E86-4861-AC5E-A1E07055326A",
+              "source": "mail carrier, postman",
+              "target": "郵差",
+              "targetComment": "yóuchāi"
+            },
+            {
+              "uuid": "6C6672D7-004C-44C1-A064-49169934360C",
+              "source": "to be afraid / to fear",
+              "target": "怕",
+              "targetComment": "pà"
+            },
+            {
+              "uuid": "7684CCBC-B3B5-4ABF-8FD9-C924151DFB3A",
+              "source": "a note",
+              "target": "字條",
+              "targetComment": "zìtiáo"
+            },
+            {
+              "uuid": "4C5EBCC2-F4D7-49E3-BC79-C5D2665E9648",
+              "source": "to tell, to inform",
+              "target": "告訴",
+              "targetComment": "gàosù"
+            },
+            {
+              "uuid": "5306A7F3-CE4E-41EA-AA53-B64A66421B04",
+              "source": "afterwards, later on (in the past)",
+              "target": "後來",
+              "targetComment": "hòulái"
+            },
+            {
+              "uuid": "D66CD280-24DD-4BAC-A7D7-EB7EB8F72BD3",
+              "source": "to make a phone call",
+              "target": "打電話",
+              "targetComment": "dă diànhuà"
+            },
+            {
+              "uuid": "B6A791F2-9594-4D7C-96DD-73297F7F1AD8",
+              "source": "to be happy",
+              "target": "高興",
+              "targetComment": "gāoxìng"
+            },
+            {
+              "uuid": "D3E5B313-1DFB-4921-A7BB-03AFB678768B",
+              "source": "to record, to write, to jot down",
+              "target": "記",
+              "targetComment": "jì"
+            },
+            {
+              "uuid": "D542A3BA-85A3-4A63-8704-B0947E71C794",
+              "source": "to wash",
+              "target": "洗",
+              "targetComment": "xĭ"
+            },
+            {
+              "uuid": "C57A8A5F-B205-4F55-A71B-FA4520C05D1A",
+              "source": "to remember",
+              "target": "記得",
+              "targetComment": "jìde"
+            },
+            {
+              "uuid": "CEA8167A-7FCD-4851-8551-4F5A2C485FB2",
+              "source": "(a suffix indicating completion of an action, esp. as an experience)",
+              "target": "過",
+              "targetComment": "guò"
+            },
+            {
+              "uuid": "CBD424D0-D882-4C7D-A01D-208E520C17B9",
+              "source": "formerly, in the past, used to",
+              "target": "從前",
+              "targetComment": "cóngqián"
+            },
+            {
+              "uuid": "C3567E98-4C2E-4204-AB2C-8C97DC08742F",
+              "source": "to decide",
+              "target": "決定",
+              "targetComment": "juédìng"
+            },
+            {
+              "uuid": "B1C8CF0A-BA38-4BEF-8991-E33DE791F3EF",
+              "source": "to know (as in to recognize)",
+              "target": "認得",
+              "targetComment": "rènde"
+            },
+            {
+              "uuid": "D65C1408-49F2-4F8B-8F7A-6A35DE083872",
+              "source": "to recognize, to realize",
+              "target": "認識",
+              "targetComment": "rènshì"
+            },
+            {
+              "uuid": "D9FF5C49-015C-41A5-B143-2726F738B3EE",
+              "source": "to meet [see] someone",
+              "target": "見面",
+              "targetComment": "jiàn miàn"
+            },
+            {
+              "uuid": "F975D365-8296-4943-BFE2-4D6A04B2D7AC",
+              "source": "probably",
+              "target": "大概",
+              "targetComment": "dàgài"
+            },
+            {
+              "uuid": "DBCFFE36-A063-4656-97AF-EB70A3CB5857",
+              "source": "(I'm) afraid that, perhaps, probably",
+              "target": "恐怕",
+              "targetComment": "kŏngpà"
+            },
+            {
+              "uuid": "E6B4DC5F-DE94-40CE-ADBC-7677240260A9",
+              "source": "first, the top / head",
+              "target": "頭",
+              "targetComment": "tóu"
+            },
+            {
+              "uuid": "E0C76B1C-298D-43A5-B401-25B922E8344D",
+              "source": "afterwards, after",
+              "target": "以後",
+              "targetComment": "yĭhòu"
+            },
+            {
+              "uuid": "E0DA9EEA-5284-47C7-BAA8-DBC19BECF529",
+              "source": "to meet, to receive, to come in contact with",
+              "target": "接",
+              "targetComment": "jiē"
+            },
+            {
+              "uuid": "F45F3D88-BD8C-4DF7-813A-AA3E2921BD4B",
+              "source": "hand",
+              "target": "手",
+              "targetComment": "shŏu"
+            },
+            {
+              "uuid": "F542C9D1-A773-4578-92C6-3267E16A620E",
+              "source": "at first, originally",
+              "target": "本來",
+              "targetComment": "běnlái"
+            }
+          ]
+        },
+        {
+          "uuid": "B6E7A116-ECFD-4431-802C-E0F757C3C389",
+          "title": "Chinese sounds as good as French.",
+          "comment": "Lesson 17",
+          "sort": 551,
+          "words": [
+            {
+              "uuid": "283AF9C8-15E0-45ED-9952-5E7E5B563397",
+              "source": "[spoken] grammar",
+              "target": "語法",
+              "targetComment": "yŭfă"
+            },
+            {
+              "uuid": "061016C8-4EF7-464A-A51B-BB4D0CBC9736",
+              "source": "(measure word for age, years old)",
+              "target": "歲",
+              "targetComment": "suì"
+            },
+            {
+              "uuid": "A97C5A9E-41D1-4F0B-8FDB-51DA04AA8E1B",
+              "source": "to be extremely, to be exceedingly (hot, cold, wet, etc.)",
+              "target": "不得了",
+              "targetComment": "bùdéliăo"
+            }
+          ]
+        },
+        {
+          "uuid": "C2663821-9DF4-4F08-9E7B-685A7CFCE914",
+          "title": "Welcome to the neighborhood.",
+          "comment": "Lesson 18",
+          "sort": 555,
+          "words": [
+            {
+              "uuid": "31C484EF-630B-40A5-8561-7D8AD8DDD28A",
+              "source": "to change, to alter, to correct",
+              "target": "改",
+              "targetComment": "găi"
+            },
+            {
+              "uuid": "1F2210BA-2C8D-42D6-B264-23792E9BFB4C",
+              "source": "to be empty",
+              "target": "空",
+              "targetComment": "kōng"
+            },
+            {
+              "uuid": "281B971D-CCF1-4B2D-988B-0EA7503020C2",
+              "source": "to be even, to be level",
+              "target": "平",
+              "targetComment": "píng"
+            },
+            {
+              "uuid": "0BC94CCF-B63C-4E75-843B-EB1DEFA286BF",
+              "source": "airport",
+              "target": "(飛) 機場",
+              "targetComment": "(fēi) jīchăng"
+            },
+            {
+              "uuid": "12E091EA-D873-492C-8AC4-9EF3F743BDDF",
+              "source": "to welcome / Welcome",
+              "target": "歡迎",
+              "targetComment": "huānyíng"
+            },
+            {
+              "uuid": "2390ABF8-80BD-4754-9F9A-CAD2143F9A3F",
+              "source": "move forward, enter",
+              "target": "進",
+              "targetComment": "jìn"
+            },
+            {
+              "uuid": "386DDF1F-D7DC-43F4-9968-00896864C7E7",
+              "source": "market",
+              "target": "市場",
+              "targetComment": "shìchăng"
+            },
+            {
+              "uuid": "1CABD9B4-0A9C-452D-9FE4-B4564150CD24",
+              "source": "to move (one's house)",
+              "target": "搬家",
+              "targetComment": "bān jiā"
+            },
+            {
+              "uuid": "2D310F8D-9D6D-47C3-9529-F4BFB6C42484",
+              "source": "Lin (a common surname)",
+              "target": "林",
+              "targetComment": "lín"
+            },
+            {
+              "uuid": "3F6C51FD-F859-4CF3-83B9-BE218B92B072",
+              "source": "supermarket",
+              "target": "超級市場",
+              "targetComment": "chāojí shìchăng"
+            },
+            {
+              "uuid": "12A804FB-5255-4132-9C8D-A40E4D41AF9A",
+              "source": "come in",
+              "target": "進來",
+              "targetComment": "jìnlái"
+            },
+            {
+              "uuid": "30540C24-F89A-44E0-8EAA-6890938DAE0E",
+              "source": "free time",
+              "target": "空",
+              "targetComment": "kòng"
+            },
+            {
+              "uuid": "3D5026A7-E89F-4CC6-8893-FD905FE72B80",
+              "source": "to run",
+              "target": "跑",
+              "targetComment": "păo"
+            },
+            {
+              "uuid": "11FB035C-2ED4-4118-B12A-BD048C5DD081",
+              "source": "district, area, region (in a city)",
+              "target": "區",
+              "targetComment": "qū"
+            },
+            {
+              "uuid": "04709157-36E7-472D-98C8-E6B9B9111956",
+              "source": "site, spot, field",
+              "target": "場",
+              "targetComment": "chăng"
+            },
+            {
+              "uuid": "6E2B9107-0DFE-40CA-887C-0BA8127DC382",
+              "source": "(measure word for lines, rows)",
+              "target": "行",
+              "targetComment": "háng"
+            },
+            {
+              "uuid": "84036211-11CB-4700-B5C1-FEA34096ADCA",
+              "source": "take away, etc.",
+              "target": "拿走",
+              "targetComment": "názŏu"
+            },
+            {
+              "uuid": "56BF1ABC-8EF9-49C6-ACB5-A65A8218199B",
+              "source": "Chen (a common surname)",
+              "target": "陳",
+              "targetComment": "chén"
+            },
+            {
+              "uuid": "55E7EF12-8C0A-496A-82B1-3E0B654CA340",
+              "source": "go in",
+              "target": "進去",
+              "targetComment": "jìnqù"
+            },
+            {
+              "uuid": "81092B9F-0819-4190-B832-64A17AEBA8AC",
+              "source": "to bring, to carry (in/with one's hand)",
+              "target": "拿",
+              "targetComment": "ná"
+            },
+            {
+              "uuid": "7C78C136-4C54-4CF7-ABE0-A3E59D8A3095",
+              "source": "to have free time, to be free",
+              "target": "有空",
+              "targetComment": "yŏukòng"
+            },
+            {
+              "uuid": "6A4903BD-56FA-4EBC-88CA-11B715E1B8EB",
+              "source": "plate of, dish of / plate",
+              "target": "盤(子)",
+              "targetComment": "pán(zi)"
+            },
+            {
+              "uuid": "4AFF12DA-930A-4017-9216-9543E03D8765",
+              "source": "to talk",
+              "target": "談話",
+              "targetComment": "tánhuà"
+            },
+            {
+              "uuid": "8F367304-A56D-4983-BF03-04A19ACDD486",
+              "source": "(please) come in",
+              "target": "請進",
+              "targetComment": "qĭngjìn"
+            },
+            {
+              "uuid": "50B838F9-C091-41A9-9A09-98A5E4D3609B",
+              "source": "to move",
+              "target": "搬",
+              "targetComment": "bān"
+            },
+            {
+              "uuid": "8BCF9A31-79BB-4CBB-A176-4D6D943A93A3",
+              "source": "to mail",
+              "target": "寄",
+              "targetComment": "jì"
+            },
+            {
+              "uuid": "C4EF19AD-058A-4271-9322-FA5095386029",
+              "source": "another day",
+              "target": "改天",
+              "targetComment": "găitiān"
+            },
+            {
+              "uuid": "B54B506D-2469-4A70-A190-2C82F2BF71E9",
+              "source": "walk (here)",
+              "target": "走來",
+              "targetComment": "zŏulái"
+            },
+            {
+              "uuid": "A4D508FC-1152-4C6C-A145-8B24D2E272CE",
+              "source": "(measure word for pages)",
+              "target": "頁",
+              "targetComment": "yè"
+            },
+            {
+              "uuid": "D8E044DB-D86E-4FC8-A0DF-E9893D468A0D",
+              "source": "address",
+              "target": "地址",
+              "targetComment": "dìzhĭ"
+            },
+            {
+              "uuid": "C633D794-048F-4CE7-839D-2FEBB9DFCB55",
+              "source": "to be ordinary / generally, ordinarily, usually",
+              "target": "平常",
+              "targetComment": "píngcháng"
+            },
+            {
+              "uuid": "AD091E58-06A9-4CD2-8ADF-E65E1B5BCA4B",
+              "source": "to come out",
+              "target": "出來",
+              "targetComment": "chūlái"
+            },
+            {
+              "uuid": "BDFEA9A5-D8E9-4DBD-BC24-B92E2D01F3A8",
+              "source": "suburbs",
+              "target": "郊區",
+              "targetComment": "jiāoqū"
+            },
+            {
+              "uuid": "C4547190-6E0F-453D-9C1E-8A5C0B6B361D",
+              "source": "to talk about, to discuss",
+              "target": "談",
+              "targetComment": "tán"
+            },
+            {
+              "uuid": "BA93BB3E-7051-4D2F-87BD-4B1903886FB2",
+              "source": "supermarket (short form)",
+              "target": "超市",
+              "targetComment": "chāoshì"
+            },
+            {
+              "uuid": "AB4BB81F-1914-4934-9E60-46E8742049C8",
+              "source": "to go or come out; to yield",
+              "target": "出",
+              "targetComment": "chū"
+            },
+            {
+              "uuid": "E5F0A267-9647-44E9-AA2C-9643103C95CD",
+              "source": "to escort, to deliver, to send off, to present",
+              "target": "送",
+              "targetComment": "sòng"
+            },
+            {
+              "uuid": "EFAB9169-0BE7-4C45-BCDC-7A8F38D80DF6",
+              "source": "to go out, to leave",
+              "target": "出去",
+              "targetComment": "chūqù"
+            },
+            {
+              "uuid": "EA28AC99-5BD5-4A36-8F4C-8DCF3DAC4BE0",
+              "source": "urban area, urban district",
+              "target": "市區",
+              "targetComment": "shìqū"
+            },
+            {
+              "uuid": "F2ACEEC0-4843-42E7-8532-AB284ADFB99B",
+              "source": "to need, to require / need to / need, requirement",
+              "target": "需要",
+              "targetComment": "xūyào"
+            },
+            {
+              "uuid": "ED0D535C-E7B1-488F-B747-1C5565D91690",
+              "source": "to go outside, to go out, to go out the door",
+              "target": "出門",
+              "targetComment": "chūmén"
+            }
+          ]
+        },
+        {
+          "uuid": "B8C834C8-726D-467A-8857-C596447CD593",
+          "title": "Where do you want to hang this painting?",
+          "comment": "Lesson 19",
+          "sort": 597,
+          "words": [
+            {
+              "uuid": "0CE515D0-B424-48C5-8A7A-E56E3AED45A3",
+              "source": "to turn on, to switch on",
+              "target": "開開",
+              "targetComment": "kāikāi"
+            },
+            {
+              "uuid": "0F39280E-CDD7-47C7-974E-8A76B7437679",
+              "source": "of course",
+              "target": "當然",
+              "targetComment": "dāngrán"
+            },
+            {
+              "uuid": "48EAEAE8-6A6F-47A5-A723-24F73ECB8E58",
+              "source": "to peel, to take or cast off, to escape",
+              "target": "脫",
+              "targetComment": "tuō"
+            },
+            {
+              "uuid": "43323CDA-D575-4644-9816-8629873A2B64",
+              "source": "to record",
+              "target": "錄",
+              "targetComment": "lù"
+            },
+            {
+              "uuid": "194C86CE-A07B-47F2-A89D-DEC1CEC4C7AA",
+              "source": "garage",
+              "target": "車庫",
+              "targetComment": "chēkù"
+            },
+            {
+              "uuid": "35650AAD-8F4D-424D-BFD6-3E1340BE649F",
+              "source": "[kitchen] cabinet, cupboard",
+              "target": "碗櫃",
+              "targetComment": "wănguì"
+            },
+            {
+              "uuid": "16046B82-1F92-4549-8597-6CB97A967BB5",
+              "source": "to be dirty",
+              "target": "髒",
+              "targetComment": "zāng"
+            },
+            {
+              "uuid": "411ABB58-E71D-4A5B-B94B-F23784B08614",
+              "source": "lamp (i.e. desk lamp)",
+              "target": "檯燈",
+              "targetComment": "táidēng"
+            },
+            {
+              "uuid": "82773EE4-51CD-4BCA-8180-30105C02F55B",
+              "source": "to smell, to listen",
+              "target": "聞",
+              "targetComment": "wén"
+            },
+            {
+              "uuid": "94414D79-B5CA-475B-831E-A7CAEABA36EE",
+              "source": "to close; to turn off",
+              "target": "關",
+              "targetComment": "guān"
+            },
+            {
+              "uuid": "8AABBA83-59E2-498C-8BC1-163179816223",
+              "source": "bedroom",
+              "target": "臥房",
+              "targetComment": "wòfáng"
+            },
+            {
+              "uuid": "61A07165-10C7-4DCF-9D26-2AF96F96254C",
+              "source": "(measure word for airplane, machine)",
+              "target": "架",
+              "targetComment": "jià"
+            },
+            {
+              "uuid": "7B0FB86E-06CA-4789-9FB4-105E64C912D9",
+              "source": "wardrobe",
+              "target": "衣櫃",
+              "targetComment": "yīguì"
+            },
+            {
+              "uuid": "87C7BD92-FD6A-4A0C-9294-9BDA80F85042",
+              "source": "middle, between, in the center",
+              "target": "當中",
+              "targetComment": "dāngzhōng"
+            },
+            {
+              "uuid": "686875B4-26D7-4B26-A1F9-8FA10F41075E",
+              "source": "it (inanimate)",
+              "target": "它",
+              "targetComment": "tā"
+            },
+            {
+              "uuid": "6DBCA01F-D55E-431C-8BC0-1B5B1F64676F",
+              "source": "to close, to shut; to turn off",
+              "target": "關上",
+              "targetComment": "guānshàng"
+            },
+            {
+              "uuid": "79348309-C8A9-46E9-91D5-D30623E4B4F4",
+              "source": "kitchen",
+              "target": "廚房",
+              "targetComment": "chúfáng"
+            },
+            {
+              "uuid": "53C5E059-E562-49EF-9D93-78DA423CF06B",
+              "source": "to throw, to toss, to cast",
+              "target": "扔",
+              "targetComment": "rēng"
+            },
+            {
+              "uuid": "914A7CD2-BEDD-4478-87E6-CAA4A82DEA7D",
+              "source": "to be hungry",
+              "target": "餓",
+              "targetComment": "è"
+            },
+            {
+              "uuid": "76DF086E-64A0-4414-8D25-B07C34890858",
+              "source": "cabinet",
+              "target": "櫃",
+              "targetComment": "guì"
+            },
+            {
+              "uuid": "D3F8792A-E1E1-44DA-B336-59AF18B63709",
+              "source": "frame, rack, stand, shelf",
+              "target": "架(子)",
+              "targetComment": "jià(zi)"
+            },
+            {
+              "uuid": "D978D7FA-DA9D-4144-94C6-CEC15043879C",
+              "source": "bookshelf",
+              "target": "書架",
+              "targetComment": "shūjià"
+            },
+            {
+              "uuid": "B629A788-662F-4329-8137-66D604A66AC0",
+              "source": "key",
+              "target": "鑰匙",
+              "targetComment": "yàoshi"
+            },
+            {
+              "uuid": "9D7BDCD0-DF19-4214-BF17-1E83EDDF6ED9",
+              "source": "best, better to; had better",
+              "target": "最好",
+              "targetComment": "zuìhăo"
+            },
+            {
+              "uuid": "D2CC04D1-07E6-4D4B-B1FD-4B57C4855F74",
+              "source": "to be sunny, to be bright",
+              "target": "亮",
+              "targetComment": "liàng"
+            },
+            {
+              "uuid": "D5A0C272-D28D-4B7C-93D2-314B357BF98D",
+              "source": "classmate / be in the same class",
+              "target": "同學",
+              "targetComment": "tóngxué"
+            },
+            {
+              "uuid": "D7688C1D-0492-444D-8B7A-1704F055FF9F",
+              "source": "(measure word for individual keys)",
+              "target": "把",
+              "targetComment": "bă"
+            },
+            {
+              "uuid": "B06DD153-FD82-4C0A-9491-DD44C29AADB2",
+              "source": "black / to be black, to be dark",
+              "target": "黑",
+              "targetComment": "hēi"
+            },
+            {
+              "uuid": "A823FA02-BE66-484C-96AB-5EA80D0A1FFC",
+              "source": "to hang",
+              "target": "掛",
+              "targetComment": "guà"
+            },
+            {
+              "uuid": "9F5CA3C3-344A-4F9A-A9A2-753FDF4E5919",
+              "source": "(used to draw attention to the object, rather than the subject of a sentence)",
+              "target": "把",
+              "targetComment": "bă"
+            },
+            {
+              "uuid": "CE5A3441-0979-4611-95B2-29747F9F9734",
+              "source": "place across from, the other side",
+              "target": "對面",
+              "targetComment": "duìmiàn"
+            },
+            {
+              "uuid": "C036B7EB-C35A-476A-8518-652D09F589EC",
+              "source": "to take off",
+              "target": "脫下來",
+              "targetComment": "tuōxiàlái"
+            },
+            {
+              "uuid": "D5E48B68-B471-4968-80C7-A5572ECF31E7",
+              "source": "need not, don't have to",
+              "target": "不用",
+              "targetComment": "búyòng"
+            },
+            {
+              "uuid": "C8365E9A-87B5-4C35-91C1-A69748D07C9D",
+              "source": "lamp, light",
+              "target": "燈",
+              "targetComment": "dēng"
+            },
+            {
+              "uuid": "D1590C37-EC5A-4C54-A981-3AD3F5E5B0F5",
+              "source": "window",
+              "target": "窗戶",
+              "targetComment": "chuānghù"
+            },
+            {
+              "uuid": "CB46F200-E531-4690-A67A-9FA02EBB2375",
+              "source": "closet, wardrobe",
+              "target": "衣櫃",
+              "targetComment": "yīguì"
+            },
+            {
+              "uuid": "A9978D4D-80A8-4CFE-BA0F-823D07043414",
+              "source": "dormitory",
+              "target": "宿舍",
+              "targetComment": "sùshè"
+            },
+            {
+              "uuid": "D1CA4F33-CF71-4EC1-9F6A-071529C0DA95",
+              "source": "video machine",
+              "target": "錄影機",
+              "targetComment": "lùyĭngjī"
+            },
+            {
+              "uuid": "C66CFE5C-3F01-4673-9A15-2BB37C79BFE5",
+              "source": "news",
+              "target": "新聞",
+              "targetComment": "xīnwén"
+            },
+            {
+              "uuid": "EC70E65F-453E-4727-BA08-1EDC5468A188",
+              "source": "to bring (usually in your hand or in a container)",
+              "target": "帶",
+              "targetComment": "dài"
+            },
+            {
+              "uuid": "FE6FBD38-C453-4384-B4E6-2B2874955C2E",
+              "source": "cabinet, sideboard",
+              "target": "櫃(子)",
+              "targetComment": "guì(zi)"
+            }
+          ]
+        },
+        {
+          "uuid": "14853DD9-28FA-4A71-9B06-5123B6BCD456",
+          "title": "They are waiting for us downstairs.",
+          "comment": "Lesson 20",
+          "sort": 639,
+          "words": [
+            {
+              "uuid": "22C5DF75-5FE3-4053-8BF8-A3F316D66AAB",
+              "source": "originally, formerly",
+              "target": "原來",
+              "targetComment": "yuánlái"
+            },
+            {
+              "uuid": "193C22EC-F0B3-4968-914F-BA52394D3BFE",
+              "source": "have to, be forced to",
+              "target": "只好",
+              "targetComment": "zhĭhăo"
+            },
+            {
+              "uuid": "2BCD3C1F-13C0-4E3D-9A98-E6A31DBAC810",
+              "source": "story",
+              "target": "故事",
+              "targetComment": "gùshì"
+            },
+            {
+              "uuid": "2B44C5AD-D276-4396-8A97-4A3E4159AC0D",
+              "source": "a pair / (measure word for shoes, chopsticks, etc.)",
+              "target": "雙",
+              "targetComment": "shuāng"
+            },
+            {
+              "uuid": "1FE7C6DE-D289-4CBC-9B91-6E6E742ABFF4",
+              "source": "(measure word for flowers)",
+              "target": "朵",
+              "targetComment": "duŏ"
+            },
+            {
+              "uuid": "4A19CF64-5CEC-4F88-8E05-78E1FF5384B6",
+              "source": "grade or year in school",
+              "target": "年級",
+              "targetComment": "niánjí"
+            },
+            {
+              "uuid": "0972C3A0-48DA-4201-930E-51275C86E79E",
+              "source": "color",
+              "target": "顏色",
+              "targetComment": "yánsè"
+            },
+            {
+              "uuid": "269A9E13-453F-4B18-95A0-28985844DF08",
+              "source": "grass",
+              "target": "草",
+              "targetComment": "căo"
+            },
+            {
+              "uuid": "3CADBA66-4406-42D0-B784-0543C02A4ADA",
+              "source": "blackboard",
+              "target": "黑板",
+              "targetComment": "hēibăn"
+            },
+            {
+              "uuid": "0322082D-FEAA-435F-AD87-E54A6D99E6EB",
+              "source": "the most part",
+              "target": "大部分",
+              "targetComment": "dàbùfèn"
+            },
+            {
+              "uuid": "4C0CAB04-5E9E-4F24-82EC-C46A2446C445",
+              "source": "white / to be white",
+              "target": "白",
+              "targetComment": "bái"
+            },
+            {
+              "uuid": "79E3878E-FB63-4A25-A5A3-4ADC30F1CA66",
+              "source": "color",
+              "target": "色",
+              "targetComment": "sè"
+            },
+            {
+              "uuid": "4D7D9842-ABD7-4317-8DB5-A763417EE82C",
+              "source": "to live at school",
+              "target": "住校",
+              "targetComment": "zhùxiào"
+            },
+            {
+              "uuid": "5C59362C-BF75-435D-B028-7C807CCD2670",
+              "source": "be willing, want to, like to (after being asked to do)",
+              "target": "願意",
+              "targetComment": "yuànyì"
+            },
+            {
+              "uuid": "8A685CF1-3EC7-4C6D-B22E-F529C4B0C629",
+              "source": "always, without exception",
+              "target": "總是",
+              "targetComment": "zŏngshì"
+            },
+            {
+              "uuid": "58347496-C59C-40B2-A571-83E325F2EABA",
+              "source": "suddenly",
+              "target": "忽然",
+              "targetComment": "hūrán"
+            },
+            {
+              "uuid": "4DE1F3DA-BE57-4CAF-A3FD-6052460A5AA2",
+              "source": "(one) part, section, piece",
+              "target": "(一)部分",
+              "targetComment": "(yí)bùfèn"
+            },
+            {
+              "uuid": "66F4E856-B297-48E0-B2C1-F46C2EA822B0",
+              "source": "green / to be green",
+              "target": "綠",
+              "targetComment": "luù"
+            },
+            {
+              "uuid": "961B1629-86D7-41EB-835E-EAF0A3D5BF0C",
+              "source": "shoe",
+              "target": "鞋(子)",
+              "targetComment": "xié(zi)"
+            },
+            {
+              "uuid": "7B99461B-FEA1-45C7-B5D8-DFFE255B3A69",
+              "source": "introduction letter",
+              "target": "介紹信",
+              "targetComment": "jièshàoxìn"
+            },
+            {
+              "uuid": "9E012216-3768-431E-ADF4-BBFCA80FF78D",
+              "source": "to be pretty, to be beautiful",
+              "target": "漂亮",
+              "targetComment": "piàoliàng"
+            },
+            {
+              "uuid": "D50826E2-E728-4CE1-BEB8-0959B75B707A",
+              "source": "yellow / to be yellow",
+              "target": "黃",
+              "targetComment": "huáng"
+            },
+            {
+              "uuid": "B4480F32-C700-4714-A000-0B95BC4816BB",
+              "source": "leather",
+              "target": "皮(子)",
+              "targetComment": "pí(zi)"
+            },
+            {
+              "uuid": "B58679C8-632E-4DCE-9071-74F852952959",
+              "source": "to change, to exchange (something for something else)",
+              "target": "換",
+              "targetComment": "huàn"
+            },
+            {
+              "uuid": "C62E51DA-5B24-4A4C-9C3B-72D34772A206",
+              "source": "to bloom, to blossom",
+              "target": "開",
+              "targetComment": "kāi"
+            },
+            {
+              "uuid": "D35E36F8-87C1-4DCF-8D8A-69A987AAE79A",
+              "source": "yellow",
+              "target": "黃色",
+              "targetComment": "huángsè"
+            },
+            {
+              "uuid": "BCF9BECE-C62A-4B4F-BB3E-98097836DE65",
+              "source": "flower",
+              "target": "花",
+              "targetComment": "huā"
+            },
+            {
+              "uuid": "9A077DA0-108C-45B5-B298-8792510BF4AB",
+              "source": "leather shoes",
+              "target": "皮鞋",
+              "targetComment": "píxié"
+            },
+            {
+              "uuid": "AE26D511-2A16-4EE9-A6EE-00E7CF2E2952",
+              "source": "to be ready",
+              "target": "好了",
+              "targetComment": "hăole"
+            },
+            {
+              "uuid": "C0B3B9A1-C76E-4108-BFAE-F8B1BC739222",
+              "source": "to wear (hat, watch, jewelry, glasses, etc.)",
+              "target": "戴",
+              "targetComment": "dài"
+            },
+            {
+              "uuid": "C2799A8C-DD47-4448-A3FC-4077C337592E",
+              "source": "red / to be red",
+              "target": "紅",
+              "targetComment": "hóng"
+            },
+            {
+              "uuid": "9B0CC053-BC69-4582-9FE6-ED2E99154007",
+              "source": "to bloom flowers",
+              "target": "開花",
+              "targetComment": "kāihuā"
+            },
+            {
+              "uuid": "DFBF4F5F-0C2B-4F50-BC1F-3E89DA9E07C3",
+              "source": "overcoat, jacket",
+              "target": "外套",
+              "targetComment": "wàitào"
+            },
+            {
+              "uuid": "E9895FCA-A106-4993-9C95-77B25BCA0E9C",
+              "source": "to be cool",
+              "target": "涼",
+              "targetComment": "liáng"
+            },
+            {
+              "uuid": "F7F30B38-D9A4-4934-9401-F9A0DB90A931",
+              "source": "blue / to be blue",
+              "target": "藍",
+              "targetComment": "lán"
+            },
+            {
+              "uuid": "EF56B4F2-DA97-4815-8E52-CCB3CA5C1D45",
+              "source": "to be (pleasantly) cool",
+              "target": "涼快",
+              "targetComment": "liángkuài"
+            },
+            {
+              "uuid": "F9BA4AFD-273A-4B13-A9D2-A1956C42E0E6",
+              "source": "to live at school",
+              "target": "住校",
+              "targetComment": "zhùxiào"
+            },
+            {
+              "uuid": "F21A9F67-70E5-4DF9-96C1-AA70D397B32E",
+              "source": "lawn, meadow",
+              "target": "草地",
+              "targetComment": "căodì"
+            },
+            {
+              "uuid": "F689032D-1B21-406C-91AF-58D43FCF26CD",
+              "source": "to put on make-up",
+              "target": "化妝",
+              "targetComment": "huàzhuāng"
+            },
+            {
+              "uuid": "E6FA9F3F-6B51-441D-9D03-66895F033195",
+              "source": "suit, set of clothes, books, furniture, etc.",
+              "target": "套",
+              "targetComment": "tào"
+            },
+            {
+              "uuid": "EAF5B1A1-3192-436F-93B2-8583CAA1C46C",
+              "source": "(verbal suffix, indicating the action or state is continuing)",
+              "target": "著",
+              "targetComment": "zhe"
+            }
+          ]
+        },
+        {
+          "uuid": "62E5B707-A700-42C3-A243-25BE2F8BACB6",
+          "title": "Is this box big enough?",
+          "comment": "Lesson 21",
+          "sort": 681,
+          "words": [
+            {
+              "uuid": "07E0CB36-3762-493D-A35A-614C731B5E69",
+              "source": "to (not) be able to make out by V (e.g. seeing, hearing, eating, smelling)",
+              "target": "V得出來 / V不出來",
+              "targetComment": "V dechūlái / V bùchūlái"
+            },
+            {
+              "uuid": "07E9ACBC-58D3-4AEB-BA99-0A343E49D1A5",
+              "source": "(measure word for meal) / food, meal",
+              "target": "餐",
+              "targetComment": "cān"
+            },
+            {
+              "uuid": "3A3A2786-00B2-4485-9488-92D0BEFFBFA0",
+              "source": "adult",
+              "target": "大人",
+              "targetComment": "dàrén"
+            },
+            {
+              "uuid": "2ECC09A9-8690-4855-921E-9DEC93104134",
+              "source": "to have a high/low opinion of",
+              "target": "看得起 / 看不起",
+              "targetComment": "kàndeqĭ / kànbùqĭ"
+            },
+            {
+              "uuid": "0A2CE029-C4AF-4519-9E47-7B01BF5BC497",
+              "source": "good night",
+              "target": "晚安",
+              "targetComment": "wănān"
+            },
+            {
+              "uuid": "17F09CB8-810E-483E-BF0E-B0AD93825379",
+              "source": "bag, sack / bag of",
+              "target": "袋(子)",
+              "targetComment": "dài(zi)"
+            },
+            {
+              "uuid": "2AFC5BC5-6F14-4F58-B274-2917F2964941",
+              "source": "(indicates downward motion of the action or the capacity of the topic)",
+              "target": "V得下 / V不下",
+              "targetComment": "V dexià / V búxià"
+            },
+            {
+              "uuid": "435AA124-D136-4553-AED9-13D36041BC5D",
+              "source": "refrigerator",
+              "target": "冰箱",
+              "targetComment": "bīngxiāng"
+            },
+            {
+              "uuid": "04426925-30B8-4BB9-BE9F-EED9BA96EC8A",
+              "source": "(public) park",
+              "target": "公園",
+              "targetComment": "gōngyuán"
+            },
+            {
+              "uuid": "2E6D4200-FA22-432D-9C10-C57382AA749C",
+              "source": "bread",
+              "target": "麵包",
+              "targetComment": "miànbāo"
+            },
+            {
+              "uuid": "44FEB394-7D74-48E2-A4F9-11BD22CAAD2D",
+              "source": "to fill, to load",
+              "target": "裝",
+              "targetComment": "zhuāng"
+            },
+            {
+              "uuid": "74E24B6E-A5BA-4F98-9075-7431FC46C920",
+              "source": "to (not) be able to recall O",
+              "target": "想起O來 / 想不起O來",
+              "targetComment": "xiăngqĭ O lái / xiăngbùqĭ O lái"
+            },
+            {
+              "uuid": "648A4914-3368-4D79-AE64-C9876638F1E4",
+              "source": "to deep fry",
+              "target": "炸",
+              "targetComment": "zhá"
+            },
+            {
+              "uuid": "782BED2B-D134-41DC-90EC-D09DBEDC802C",
+              "source": "to start to V",
+              "target": "V起(O)來",
+              "targetComment": "V qĭ (O) lái"
+            },
+            {
+              "uuid": "5D7384B4-1711-45D7-BB2C-DB9C910FAD5E",
+              "source": "to (not) be able to afford to V",
+              "target": "V得起 / V不起",
+              "targetComment": "V deqĭ / V bùqĭ"
+            },
+            {
+              "uuid": "6D2C39F6-A66E-4DA2-AC4E-23AD5E94E487",
+              "source": "to (not) be able to think up [an idea]",
+              "target": "想得出(O)來 / 想不出(O)來",
+              "targetComment": "xiăngdechū (O) lái / xiăngbùchū (O) lái"
+            },
+            {
+              "uuid": "6205B544-F3F1-48D4-9521-D2C611D3CC3E",
+              "source": "(measure word for tablets, slices, lawns, etc.)",
+              "target": "片",
+              "targetComment": "piàn"
+            },
+            {
+              "uuid": "7BC2BCD1-FC89-4A3E-9664-16A0E0738517",
+              "source": "soft drink, soda pop",
+              "target": "汽水兒",
+              "targetComment": "qìshuĭ(r)"
+            },
+            {
+              "uuid": "81E16473-1BA0-4B5F-8CC7-69497638B6A8",
+              "source": "to wrap, to contain / package of, parcel of",
+              "target": "包",
+              "targetComment": "bāo"
+            },
+            {
+              "uuid": "61B7B70A-F8D6-4192-BF2A-F0F43334328E",
+              "source": "fried chicken",
+              "target": "炸雞",
+              "targetComment": "zhájī"
+            },
+            {
+              "uuid": "839CE957-9F10-4847-8D69-C4AE75D302EA",
+              "source": "to be thirsty",
+              "target": "渴",
+              "targetComment": "kě"
+            },
+            {
+              "uuid": "87E555E4-8EC1-47D7-BF99-F4DE2935F1FE",
+              "source": "otherwise",
+              "target": "要不然",
+              "targetComment": "yàobùrán"
+            },
+            {
+              "uuid": "861745D4-0879-40F7-B5A9-2F358A109616",
+              "source": "to roast, to toast, to bake",
+              "target": "烤",
+              "targetComment": "kăo"
+            },
+            {
+              "uuid": "6CBA2F4E-38E5-4FC2-AD2D-0D45689CA937",
+              "source": "wind",
+              "target": "風",
+              "targetComment": "fēng"
+            },
+            {
+              "uuid": "62A50169-0975-4231-BC61-E743A2018F5A",
+              "source": "to be scented, to be fragrant",
+              "target": "香",
+              "targetComment": "xiāng"
+            },
+            {
+              "uuid": "AE615B4C-0D5D-40A5-B62D-D6822D15E187",
+              "source": "to picnic / picnic",
+              "target": "野餐",
+              "targetComment": "yěcān"
+            },
+            {
+              "uuid": "BF3433FF-3E5F-477C-AEB0-E90D967DC86B",
+              "source": "to have a clear/guilty conscience toward",
+              "target": "對得起 / 對不起",
+              "targetComment": "duìdeqĭ / duìbùqĭ"
+            },
+            {
+              "uuid": "C96226B7-6091-4B62-8246-89789B9CACE2",
+              "source": "jar, canister, can / can of",
+              "target": "罐(子)",
+              "targetComment": "guàn(zi)"
+            },
+            {
+              "uuid": "AFA54E8E-CB17-4791-B465-DB1813DFD98B",
+              "source": "sugar, candy",
+              "target": "糖",
+              "targetComment": "táng"
+            },
+            {
+              "uuid": "9D187274-C006-4A9C-9BA8-E13445123A26",
+              "source": "diary",
+              "target": "日記",
+              "targetComment": "rìjì"
+            },
+            {
+              "uuid": "AF0A8531-F258-4F87-B7D9-EB6B59A709A3",
+              "source": "box, case / box of",
+              "target": "盒(子)",
+              "targetComment": "hé(zi)"
+            },
+            {
+              "uuid": "BF0BC2B7-1D77-42B7-BACA-288DEFE70365",
+              "source": "box, trunk, case / box of, trunk of",
+              "target": "箱(子)",
+              "targetComment": "xiāng(zi)"
+            },
+            {
+              "uuid": "B0136E8D-3C40-40CF-82FD-49474936F7F0",
+              "source": "flour, dough, noodle",
+              "target": "麵",
+              "targetComment": "miàn"
+            },
+            {
+              "uuid": "A3D3FFD2-118A-489B-9E93-34B414603C72",
+              "source": "pocket, bag, sack",
+              "target": "口袋",
+              "targetComment": "kŏudài"
+            },
+            {
+              "uuid": "EBB4BBAF-5887-48D0-9D51-33ABD711135A",
+              "source": "sound, voice",
+              "target": "聲音",
+              "targetComment": "shēngyīn"
+            },
+            {
+              "uuid": "F1E9ADB8-9977-4CC0-95AA-9B092F4E9671",
+              "source": "paper",
+              "target": "紙",
+              "targetComment": "zhĭ"
+            },
+            {
+              "uuid": "DE8ECF18-F6B7-48DF-8A78-5C538B64215B",
+              "source": "ice / to be frozen",
+              "target": "冰",
+              "targetComment": "bīng"
+            },
+            {
+              "uuid": "F49C86EA-25DB-4B1A-8C7B-FD5D587AB082",
+              "source": "barbecue (lit. roast meat)",
+              "target": "烤肉",
+              "targetComment": "kăoròu"
+            },
+            {
+              "uuid": "F6E3DE1E-729B-4D65-BAE8-BE2A308ACBAF",
+              "source": "to begin, to start",
+              "target": "開始",
+              "targetComment": "kāishĭ"
+            },
+            {
+              "uuid": "F117C8C2-02BE-4DBF-B48D-D7F7CA5F6A2E",
+              "source": "Western (style) food",
+              "target": "西餐",
+              "targetComment": "xīcān"
+            },
+            {
+              "uuid": "FD2E9CA4-8224-45AD-ABE2-3FF25CE9F23C",
+              "source": "to prepare, to intend / preparations",
+              "target": "準備",
+              "targetComment": "zhŭnbèi"
+            }
+          ]
+        },
+        {
+          "uuid": "4EFB5BCF-D346-4643-B60C-FDA982C45CF5",
+          "title": "I can't run that far.",
+          "comment": "Lesson 22",
+          "sort": 723,
+          "words": [
+            {
+              "uuid": "3C0BBBCA-D100-4E66-916C-B833D69B10B1",
+              "source": "(used at the end of a verb to indicate ability or completion)",
+              "target": "了",
+              "targetComment": "liăo"
+            },
+            {
+              "uuid": "08EF1272-2B3F-44D0-B5EA-25DC73CE789F",
+              "source": "bottle / bottle of, jar of, vase of",
+              "target": "瓶(子)",
+              "targetComment": "píng(zi)"
+            },
+            {
+              "uuid": "958C2BB9-5045-4631-A677-8C36D90077A3",
+              "source": "basketball",
+              "target": "籃球",
+              "targetComment": "lánqiú"
+            },
+            {
+              "uuid": "88F3DBB3-9F6A-4F6C-A73B-38E058AD35CA",
+              "source": "ball",
+              "target": "球",
+              "targetComment": "qiú"
+            },
+            {
+              "uuid": "5535F0A5-04B9-41A3-826F-11D453D2DFB3",
+              "source": "net",
+              "target": "網",
+              "targetComment": "wăng"
+            },
+            {
+              "uuid": "701DC5D1-F924-41EE-8BAD-678C6648CAFC",
+              "source": "baseball",
+              "target": "棒球",
+              "targetComment": "bàngqiú"
+            },
+            {
+              "uuid": "60A88534-3802-49FF-AC50-6719CE993C72",
+              "source": "soccer",
+              "target": "足球",
+              "targetComment": "zúqiú"
+            },
+            {
+              "uuid": "D48ADC63-8C27-42B8-B6D5-36DA19167807",
+              "source": "tennis",
+              "target": "網球",
+              "targetComment": "wăngqiú"
+            },
+            {
+              "uuid": "9834765D-65CB-42F3-87D3-0C16EC3353BE",
+              "source": "volleyball",
+              "target": "排球",
+              "targetComment": "páiqiú"
+            },
+            {
+              "uuid": "D2CA0311-AA27-4C91-91AE-B144B95217DE",
+              "source": "to hit a ball, to play a ballgame",
+              "target": "打球",
+              "targetComment": "dăqiú"
+            },
+            {
+              "uuid": "F994CB6D-A534-4A38-BE7A-D2611CE50AEF",
+              "source": "to be nervous, to be tense",
+              "target": "緊張",
+              "targetComment": "jĭnzhāng"
+            },
+            {
+              "uuid": "FA0D417B-2971-4574-B17D-B42B06F39C21",
+              "source": "to be clear (speaking, head, thinking, glass, etc.)",
+              "target": "清楚",
+              "targetComment": "qīngchŭ"
+            },
+            {
+              "uuid": "EAA5DD6A-4502-4D00-86B5-50305D87460A",
+              "source": "to be tight",
+              "target": "緊",
+              "targetComment": "jĭn"
+            },
+            {
+              "uuid": "EF0B4B5C-8259-4607-BCC3-01E45E4B4B93",
+              "source": "to practice, to drill / practice, exercise",
+              "target": "練習",
+              "targetComment": "liànxí"
+            }
+          ]
+        },
+        {
+          "uuid": "8745A830-9060-4252-AAB9-2E7B7806475C",
+          "title": "Let's have a nice celebration.",
+          "comment": "Lesson 23",
+          "sort": 738,
+          "words": [
+            {
+              "uuid": "2D073CDB-CF7D-41D2-B116-1164D3AE7131",
+              "source": "to be sour",
+              "target": "酸",
+              "targetComment": "suān"
+            },
+            {
+              "uuid": "4AD4E5F3-4D84-4C4B-B270-CE712A7617E1",
+              "source": "to have a meeting",
+              "target": "開會",
+              "targetComment": "kāihuì"
+            },
+            {
+              "uuid": "32BFC4DB-7627-4095-BE68-DC97C7B4F860",
+              "source": "plum",
+              "target": "李(子)",
+              "targetComment": "lĭ(zi)"
+            },
+            {
+              "uuid": "7AF2F4C5-D059-4C73-A608-2A31211ADC96",
+              "source": "joke",
+              "target": "笑話",
+              "targetComment": "xiàohuà"
+            },
+            {
+              "uuid": "7FE450A9-8E4F-464C-9335-1587EA6A46A9",
+              "source": "tea party",
+              "target": "茶會",
+              "targetComment": "cháhuì"
+            },
+            {
+              "uuid": "511A6F93-EA6E-4E12-A24C-A2A6689478A4",
+              "source": "to hold an event",
+              "target": "開",
+              "targetComment": "kāi"
+            },
+            {
+              "uuid": "91950024-5D1D-4530-85F6-B2FC4F7CADC6",
+              "source": "to add to",
+              "target": "加",
+              "targetComment": "jiā"
+            },
+            {
+              "uuid": "86534FB0-614D-4F7F-A8A7-FD38EFD3246E",
+              "source": "to wish (good luck, good health, etc. to someone), to offer good wishes",
+              "target": "祝",
+              "targetComment": "zhù"
+            },
+            {
+              "uuid": "8D40C2CB-1972-4C6C-BBA4-C985F516B911",
+              "source": "dancing party, ball",
+              "target": "舞會",
+              "targetComment": "wŭhuì"
+            },
+            {
+              "uuid": "6B13381E-678D-40D2-82A5-0D352F88AABB",
+              "source": "ice cube",
+              "target": "冰塊兒",
+              "targetComment": "bīngkuàir"
+            },
+            {
+              "uuid": "4D7622ED-FFE2-431F-975B-70D860D713FB",
+              "source": "to celebrate",
+              "target": "慶祝",
+              "targetComment": "qìngzhù"
+            },
+            {
+              "uuid": "7DF82625-BF5C-4769-8244-71974138D69D",
+              "source": "to be round, to be circular",
+              "target": "圓",
+              "targetComment": "yuán"
+            },
+            {
+              "uuid": "630992DB-C3CB-44EC-970F-5785BB4CAC76",
+              "source": "eye",
+              "target": "眼睛",
+              "targetComment": "yănjīng"
+            },
+            {
+              "uuid": "D1EDA8F6-DB9B-4D82-88B2-99D9C1C19E66",
+              "source": "mouth",
+              "target": "嘴巴",
+              "targetComment": "zuĭba"
+            },
+            {
+              "uuid": "9A5DBB5C-B01A-48FF-8C26-70C78910FE53",
+              "source": "nose",
+              "target": "鼻(子)",
+              "targetComment": "bí(zi)"
+            },
+            {
+              "uuid": "C42CC2A1-B539-4EC6-9167-AC306140443B",
+              "source": "meeting, party",
+              "target": "會",
+              "targetComment": "huì"
+            },
+            {
+              "uuid": "A7C8964C-D50E-47C6-B546-E79F9800AFC3",
+              "source": "orange, tangerine",
+              "target": "橘(子)",
+              "targetComment": "jú(zi)"
+            },
+            {
+              "uuid": "A50EABCF-2B08-447A-AAF3-78B90C3B3B63",
+              "source": "to be interesting, to be full of fun",
+              "target": "好玩兒",
+              "targetComment": "hăowán(r)"
+            },
+            {
+              "uuid": "C74E88C8-23F7-4767-A0F9-319DB21537A0",
+              "source": "(usually added to the end of an adjective to form an adverbial phrase)",
+              "target": "地",
+              "targetComment": "de"
+            },
+            {
+              "uuid": "C3A75457-B0D9-475A-98CA-AB96814DD098",
+              "source": "to be sweet",
+              "target": "甜",
+              "targetComment": "tián"
+            },
+            {
+              "uuid": "D047DFBF-DEDA-419C-A5C3-7DAC6FD178B8",
+              "source": "moreover, furthermore, more, again (in the past)",
+              "target": "又",
+              "targetComment": "yòu"
+            },
+            {
+              "uuid": "FB4B0E94-7CA1-40EC-9443-7AF20683BB67",
+              "source": "the day before yesterday",
+              "target": "前天",
+              "targetComment": "qiántiān"
+            },
+            {
+              "uuid": "FA1C4EBB-16B7-4442-A110-B508A00B5FAB",
+              "source": "birthday",
+              "target": "生日",
+              "targetComment": "shēngrì"
+            },
+            {
+              "uuid": "F75ABBAD-5D20-41D3-B082-8847C6963740",
+              "source": "snack, light refreshments",
+              "target": "點心",
+              "targetComment": "diănxīn"
+            },
+            {
+              "uuid": "EF104FDA-FCCB-4F5B-ADC2-81A33363CF6B",
+              "source": "to laugh, to laugh at, to smile",
+              "target": "笑",
+              "targetComment": "xiào"
+            }
+          ]
+        },
+        {
+          "uuid": "44EE1EC8-7573-4F2F-B697-12E87E8B02BE",
+          "title": "I got my watch lost.",
+          "comment": "Lesson 24",
+          "sort": 764,
+          "words": [
+            {
+              "uuid": "45510C40-4118-4491-A7B0-F17BDE52846D",
+              "source": "to be important, to be vital",
+              "target": "重要",
+              "targetComment": "zhòngyào"
+            },
+            {
+              "uuid": "24C8E22E-B98C-4FA3-9B00-89E01F691239",
+              "source": "police officer",
+              "target": "警察",
+              "targetComment": "jĭngchá"
+            },
+            {
+              "uuid": "0F7B6CF5-5812-432A-BC17-925754D2774C",
+              "source": "to break (into pieces)",
+              "target": "打破",
+              "targetComment": "dăpò"
+            },
+            {
+              "uuid": "2286B741-7C35-4C3C-BEB1-6807D9C2DC44",
+              "source": "to be [seriously] confused, to be bewildered",
+              "target": "胡塗",
+              "targetComment": "hútú"
+            },
+            {
+              "uuid": "1CD07DDA-21A2-47DD-A501-ACE325D31734",
+              "source": "schoolbag, bookbag",
+              "target": "書包",
+              "targetComment": "shūbāo"
+            },
+            {
+              "uuid": "4101379A-43D7-4F0C-A7D4-C6032EF7F778",
+              "source": "full name",
+              "target": "姓名",
+              "targetComment": "xìngmíng"
+            },
+            {
+              "uuid": "2B1FA7F3-BFFC-41C0-AF11-6A8EC9D92645",
+              "source": "to be angry",
+              "target": "生氣",
+              "targetComment": "shēngqì"
+            },
+            {
+              "uuid": "7D52EAF3-B9F4-4E98-B075-FFE5097FD1E7",
+              "source": "to rob, to snatch, to grab",
+              "target": "搶",
+              "targetComment": "qiăng"
+            },
+            {
+              "uuid": "53D5C0D5-B84C-4698-9FE5-086A66FCD21C",
+              "source": "to have an accident",
+              "target": "出事",
+              "targetComment": "chūshì"
+            },
+            {
+              "uuid": "4E6245AB-F601-46A2-B932-4F87574761EA",
+              "source": "(general verb of doing, e.g. to make, to do, to fix, to fiddle with)",
+              "target": "弄",
+              "targetComment": "nòng"
+            },
+            {
+              "uuid": "80B9A08D-FC09-4BA4-9100-693372F440F6",
+              "source": "thief, burglar",
+              "target": "小偷",
+              "targetComment": "xiăotōu"
+            },
+            {
+              "uuid": "817659C3-00EC-40B5-B937-7F9802503D85",
+              "source": "etc., and so on",
+              "target": "什麼的",
+              "targetComment": "shénmede"
+            },
+            {
+              "uuid": "B13B3944-D7D5-45F3-81A1-7FEF6296B4B6",
+              "source": "to hope, to wish",
+              "target": "希望",
+              "targetComment": "xīwàng"
+            },
+            {
+              "uuid": "9E0B9993-FDA5-4B92-996A-0BBC37092281",
+              "source": "(used in a passive sentence structure to introduce an agent) / to let, to allow, to permit, to make",
+              "target": "讓",
+              "targetComment": "ràng"
+            },
+            {
+              "uuid": "B589A7DF-20E8-46CC-AD0D-B0670816E8EA",
+              "source": "to steal, to burglarize",
+              "target": "偷",
+              "targetComment": "tōu"
+            },
+            {
+              "uuid": "CA263E91-30E9-4AE8-ACA9-FD71BB35D894",
+              "source": "to lose something, to throw, to cast, to dismiss, to put or lay aside",
+              "target": "丟",
+              "targetComment": "diū"
+            },
+            {
+              "uuid": "C1B196AF-6ABE-4114-99FA-B117FD149713",
+              "source": "to report something to the police",
+              "target": "報警",
+              "targetComment": "bàojĭng"
+            },
+            {
+              "uuid": "CFFDF74E-7A96-4A88-9D4C-51BD867AD8D9",
+              "source": "to be broken",
+              "target": "破",
+              "targetComment": "pò"
+            },
+            {
+              "uuid": "AA46AB0D-7169-4ACB-B23D-F2E6A3C1395B",
+              "source": "to be strange, to be unusual",
+              "target": "(奇)怪",
+              "targetComment": "(qí)guài"
+            },
+            {
+              "uuid": "B7245A93-FA0D-4693-B982-62CA6B31086B",
+              "source": "bank",
+              "target": "銀行",
+              "targetComment": "yínháng"
+            },
+            {
+              "uuid": "BF1B8D75-251E-4088-87A6-3AFCF43A6548",
+              "source": "to take off, to pick, to pluck",
+              "target": "摘",
+              "targetComment": "zhāi"
+            },
+            {
+              "uuid": "E7E70140-0878-4AE2-95FA-98A53F102817",
+              "source": "to cry, to weep",
+              "target": "哭",
+              "targetComment": "kū"
+            },
+            {
+              "uuid": "E556EBFD-CC4A-430D-9472-B47BBAF69485",
+              "source": "bathroom",
+              "target": "洗手間",
+              "targetComment": "xĭshŏujiān"
+            }
+          ]
+        },
+        {
+          "uuid": "1CCF43BF-2865-43D8-AFB0-653EE28829EF",
+          "title": "Congratulations!",
+          "comment": "Lesson 25",
+          "sort": 788,
+          "words": [
+            {
+              "uuid": "32FEE9EA-65D2-4705-99B6-3A9197C79519",
+              "source": "more and more ...",
+              "target": "越來越...",
+              "targetComment": "yuèláiyuè ..."
+            },
+            {
+              "uuid": "157018EA-E81C-4787-A91F-977E4AF6B63A",
+              "source": "to congratulate",
+              "target": "恭喜",
+              "targetComment": "gōngxĭ"
+            },
+            {
+              "uuid": "1B701428-3B36-4AE6-A0EB-53AE4C8E0A9E",
+              "source": "to get everything your heart desires",
+              "target": "萬事如意",
+              "targetComment": "wànshìrúyì"
+            },
+            {
+              "uuid": "27969393-894E-4B98-B877-6F8B5719431D",
+              "source": "summer vacation",
+              "target": "暑假",
+              "targetComment": "shŭjià"
+            },
+            {
+              "uuid": "88EF8D8C-3584-4C93-93D1-3C3DF99891D6",
+              "source": "yard (land)",
+              "target": "院(子)",
+              "targetComment": "yuàn(zi)"
+            },
+            {
+              "uuid": "665CEFFC-23DB-4D89-A190-B80335E21157",
+              "source": "at any time",
+              "target": "隨時",
+              "targetComment": "suíshí"
+            },
+            {
+              "uuid": "8776D2F3-8398-4E9F-B4E3-362E7E7B61B4",
+              "source": "graduate school",
+              "target": "研究所",
+              "targetComment": "yánjiùsuŏ"
+            },
+            {
+              "uuid": "6474C6B5-5BE3-4D6C-B4E1-4D6B722434E7",
+              "source": "not until, only then, only, merely",
+              "target": "才",
+              "targetComment": "cái"
+            },
+            {
+              "uuid": "864EB54C-6DD0-4E91-9766-304C3DEB30B2",
+              "source": "to be lively, to be fun, to be bustling with noise",
+              "target": "熱鬧",
+              "targetComment": "rènào"
+            },
+            {
+              "uuid": "C6DFD65C-6647-4C55-8082-3BBD38038F0D",
+              "source": "(measure word for publications, e.g. newspapers, magazines, jobs)",
+              "target": "份",
+              "targetComment": "fèn"
+            },
+            {
+              "uuid": "CEB79909-B7E3-4CEC-8275-4704927136E5",
+              "source": "progress / to improve",
+              "target": "進步",
+              "targetComment": "jìnbù"
+            },
+            {
+              "uuid": "A343EFD8-9123-49F0-9AFD-CD15E29EC0B0",
+              "source": "gift",
+              "target": "禮物",
+              "targetComment": "lĭwù"
+            },
+            {
+              "uuid": "D73A9DF1-A6B4-4422-9EA7-9DEFEA7FC9A0",
+              "source": "to be healthy, to be in good physical condition / health",
+              "target": "健康",
+              "targetComment": "jiànkāng"
+            },
+            {
+              "uuid": "C4B2A9C7-A2F4-4F53-B134-C4C14824D0BD",
+              "source": "work / to work",
+              "target": "工作",
+              "targetComment": "gōngzuò"
+            },
+            {
+              "uuid": "CF1884F0-A0A4-4072-A6B4-66F17132A24F",
+              "source": "to be happy",
+              "target": "快樂",
+              "targetComment": "kuàilè"
+            },
+            {
+              "uuid": "A6BC0DEE-4357-46FF-ACC5-4D4BAA5BAA50",
+              "source": "to research, to study",
+              "target": "研究",
+              "targetComment": "yánjiù"
+            },
+            {
+              "uuid": "DB19ECCE-7F21-44AF-9D4C-B7AA45FED99C",
+              "source": "matter, affair, something to do, event",
+              "target": "事情",
+              "targetComment": "shìqíng"
+            },
+            {
+              "uuid": "E61C5FD2-F925-47FB-BD5C-E55EF3F17D3F",
+              "source": "whatever, wherever, whenever, do as one pleases / to be casual",
+              "target": "隨便",
+              "targetComment": "suíbiàn"
+            },
+            {
+              "uuid": "F5AFA0FA-E320-4E0E-9B8A-11045230030B",
+              "source": "to chat, to talk",
+              "target": "聊",
+              "targetComment": "liáo"
+            },
+            {
+              "uuid": "F41EC503-43C9-4047-A503-A350C3B4F810",
+              "source": "to graduate, to finish school",
+              "target": "畢業",
+              "targetComment": "bìyè"
+            },
+            {
+              "uuid": "EA1AAFED-518D-430E-9A5A-C89B958E3113",
+              "source": "(measure word for publications, e.g. newspapers, magazines, jobs)",
+              "target": "份",
+              "targetComment": "fèn"
+            },
+            {
+              "uuid": "E310E430-E928-4B58-9541-BCE7C7FDC5C6",
+              "source": "winter vacation",
+              "target": "寒假",
+              "targetComment": "hánjià"
+            },
+            {
+              "uuid": "FE816496-C5AE-4299-B7E4-1C7377AB4BFA",
+              "source": "computer",
+              "target": "電腦",
+              "targetComment": "diànnăo"
+            },
+            {
+              "uuid": "FA30A329-0740-463B-B2BB-22C914E740C9",
+              "source": "to have a part-time job",
+              "target": "打工",
+              "targetComment": "dăgōng"
+            },
+            {
+              "uuid": "DD122368-91C1-4EA4-9076-DAB28FD318D3",
+              "source": "the more ... the more ...",
+              "target": "越... 越...",
+              "targetComment": "yuè ... yuè ..."
+            },
+            {
+              "uuid": "F8FAD083-7151-4A1D-9DCF-ED3075AE1658",
+              "source": "back yard",
+              "target": "後院",
+              "targetComment": "hòuyuàn"
+            },
+            {
+              "uuid": "DAD15997-FDB7-4C7E-BC92-564E0BA7C78F",
+              "source": "to inform, to notify",
+              "target": "通知",
+              "targetComment": "tōngzhī"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

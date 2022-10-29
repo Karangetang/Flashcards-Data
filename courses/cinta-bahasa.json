@@ -1,32 +1,2829 @@
 {
-  "uuid": "b7cd8611-763d-42e0-92c2-33cf54c80374",
-  "title": "Cinta Bahasa 2",
+  "uuid": "0A3A2EBB-77A4-4B5D-95E1-A0BBE87740BC",
+  "title": "Cintah Bahasa",
   "sourceLng": "en",
   "targetLng": "id",
   "books": [
     {
-      "uuid": "ad03bfd2-aff6-4fee-8dca-48754e5fb30b",
-      "title": "Cinta Bahasa 1A",
-      "comment": "Yayasan Cinta Bahasa Indonesia",
-      "chapter": [
+      "uuid": "8AAFB8CF-5BA9-4DBA-AA79-07281170FCAE",
+      "title": "Buku - 1A",
+      "sort": 1,
+      "chapters": [
         {
-          "uuid": "88163a8b-c263-43f1-9d37-c0d16ca9b67b",
+          "uuid": "EED21003-2302-4FD5-A65C-0ECA1F378CA2",
           "title": "Alfabet",
           "comment": "Bab 1",
+          "sort": 2,
           "words": [
             {
-              "uuid": "9247cab9-aa45-4002-b6da-0f2c1cb9c7bf",
+              "uuid": "6FD4D845-A8F5-4C72-B672-8FD562929EF5",
               "source": "evening",
+              "sourceComment": "18:30-02:00",
               "target": "malam"
+            },
+            {
+              "uuid": "A920EBA6-6C84-4C1F-B08A-3DC7102F2027",
+              "source": "what",
+              "target": "apa"
+            },
+            {
+              "uuid": "7CE8A6AF-622A-4E1B-8D50-95999C2E5882",
+              "source": "word",
+              "target": "kata"
+            },
+            {
+              "uuid": "0D1B0ED7-B967-4E2D-91F5-37DAA11B1FCC",
+              "source": "safe",
+              "target": "selamat"
+            },
+            {
+              "uuid": "B8152747-FC0B-4EC6-BA50-7A0F9AC201CC",
+              "source": "meet",
+              "target": "bertemu"
+            },
+            {
+              "uuid": "F63266DF-D7D5-4CA3-94AD-AFDCC54420FC",
+              "source": "go",
+              "target": "pergi"
+            },
+            {
+              "uuid": "8FB4358B-516C-4B89-A9E7-CE340897D4B4",
+              "source": "this",
+              "target": "ini"
+            },
+            {
+              "uuid": "106D9A07-F708-42D4-A71E-B2A4EDCB0E02",
+              "source": "here",
+              "target": "sini"
+            },
+            {
+              "uuid": "DC1B03D5-2714-4562-BFCF-41F2303DD6E4",
+              "source": "buy",
+              "target": "beli"
+            },
+            {
+              "uuid": "610627F3-A9BE-467F-B2AD-DA35A6E83FFF",
+              "source": "people",
+              "target": "orang"
+            },
+            {
+              "uuid": "4479E428-0787-45FC-8E8C-98E0567C2EB6",
+              "source": "coffee",
+              "target": "kopi"
+            },
+            {
+              "uuid": "302B4811-9A09-4231-B447-00E8CC458175",
+              "source": "car",
+              "target": "mobil"
+            },
+            {
+              "uuid": "19BF8406-D1E1-48B5-976F-46259DE2017D",
+              "source": "book",
+              "target": "buku"
+            },
+            {
+              "uuid": "A4989272-B3D4-4C39-91A3-ACD44F6C8E16",
+              "source": "before",
+              "target": "dulu"
+            },
+            {
+              "uuid": "81C6F2C7-BC3C-41DC-9B5E-2B17DC3F3AB3",
+              "source": "excuse me",
+              "target": "maaf"
+            },
+            {
+              "uuid": "9896B3A1-151D-48A4-84A8-4E097BCABA61",
+              "source": "good",
+              "sourceComment": "health",
+              "target": "baik"
+            },
+            {
+              "uuid": "973B5D89-ACAC-4D25-9C58-D2EB448ECB6D",
+              "source": "good/delicious",
+              "sourceComment": "food",
+              "target": "enak"
+            },
+            {
+              "uuid": "EBAACA0B-10A1-4C47-BF12-2265F872D99B",
+              "source": "good",
+              "sourceComment": "things",
+              "target": "bagus"
+            },
+            {
+              "uuid": "D48392FF-8836-4D0E-B046-4C3AB2F4EEB5",
+              "source": "going up",
+              "target": "naik"
+            },
+            {
+              "uuid": "2A66CD3E-6419-44D1-95C4-324C114EBC26",
+              "source": "shirt",
+              "target": "kaos"
+            },
+            {
+              "uuid": "CED5B579-77A5-4C80-A75B-6C0D1A6A6BB4",
+              "source": "sauce",
+              "target": "saos"
+            },
+            {
+              "uuid": "BB66EF17-EC26-401F-BFAB-4A09D4F4068D",
+              "source": "want to",
+              "target": "mau"
+            },
+            {
+              "uuid": "A936EA8E-42DD-4DBE-8057-F6E7E4CBB265",
+              "source": "smell",
+              "target": "bau"
+            },
+            {
+              "uuid": "8B73B343-7366-4A43-B91B-4ED8069C1920",
+              "source": "he/she",
+              "target": "dia"
+            },
+            {
+              "uuid": "087FF047-D456-4076-A16C-B5609CBE7651",
+              "source": "afternoon",
+              "sourceComment": "10:00-15:00",
+              "target": "siang"
+            },
+            {
+              "uuid": "C2800B4D-C71E-4CBB-ADE8-FDAD0F56AC78",
+              "source": "you",
+              "sourceComment": "plural",
+              "target": "kalian"
+            },
+            {
+              "uuid": "38F5C7F2-0114-4451-952F-61B956BDE240",
+              "source": "excercise",
+              "target": "soal"
+            },
+            {
+              "uuid": "71C58EB8-3892-4FD8-BF70-4BB4ADA16176",
+              "source": "prayer",
+              "target": "doa"
+            },
+            {
+              "uuid": "AAFA3FE9-A514-4797-9DD7-1E6F6A08EFC4",
+              "source": "money",
+              "target": "uang"
+            },
+            {
+              "uuid": "0BD1EF2E-C2B2-47DE-8090-C0D1CC397CC4",
+              "source": "for",
+              "target": "buat"
+            },
+            {
+              "uuid": "1D5570F0-DFCC-4ACE-9CBF-F5E22A550E0C",
+              "source": "two",
+              "target": "dua"
+            },
+            {
+              "uuid": "8AF7966B-1D48-48BE-989D-3DB0C8569CAD",
+              "source": "until",
+              "target": "sampai"
+            },
+            {
+              "uuid": "E9DD10E7-C0FA-446A-91B6-17F5D18C3606",
+              "source": "beach",
+              "target": "pantai"
+            },
+            {
+              "uuid": "4C708FFB-CC61-43C8-980C-320481813500",
+              "source": "as",
+              "target": "sebagai"
+            },
+            {
+              "uuid": "6BD41EE2-DADB-4514-8BB5-57F99806C204",
+              "source": "island",
+              "target": "pulau"
+            },
+            {
+              "uuid": "4BF9FA50-7E90-433E-A795-ABEDB5256E29",
+              "source": "island",
+              "sourceComment": "literature",
+              "target": "nusa"
+            },
+            {
+              "uuid": "5ECC5AB9-8EAD-4CF6-8DCB-75200CD37B49",
+              "source": "if",
+              "target": "kalau"
+            },
+            {
+              "uuid": "A82AB422-F2A1-4BAD-964D-7DEAF528B4CE",
+              "source": "buffalo",
+              "target": "kerbau"
+            },
+            {
+              "uuid": "AD0DCEA8-0791-4EFD-9E98-7485D013A3D1",
+              "source": "cowboy",
+              "target": "koboi"
+            },
+            {
+              "uuid": "9AF189A5-0722-42C0-A209-059AC7D82E8A",
+              "source": "tomboy",
+              "target": "tomboi"
+            },
+            {
+              "uuid": "587CC6A4-041D-47FD-ADA0-7BF39A127528",
+              "source": "tomorrow",
+              "target": "besok"
+            },
+            {
+              "uuid": "F41F7656-8783-4278-B346-84EC79247C49",
+              "source": "we",
+              "sourceComment": "not including the listener",
+              "target": "kami"
+            },
+            {
+              "uuid": "049F4DD2-0E3B-4190-B5C3-D636D7FBFF11",
+              "source": "gift",
+              "target": "kado"
+            },
+            {
+              "uuid": "100F70AB-5457-42DA-9037-5670FA64E3D1",
+              "source": "cold",
+              "target": "dingin"
+            },
+            {
+              "uuid": "3F91E5DA-E7F1-4150-85FD-99B46C19137A",
+              "source": "slow",
+              "target": "pelan"
+            },
+            {
+              "uuid": "21974568-034D-4772-A152-B6953A6B65A3",
+              "source": "still",
+              "target": "masih"
+            },
+            {
+              "uuid": "A9ED65F3-382C-4526-85C8-A0CC496EB837",
+              "source": "is",
+              "sourceComment": "normally dropped",
+              "target": "adalah"
+            },
+            {
+              "uuid": "5ED91F51-57BE-4A8D-BBEF-30B729FFFE02",
+              "source": "careful",
+              "target": "hatihati"
+            },
+            {
+              "uuid": "3FCC232C-6441-442F-AFC0-208064917FEF",
+              "source": "day",
+              "target": "hari"
+            },
+            {
+              "uuid": "CC907553-2C79-4E55-AEAB-C03388480437",
+              "source": "year",
+              "target": "tahun"
+            },
+            {
+              "uuid": "6F8A65FD-597E-4D54-A585-0D78A9E727EB",
+              "source": "affection",
+              "target": "kasih"
+            },
+            {
+              "uuid": "B7B5EB90-B62A-49F6-9C08-F511F312D9B0",
+              "source": "choose",
+              "target": "pilih"
+            },
+            {
+              "uuid": "22603D69-3457-44BB-9B84-50836D50E68D",
+              "source": "tea",
+              "target": "teh"
+            },
+            {
+              "uuid": "4CBEDF16-2590-449F-80E2-F4A614684A0C",
+              "source": "know",
+              "target": "tahu"
+            },
+            {
+              "uuid": "D58A2E95-2CFB-4D4A-854B-55F999A9F3F9",
+              "source": "Tofu",
+              "target": "tahu"
+            },
+            {
+              "uuid": "8F11A324-69A2-457D-8E92-5BB8B9DE4D3A",
+              "source": "say",
+              "target": "kata"
+            },
+            {
+              "uuid": "094C0395-80AD-4523-B43D-DA1C011FC132",
+              "source": "city",
+              "target": "kota"
+            },
+            {
+              "uuid": "246316A4-354A-413C-ABA3-7681041746BD",
+              "source": "we",
+              "sourceComment": "including the listener",
+              "target": "kita"
+            },
+            {
+              "uuid": "3A7A7A4E-1651-40CA-9D12-664DE3A47DE1",
+              "source": "repeat",
+              "target": "ulang"
+            },
+            {
+              "uuid": "0ABCBD5A-9952-4217-BA33-E016AD0D222C",
+              "source": "younger sibling",
+              "target": "adik"
+            },
+            {
+              "uuid": "0CD50AD6-E3D6-43C6-A68F-5E3D6C4EC84E",
+              "source": "older sibling",
+              "target": "kakak"
+            },
+            {
+              "uuid": "961B8D7E-1466-4EA4-8950-49D194C3C3ED",
+              "source": "grandpa",
+              "target": "kakek"
+            },
+            {
+              "uuid": "E581F274-FDD5-480C-9D41-95864C53569B",
+              "source": "no",
+              "target": "tidak"
+            },
+            {
+              "uuid": "6002F203-7D8F-444A-8C88-98F8EDF16C5B",
+              "source": "have",
+              "target": "punya"
+            },
+            {
+              "uuid": "4DDF9DF2-3856-47FB-B2CB-A2C69D74CF7E",
+              "source": "ask",
+              "target": "tanya"
+            },
+            {
+              "uuid": "83F6A0E1-4360-482C-9EB6-E417678EE22B",
+              "source": "many",
+              "target": "banyak"
+            },
+            {
+              "uuid": "9A3D07D4-532C-4FC9-BC41-C2D712830D1E",
+              "source": "important",
+              "target": "penting"
+            },
+            {
+              "uuid": "BAB9C052-A5EB-4A0B-995E-B31EED01E5F6",
+              "source": "want to",
+              "target": "ingin"
+            },
+            {
+              "uuid": "02D33737-5685-4D0C-9D94-47DCA8F633E5",
+              "source": "with",
+              "target": "dengan"
+            },
+            {
+              "uuid": "71C87F35-FE01-4B5A-9638-E24608046899",
+              "source": "sleepy",
+              "target": "ngantuk"
+            },
+            {
+              "uuid": "C0229053-CFB7-43BD-AB7E-A11A354BBFFE",
+              "source": "chat",
+              "target": "ngomong"
+            },
+            {
+              "uuid": "0A413C2C-658F-47C3-8652-C3338F38A062",
+              "source": "chat/gossip",
+              "target": "ngobrol"
+            },
+            {
+              "uuid": "F781F11C-AED3-4910-B2F4-0D6FBF7BC757",
+              "source": "afternoon",
+              "sourceComment": "15:00-18:30",
+              "target": "sore"
+            },
+            {
+              "uuid": "4881F48E-0A72-4D53-8F6F-FEF51F02E2D9",
+              "source": "morning",
+              "sourceComment": "02:00-10:00",
+              "target": "pagi"
+            },
+            {
+              "uuid": "197414C4-1748-47C4-854A-269F57C7DAB6",
+              "source": "accept",
+              "target": "terima"
+            },
+            {
+              "uuid": "2721FC73-AB3A-4076-86B0-0CFFB78F5394",
+              "source": "new",
+              "target": "baru"
+            },
+            {
+              "uuid": "36D29091-424C-41B5-BD34-B2BEA9F2BD72",
+              "source": "news",
+              "target": "kabar"
+            },
+            {
+              "uuid": "3125E92E-DA36-4258-8EF9-75EFDC2A1D0B",
+              "source": "outside",
+              "target": "luar"
+            },
+            {
+              "uuid": "BDFD3017-2F0B-4EB5-901C-E40DF239CA0B",
+              "source": "driver",
+              "target": "sopir"
+            },
+            {
+              "uuid": "F9BF228B-2E90-4C81-891D-03D00EB70546",
+              "source": "school",
+              "target": "sekolah"
+            },
+            {
+              "uuid": "3F0E30B3-F1EF-4E1A-A52D-54B3C7785BDE",
+              "source": "study",
+              "target": "belajar"
+            },
+            {
+              "uuid": "707EFC9A-9044-45D7-A51E-D9BFC8872CFF",
+              "source": "work",
+              "target": "bekerja"
+            },
+            {
+              "uuid": "73F87A74-FED2-43FB-B68A-46A01E2FF9CD",
+              "source": "with",
+              "target": "dengan"
+            },
+            {
+              "uuid": "4F564C2C-BDBE-47B1-A294-B04EF14A5702",
+              "source": "and",
+              "target": "dan"
+            },
+            {
+              "uuid": "A3A68439-B1B0-4CDD-A236-3C7CE60A93F2",
+              "source": "or",
+              "target": "atau"
+            },
+            {
+              "uuid": "9CDE5170-8CF1-4995-A807-DD8B0ECC63A2",
+              "source": "but",
+              "target": "tapi"
+            },
+            {
+              "uuid": "44B5B061-6668-40B7-BEDA-764A05A78558",
+              "source": "because",
+              "target": "karena"
+            },
+            {
+              "uuid": "5EA489E6-0BE8-4A78-9867-D3E6795611AA",
+              "source": "if",
+              "target": "kelau"
+            },
+            {
+              "uuid": "3B089DE5-CACD-4FEE-8F32-9F08E7F1FE5A",
+              "source": "in order to",
+              "target": "untuk"
+            },
+            {
+              "uuid": "61240325-8B86-4CDE-90F8-F24976226315",
+              "source": "also",
+              "target": "juga"
+            },
+            {
+              "uuid": "4BF64336-359C-434E-AA98-19A09FD4A22A",
+              "source": "it means",
+              "target": "artinya"
+            },
+            {
+              "uuid": "F0A91512-02CC-457B-997F-4C2AA44B2596",
+              "source": "He works as a driver",
+              "target": "dia bekerja sebagai sopir"
+            },
+            {
+              "uuid": "EB7441EA-956D-4EF9-A195-0B1D5FB47971",
+              "source": "What does it mean?",
+              "target": "apa artinya?"
+            },
+            {
+              "uuid": "CC697A32-7006-493C-8562-A8CE617DA375",
+              "source": "I am German",
+              "target": "saya orang Jerman"
+            },
+            {
+              "uuid": "097927A0-FB8E-4212-BF8F-6385E12FE79D",
+              "source": "I buy coffee",
+              "target": "saya beli kopi"
+            },
+            {
+              "uuid": "E6B7DAB1-D626-4CEC-8FC8-64933E0507A4",
+              "source": "My wife is also Indonesian",
+              "target": "Istri saya juga orang Indonesia"
+            },
+            {
+              "uuid": "C0649C00-5435-4046-AC96-D87D1D551BCC",
+              "source": "But my wife has my money.",
+              "target": "Tapi istri saya punya uang saya"
+            },
+            {
+              "uuid": "99C3AFC8-3EB8-48E3-A3A5-125607C8AA21",
+              "source": "Before I lived in Germany.",
+              "target": "Dulu saya tinggal di Jerman"
+            },
+            {
+              "uuid": "B49DC896-B43D-47DC-B264-5AE127617703",
+              "source": "Are you still there?",
+              "target": "Kamu masih di sana?"
+            },
+            {
+              "uuid": "A8A06FE8-DA93-4B61-8067-A113F3207230",
+              "source": "Do you like tofu?",
+              "target": "Apa kamu suka tahu?"
+            },
+            {
+              "uuid": "3E579E74-A160-4AFB-8F5F-B916D04874F6",
+              "source": "You meet me here!",
+              "target": "Kamu bertemu saya di sini"
+            },
+            {
+              "uuid": "DA1EE645-D5A2-4A9F-9D26-1621DF4F0611",
+              "source": "I have many cars.",
+              "target": "saya punya banyak mobil."
+            },
+            {
+              "uuid": "1A22D436-87B7-49F7-9B7C-CB284CE2766A",
+              "source": "If I go up Gunung Agung, it is not safe.",
+              "target": "Kelau saya naik Gunung Agung, tidak selamat"
+            },
+            {
+              "uuid": "762F10F6-0515-402E-B214-AC06D343FA14",
+              "source": "I love Indonesian food",
+              "target": "saya cinta makanan Indonesia"
+            }
+          ]
+        },
+        {
+          "uuid": "3F575ADE-510B-4C91-B345-228ECBFAB158",
+          "title": "Salam",
+          "comment": "Bab 2",
+          "sort": 107,
+          "words": [
+            {
+              "uuid": "7D3F5C49-2572-4C78-9571-2529A90716DF",
+              "source": "mother/mam",
+              "target": "ibu/bu"
+            },
+            {
+              "uuid": "DDAFE91D-5F81-4BDD-B7CF-923CAFF2BE4C",
+              "source": "mam",
+              "sourceComment": "Balinese",
+              "target": "mbok"
+            },
+            {
+              "uuid": "26D39C56-EE4B-40BF-A15F-2595300D10B7",
+              "source": "mister",
+              "sourceComment": "Balinese",
+              "target": "bli"
+            },
+            {
+              "uuid": "D9536FC9-EB0C-492C-AE9D-8D742A64CAEC",
+              "source": "mister",
+              "sourceComment": "Javanese",
+              "target": "mas"
+            },
+            {
+              "uuid": "4B78D26D-0B95-4841-B7FE-D5F64467D958",
+              "source": "father/mister",
+              "target": "bapak/pak"
+            },
+            {
+              "uuid": "560B0D2A-0B42-4F3C-9EB3-9290B59B4097",
+              "source": "mam",
+              "sourceComment": "Javanese",
+              "target": "mbak"
+            },
+            {
+              "uuid": "E532BE19-8322-4100-AA5F-A8E3F8B37D98",
+              "source": "success",
+              "target": "suksema"
+            },
+            {
+              "uuid": "7C1A7A10-9253-4998-A418-7DF2E4AB8A87",
+              "source": "later",
+              "target": "nanti"
+            },
+            {
+              "uuid": "77E5A917-812B-4769-A000-8049D5186B40",
+              "source": "How are you?",
+              "target": "Apa kabar?"
+            },
+            {
+              "uuid": "553665B1-4DCF-4DBF-B56F-7C4A59D5FD62",
+              "source": "I am fine as well, thanks.",
+              "target": "Saya juga baik, terima kasih."
+            },
+            {
+              "uuid": "A16DF06D-1E20-41CE-B31F-EB71E3B87BA8",
+              "source": "I am fine, Thanks!",
+              "target": "Saya baik, terima kasih!"
+            },
+            {
+              "uuid": "6F9A8939-EECE-4E0E-9989-708E3065CEFB",
+              "source": "Your welcome!",
+              "target": "Sama-sama!/Kembali!"
+            },
+            {
+              "uuid": "F40FC822-3E1D-438F-B21B-1903447409F9",
+              "source": "See you later!",
+              "target": "Sampai nanti!"
+            },
+            {
+              "uuid": "6FB180CE-C5BE-4E97-B46A-C7C8E981CBA7",
+              "source": "See you tomorrow!",
+              "target": "Sampai besok!"
+            },
+            {
+              "uuid": "D68E184C-C145-4652-ABE3-D2C18618B15C",
+              "source": "See you again!",
+              "target": "Sampai bertemu lagi!"
+            },
+            {
+              "uuid": "22E781CA-9D03-4E79-9DFF-3F60730563FC",
+              "source": "Stay save!",
+              "target": "Hati-hati di jalan!"
+            },
+            {
+              "uuid": "94D04FB5-5E4B-4EEA-B81F-E3639DE611C1",
+              "source": "Buon appetit!",
+              "target": "Selamat makan!"
+            },
+            {
+              "uuid": "315B0D3A-1E2E-439C-AF8C-DAE8A6CD5A30",
+              "source": "Have a good study!",
+              "target": "Selamat belajar!"
+            },
+            {
+              "uuid": "1E88927B-DF31-4082-B435-7B445F7656F1",
+              "source": "Happy birthday!",
+              "target": "Selamat ulang tahun!"
+            },
+            {
+              "uuid": "2E861D19-00C1-408A-8551-90C5C0FD26E0",
+              "source": "Happy New Year!",
+              "target": "Selamat tahun baru!"
+            },
+            {
+              "uuid": "65CEE7B9-FE2F-4B26-B077-1823A3317C9A",
+              "source": "Happy Christmas!",
+              "target": "Selamat hari Natal!"
+            },
+            {
+              "uuid": "C1AA2314-7125-4C38-A3AF-BE72B35EF9BD",
+              "source": "Happy Nyepi!",
+              "sourceComment": "Balinese day of silence.",
+              "target": "Selamat hari Nyepi!"
+            },
+            {
+              "uuid": "559B42EF-880F-47B5-996D-AFCA864F51F9",
+              "source": "Happy!",
+              "target": "Selamat!"
+            },
+            {
+              "uuid": "1381C1BD-5ECE-45E8-8B4B-F30020A9267D",
+              "source": "fill",
+              "sourceComment": "fill or fill out anything",
+              "target": "isi"
+            },
+            {
+              "uuid": "BC39988E-BD8E-47A0-8809-44CD26F57FF9",
+              "source": "more",
+              "target": "lagi"
+            },
+            {
+              "uuid": "A9D75C30-F8D9-40CB-8464-8E9D7A3FDFD8",
+              "source": "big",
+              "target": "besar"
+            }
+          ]
+        },
+        {
+          "uuid": "9F3941E9-57A7-4AC1-9AC4-26498325E3D8",
+          "title": "Selamat Datang di Bali!",
+          "comment": "Bab 3",
+          "sort": 134,
+          "words": [
+            {
+              "uuid": "5A1C7D74-3A0A-4E94-ABEE-D9F44390DDCB",
+              "source": "I/me",
+              "sourceComment": "formal",
+              "target": "saya"
+            },
+            {
+              "uuid": "12E0B9A2-E4DD-439D-B59B-5F3480782F1E",
+              "source": "you",
+              "sourceComment": "informal",
+              "target": "kamu"
+            },
+            {
+              "uuid": "F789889A-345B-4FC9-9408-841D3D788C81",
+              "source": "you",
+              "sourceComment": "formal",
+              "target": "anda"
+            },
+            {
+              "uuid": "786E561B-3AA1-4854-880F-98158BBACF20",
+              "source": "Let me introduce ...",
+              "target": "Kenalkan ..."
+            },
+            {
+              "uuid": "675593B9-9D3B-4301-821A-5064D638768C",
+              "source": "I/me",
+              "sourceComment": "informal",
+              "target": "aku"
+            },
+            {
+              "uuid": "C9A1E68A-FD15-4D86-9C13-C31461A79D77",
+              "source": "they",
+              "target": "mereka"
+            },
+            {
+              "uuid": "1207DEE6-305E-4D38-99DC-1B20F140DC02",
+              "source": "you (plural)",
+              "target": "kalian"
+            },
+            {
+              "uuid": "BBDCC63A-F929-4747-B451-BC3294D778F6",
+              "source": "this",
+              "target": "ini"
+            },
+            {
+              "uuid": "4966EBF8-C44B-4C57-B638-AADCA2CD11EC",
+              "source": "that",
+              "target": "itu"
+            },
+            {
+              "uuid": "C6D4B4E8-F465-47E7-B91B-445F0838037C",
+              "source": "in/on/at",
+              "sourceComment": "location",
+              "target": "di"
+            },
+            {
+              "uuid": "E0EB6014-EB80-4BA4-AC80-5A771CAC1ED6",
+              "source": "to",
+              "sourceComment": "location",
+              "target": "ke"
+            },
+            {
+              "uuid": "AA1FBA85-F0BE-426C-AA52-0F10F3F5FCCC",
+              "source": "from",
+              "sourceComment": "location",
+              "target": "dari"
+            },
+            {
+              "uuid": "FC5135BF-A69C-459C-90D1-627280CDDD07",
+              "source": "go home",
+              "target": "pulang"
+            },
+            {
+              "uuid": "D639D669-20C2-4725-B6F1-552281513F9D",
+              "source": "teacher",
+              "target": "guru"
+            },
+            {
+              "uuid": "854BC917-3932-4514-A629-E557CB8DA46C",
+              "source": "student",
+              "target": "murid"
+            },
+            {
+              "uuid": "420AAD23-EFB0-4218-9243-C2CBF0427DE9",
+              "source": "driver",
+              "target": "sopir"
+            },
+            {
+              "uuid": "F6E45896-F6C9-4A30-A6DB-81472CDBC6B2",
+              "source": "airport",
+              "target": "bandara"
+            },
+            {
+              "uuid": "60D8C185-4E0F-4C17-A27C-4F38DEBF458C",
+              "source": "Let's go!",
+              "target": "Ayo!"
+            },
+            {
+              "uuid": "E98EEEE2-EA54-4D1E-BC14-752AD18D9E3D",
+              "source": "now",
+              "target": "sekarang"
+            },
+            {
+              "uuid": "1B2BE5C4-576B-40F2-BF21-D1472EBFDE2E",
+              "source": "happy",
+              "target": "senang"
+            },
+            {
+              "uuid": "5067EDC5-5363-4A90-A8AC-134C6F3FC97D",
+              "source": "ready",
+              "target": "siap"
+            },
+            {
+              "uuid": "0BA0DAC7-6EE6-4B31-A19C-C5E9F5DB4B3C",
+              "source": "come",
+              "target": "datang"
+            },
+            {
+              "uuid": "3FD3D8E6-214D-456F-A371-37C98C968D19",
+              "source": "go",
+              "target": "pergi"
+            },
+            {
+              "uuid": "5BD51620-74F6-4520-9521-10FE1048FF2A",
+              "source": "stay/live",
+              "target": "tinggal"
+            },
+            {
+              "uuid": "1BDB1C09-A665-4923-A8F5-974DBDD111DF",
+              "source": "breakfast",
+              "target": "sarapang/makan pagi"
+            },
+            {
+              "uuid": "1720E6CB-74A2-4908-9C6D-928220DF44E4",
+              "source": "friend",
+              "target": "teman"
+            },
+            {
+              "uuid": "470D7FDE-B940-418A-BC84-B7B2A5C75530",
+              "source": "usually",
+              "target": "biasanya"
+            },
+            {
+              "uuid": "D85875E4-06C9-4A5B-9F47-D83A1CEC36A9",
+              "source": "correct",
+              "target": "benar"
+            },
+            {
+              "uuid": "76F42164-C965-4EC8-B99E-295574727882",
+              "source": "wrong",
+              "target": "salah"
+            },
+            {
+              "uuid": "1E1D717C-CBBF-46F5-98C7-4358A133B85E",
+              "source": "Let me introduce myself, I am Nicolas from Germany.",
+              "target": "Kenalkan, saya Nicolas, dari Jerman"
+            },
+            {
+              "uuid": "8ADFA86A-1E46-4BFF-BEDB-034357719EFF",
+              "source": "I am happy to come to Bali.",
+              "sourceComment": "literally \"on Bali\"",
+              "target": "Saya senang datang di Bali."
+            },
+            {
+              "uuid": "97E6C5BD-9639-46CB-AB23-887D97C9EC51",
+              "source": "I live in Bali.",
+              "target": "Saya tinggal di Bali."
+            },
+            {
+              "uuid": "31FB617F-50F1-4784-84C5-DBEF0A9BBEDE",
+              "source": "I come from Germany.",
+              "target": "Saya datang dari Jerman."
+            },
+            {
+              "uuid": "CD7DB5EA-7DD1-4234-B9A4-8198AADBA390",
+              "source": "Tomorrow I go to HongKong!",
+              "target": "Besok saya pergi ke HongKong!"
+            },
+            {
+              "uuid": "DB57553F-CB05-4B52-95B2-6F5F464B890F",
+              "source": "I go from home to school.",
+              "target": "Saya pergi di rumah ke sekolah."
+            },
+            {
+              "uuid": "24EADDF3-BAE3-4619-8FB5-DC09DFD14B0C",
+              "source": "Yes, I am ready!",
+              "target": "Ya, saya siap!"
+            },
+            {
+              "uuid": "6D93E1D5-A93C-486D-9775-62B0DCEF31D7",
+              "source": "I go to Cinta Bahasa, to study.",
+              "target": "Saya pergi ke Cinta Bahasa, untuk belajar."
+            }
+          ]
+        },
+        {
+          "uuid": "A8097C36-AFE4-41E8-BD54-F7CA24893FAA",
+          "title": "Keluarga Saya",
+          "comment": "Bab 4",
+          "sort": 172,
+          "words": [
+            {
+              "uuid": "67A318D8-5A38-4AD9-822C-69A77AC0485C",
+              "source": "work",
+              "target": "bekerja"
+            },
+            {
+              "uuid": "742F3CB7-CF0E-4479-9E47-98C5E2A8275A",
+              "source": "know",
+              "target": "tahu"
+            },
+            {
+              "uuid": "32CFDCB5-4B3C-4AE3-8B04-9EACF074DA60",
+              "source": "study",
+              "target": "belajar"
+            },
+            {
+              "uuid": "B4E83279-D71B-4F73-A9D9-FC4AE2C19ABF",
+              "source": "speak",
+              "target": "bicara"
+            },
+            {
+              "uuid": "F34AFDF4-65C1-4E64-AF3A-52C9AEB5D9BB",
+              "source": "use",
+              "target": "pakai"
+            },
+            {
+              "uuid": "F2E9094B-0940-420E-8D0B-B788D8454564",
+              "source": "hope",
+              "target": "harap"
+            },
+            {
+              "uuid": "3F16B9D6-5620-425D-AC75-194110B636D5",
+              "source": "want",
+              "target": "mau"
+            },
+            {
+              "uuid": "4F0345D5-796C-45B0-AD9C-CB22B2CE4C8F",
+              "source": "like",
+              "target": "suka"
+            },
+            {
+              "uuid": "ACE60B2E-40C6-4E7B-B5F9-EFAA30658608",
+              "source": "very",
+              "target": "sangat"
+            },
+            {
+              "uuid": "92719A4E-6454-450C-B21F-5C0B55E9D166",
+              "source": "female",
+              "target": "perempuan"
+            },
+            {
+              "uuid": "8712B709-F065-4383-8946-6183E5F56A5B",
+              "source": "male",
+              "target": "laki-laki"
+            },
+            {
+              "uuid": "99A81873-3B71-4355-B57F-E5FBAB837FFC",
+              "source": "wife",
+              "target": "istri"
+            },
+            {
+              "uuid": "818A8433-0B39-4068-AA39-9FF1BA365783",
+              "source": "husband",
+              "target": "suami"
+            },
+            {
+              "uuid": "5B607F98-9054-48FC-BEE0-09F214D92786",
+              "source": "child",
+              "target": "anak"
+            },
+            {
+              "uuid": "59745281-5DC8-4BD5-8A28-06D6F8CB8FD9",
+              "source": "son",
+              "target": "anak laki-laki"
+            },
+            {
+              "uuid": "C1C378A6-9999-47FD-810A-AB2FBF6D21E7",
+              "source": "daughter",
+              "target": "anak perempuan"
+            },
+            {
+              "uuid": "FBFEA47C-81F0-4D26-89DE-2F33207F0A31",
+              "source": "children",
+              "target": "anak-anak"
+            },
+            {
+              "uuid": "6FEF6DF5-C5A8-4017-8258-14445E627595",
+              "source": "family",
+              "target": "keluarga"
+            },
+            {
+              "uuid": "22498273-3EF6-417B-913C-9B55775C8268",
+              "source": "country",
+              "target": "negara"
+            },
+            {
+              "uuid": "35E538AA-90C1-4E85-96AA-F8AD9AFB6BBF",
+              "source": "photo",
+              "target": "foto"
+            },
+            {
+              "uuid": "98F03A1D-F252-4D9C-A993-1A46CDDE8A0B",
+              "source": "name",
+              "target": "nama"
+            },
+            {
+              "uuid": "8239BD99-3C6A-494E-9CCB-B3786A593EAD",
+              "source": "house/home",
+              "target": "rumah"
+            },
+            {
+              "uuid": "5CBE5ACA-D447-4C95-9F42-5387D69E642E",
+              "source": "people/person",
+              "target": "orang"
+            },
+            {
+              "uuid": "D9911D8A-0DFB-44BC-AE9F-24321412C724",
+              "source": "Indonesian",
+              "sourceComment": "person",
+              "target": "orang Indonesia"
+            },
+            {
+              "uuid": "95D4758C-89AA-4D72-AE4F-F84179DD0E85",
+              "source": "language",
+              "target": "bahasa"
+            },
+            {
+              "uuid": "A49F8E2C-068C-4E3D-8711-9D92CC117940",
+              "source": "Indonesian language",
+              "target": "bahasa Indonesia"
+            },
+            {
+              "uuid": "E0CA5211-973F-4161-8F4E-B84FFFD4FA80",
+              "source": "today",
+              "target": "hari ini"
+            },
+            {
+              "uuid": "D6EA9DB8-C88B-44D8-A3F1-E3959A67C8AB",
+              "source": "as",
+              "target": "sebagai"
+            },
+            {
+              "uuid": "C4CE53C9-7AF9-41EF-92C2-394095ADBAE3",
+              "source": "about",
+              "target": "tentang"
+            },
+            {
+              "uuid": "48438A91-1E70-46D9-8C52-07C1DA96146B",
+              "source": "with",
+              "target": "dengan"
+            },
+            {
+              "uuid": "64BD2635-0F0B-44EB-85EE-0003E25A3C84",
+              "source": "nice/good",
+              "sourceComment": "for profession",
+              "target": "bagus"
+            },
+            {
+              "uuid": "7BC5733E-172E-4B05-8668-BDBABD4C9405",
+              "source": "hotel manager",
+              "target": "manajer hotel"
+            },
+            {
+              "uuid": "425B6C1F-DD3D-4A25-92D2-E073FDE7488F",
+              "source": "who",
+              "target": "siapa"
+            },
+            {
+              "uuid": "9AD0C121-6BD9-4725-8CDC-11D294E93A61",
+              "source": "good",
+              "sourceComment": "for people",
+              "target": "baik"
+            },
+            {
+              "uuid": "683BAC59-E012-4D95-9FC7-4F9B153C991F",
+              "source": "rainbow",
+              "target": "pelangi"
+            },
+            {
+              "uuid": "8ACFEF09-7EFB-4930-B281-246E5943535B",
+              "source": "left",
+              "sourceComment": "direction",
+              "target": "kiri"
+            },
+            {
+              "uuid": "4E6BBC72-67E6-4DB0-93B5-CBEBD458BC75",
+              "source": "right",
+              "sourceComment": "direction",
+              "target": "kanan"
+            },
+            {
+              "uuid": "6D83EC73-97F5-4745-851A-A3174971B215",
+              "source": "German",
+              "sourceComment": "person",
+              "target": "orang Jerman"
+            },
+            {
+              "uuid": "78D954F0-994C-4046-9FD5-B50496525F42",
+              "source": "say/speak",
+              "target": "bicara"
+            },
+            {
+              "uuid": "B1DA960D-7845-4ED9-B11A-31D0273622E9",
+              "source": "my wife",
+              "target": "istri saya/istriku"
+            },
+            {
+              "uuid": "DCE21BED-9A1A-474D-9D60-BBE2839E4FC2",
+              "source": "my name",
+              "target": "nama saya/namaku"
+            },
+            {
+              "uuid": "B4910F08-A76D-4AC6-B685-13E5CC3198BF",
+              "source": "his room",
+              "target": "rumah dia/rumahnya"
+            },
+            {
+              "uuid": "0124AA19-64D3-488F-B74A-E6E9DC75BDCB",
+              "source": "your book",
+              "target": "buku kamu/bukumu"
+            },
+            {
+              "uuid": "2358641C-1C65-446C-8508-381949B6A8AB",
+              "source": "What is that?",
+              "target": "Apa itu?"
+            },
+            {
+              "uuid": "CF00F528-9095-41FE-B65D-8093B95237FD",
+              "source": "Please repeat!",
+              "target": "Tolong ulang!"
+            },
+            {
+              "uuid": "D32DF643-7063-4CA9-AC46-2D57E81833D3",
+              "source": "I do not want to!",
+              "target": "Tidak mau!"
+            },
+            {
+              "uuid": "F8642465-AF96-4B41-A242-60017AB3426A",
+              "source": "What do you say?",
+              "target": "Kamu bilang apa?"
+            },
+            {
+              "uuid": "60EDD61A-C53D-4797-9EE4-9ACE74528093",
+              "source": "How to say \"XXX\"?",
+              "target": "\"XXX\" itu apa?"
+            }
+          ]
+        },
+        {
+          "uuid": "974A47F2-4328-4F61-86EA-309121DDD2EF",
+          "title": "Dia Tidak di Kantor",
+          "comment": "Bab 5",
+          "sort": 221,
+          "words": [
+            {
+              "uuid": "2490B5B6-A8FC-4050-8461-AFA04C7E8273",
+              "source": "wait a minute",
+              "target": "tunggu sebentar"
+            },
+            {
+              "uuid": "160A6FCD-F70C-4F74-911B-DB6CAB281FEB",
+              "source": "wait",
+              "target": "tunggu"
+            },
+            {
+              "uuid": "12DA9841-197B-4B0A-A558-28244F29AABA",
+              "source": "see",
+              "target": "lihat"
+            },
+            {
+              "uuid": "169098DF-5944-4684-AB8B-665E347734B6",
+              "source": "teach",
+              "target": "mengajar"
+            },
+            {
+              "uuid": "01FCFB7F-FDFC-4031-8D93-C4EBDCBD0BFF",
+              "source": "meet",
+              "target": "bertemu"
+            },
+            {
+              "uuid": "44650A46-D53B-4F1D-AF78-8C66EFDF9517",
+              "source": "want to",
+              "target": "ingin"
+            },
+            {
+              "uuid": "651025C6-5D60-4399-80B9-96B66AE04549",
+              "source": "breakfast",
+              "target": "makan pagi"
+            },
+            {
+              "uuid": "9ED80CD0-FEB0-4B74-A868-7321FEC38BF7",
+              "source": "do",
+              "sourceComment": "in general",
+              "target": "lakukan"
+            },
+            {
+              "uuid": "82FD547C-8482-46FF-91DE-02E023E95E16",
+              "source": "currently",
+              "sourceComment": "-ing",
+              "target": "sedang"
+            },
+            {
+              "uuid": "980EC0BC-3DDC-4D32-8474-BB29C212BE2C",
+              "source": "dinner",
+              "target": "makan malam"
+            },
+            {
+              "uuid": "A27CB330-9C3C-4173-9623-E3A2C1C09331",
+              "source": "can",
+              "target": "bisa"
+            },
+            {
+              "uuid": "B301335B-E32B-44BC-ACA3-580CFDCBB8EE",
+              "source": "return",
+              "target": "kembali"
+            },
+            {
+              "uuid": "B20DC665-F7C8-4E37-937F-8D7D38845106",
+              "source": "need",
+              "target": "perlu"
+            },
+            {
+              "uuid": "DCDFF865-D408-4C65-AEC0-48D907716AA0",
+              "source": "lunch",
+              "target": "makan siang"
+            },
+            {
+              "uuid": "DE8EC7F7-9EB6-444B-9673-3BB740611785",
+              "source": "work on/do",
+              "sourceComment": "specific",
+              "target": "kerjakan"
+            },
+            {
+              "uuid": "E32F867A-D88A-484C-A7A1-7E206BA1F5D9",
+              "source": "say",
+              "target": "bilang"
+            },
+            {
+              "uuid": "E6B75D4E-C449-4A51-8048-7B6D986DBEB5",
+              "source": "eat",
+              "target": "makan"
+            },
+            {
+              "uuid": "2425FD47-9DC7-4FC1-9CBA-2C846239DEC6",
+              "source": "will",
+              "sourceComment": "future tense",
+              "target": "akan"
+            },
+            {
+              "uuid": "E26A6FD4-045E-4C8A-8BE7-B7142F5E5FE5",
+              "source": "no",
+              "target": "tidak"
+            },
+            {
+              "uuid": "A630FBD8-8536-4538-825E-D2AEA92220FE",
+              "source": "no",
+              "sourceComment": "for nouns",
+              "target": "bukan"
+            },
+            {
+              "uuid": "810B5DD0-9127-4E6E-8910-3063F5980C70",
+              "source": "long/old",
+              "target": "lama"
+            },
+            {
+              "uuid": "47128EB6-59C5-4C59-A983-8E16CEFEE0F8",
+              "source": "new/recent",
+              "target": "baru"
+            },
+            {
+              "uuid": "5E5440CD-0AF7-46B6-B71E-0EB760469DD5",
+              "source": "friend",
+              "target": "teman"
+            },
+            {
+              "uuid": "946FA99F-A8F9-42D0-B942-9AF157DE69F0",
+              "source": "office",
+              "target": "kantor"
+            },
+            {
+              "uuid": "9826819B-6E9A-45B4-A8FD-4CA64375D8C6",
+              "source": "is",
+              "sourceComment": "yes/no - question word",
+              "target": "apakah"
+            },
+            {
+              "uuid": "046FFA69-7812-4E1C-8977-89F32DD6F7F1",
+              "source": "what",
+              "target": "apa"
+            },
+            {
+              "uuid": "6A54F0AB-C1D8-41B5-B4C6-D85F00B44A5F",
+              "source": "time",
+              "target": "waktu"
+            },
+            {
+              "uuid": "97B8C201-21EA-4AB7-A475-ACFAA931C907",
+              "source": "neighbour",
+              "target": "tetangga"
+            },
+            {
+              "uuid": "E84E3502-D1CD-4600-86D1-C5ADF9347B6F",
+              "source": "girlfriend",
+              "target": "pacar"
+            },
+            {
+              "uuid": "DFC414A7-9C4E-4558-B46A-084567138C3F",
+              "source": "enough",
+              "target": "cukup"
+            },
+            {
+              "uuid": "7D7E4861-DE0D-4F3E-BC63-45688F750CC0",
+              "source": "fast",
+              "target": "japat"
+            },
+            {
+              "uuid": "FC1BBE3D-6A3D-403E-90BB-F6955FC81420",
+              "source": "look arround",
+              "target": "lihat-lihat"
+            },
+            {
+              "uuid": "A1185AD0-1998-44A2-A9EE-3842B2105633",
+              "source": "recently",
+              "target": "baru-baru ini"
+            },
+            {
+              "uuid": "6A93E730-0169-470A-A4A3-3A0A9E74ADC8",
+              "source": "Negativ answer to a question",
+              "sourceComment": "Grammar",
+              "target": "Double question word"
+            },
+            {
+              "uuid": "647CD936-E4E4-47B7-B8CD-F8804F26A179",
+              "source": "Positiv answer to a question",
+              "sourceComment": "Grammar",
+              "target": "Quesiton word and saja"
+            },
+            {
+              "uuid": "A16EBF88-68B8-4268-8A7F-7A6D464BFBB2",
+              "source": "wait a moment",
+              "target": "tunggu sebentar"
+            },
+            {
+              "uuid": "0E2C1533-626E-4496-91CB-03CAB365AC51",
+              "source": "Gosh!",
+              "target": "Aduh!"
+            },
+            {
+              "uuid": "BD34C586-5090-4898-BA4F-8D66C5C356B6",
+              "source": "maybe",
+              "target": "mungkin"
+            },
+            {
+              "uuid": "9DAA99E7-F777-4CC3-BE37-0E2ABD8C93F4",
+              "source": "profession",
+              "target": "tukang"
+            },
+            {
+              "uuid": "E4379A1A-CAAE-4B80-8979-BD12EB7A049E",
+              "source": "can",
+              "target": "bisa"
+            },
+            {
+              "uuid": "DD2496CC-91F6-4A00-81FC-F53DD998D977",
+              "source": "cooking",
+              "target": "masak"
+            },
+            {
+              "uuid": "E88FCA52-E554-4484-AAFB-9F3B69BFC69E",
+              "source": "Cuisine",
+              "target": "masakan"
+            },
+            {
+              "uuid": "A45D837B-B7BE-4B41-B45B-C39C7DA77509",
+              "source": "of course",
+              "target": "tentu saja"
+            },
+            {
+              "uuid": "3F4EF05D-43D7-4584-8BF3-D84D284F76A1",
+              "source": "vegetables",
+              "target": "sajur"
+            },
+            {
+              "uuid": "C9637D00-ED53-442E-A353-6018CE809B43",
+              "source": "win",
+              "target": "menang"
+            },
+            {
+              "uuid": "9EC350A0-CA1B-44DD-88F6-EC4B3DE27652",
+              "source": "how much",
+              "sourceComment": "question word",
+              "target": "berapa"
+            },
+            {
+              "uuid": "2EDAED2F-5630-44E0-AD53-BB3BB9DC6A74",
+              "source": "I have a lot of time!",
+              "target": "Saya punya banyak waktu!"
+            },
+            {
+              "uuid": "310332B4-1A46-4BBB-894E-686A01CEC057",
+              "source": "What are you doing?",
+              "target": "Kamu lakukan apa?"
+            },
+            {
+              "uuid": "66BCF802-A998-40F2-AB1A-4490BB4307E0",
+              "source": "I am doing nothing!",
+              "sourceComment": "Answer",
+              "target": "tidak, lakukan apa-apa!"
+            },
+            {
+              "uuid": "0E2AE8A7-FFBB-4791-A4DF-C7B5B76B7EE0",
+              "source": "Will you work in Bali?",
+              "target": "Apakah kamu akan bekerja di Bali?"
+            },
+            {
+              "uuid": "AAC153EE-8A8F-44BB-90FA-84CE80EDB16C",
+              "source": "Do you work in Bali?",
+              "target": "Apakah kamu bekerja di Bali?"
+            },
+            {
+              "uuid": "9D5D4FDC-7B86-4C4E-96F0-3604D93372F0",
+              "source": "Will you live longer in Bali?",
+              "target": "Apakah kamu akan lama tinggal di Bali?"
+            },
+            {
+              "uuid": "FA6E88AF-BB6A-474E-82F3-0CC28E6E7B5F",
+              "source": "Are you studying German?",
+              "target": "Apakah kamu sedang belajar bahasa Jerman?"
+            },
+            {
+              "uuid": "165C8660-1FC4-4CC2-A988-AAD383D2030A",
+              "source": "I am working.",
+              "target": "Saya sedang bekerja."
+            },
+            {
+              "uuid": "45C0B460-4950-4243-BE1D-6AF8F0C84B59",
+              "source": "Is she speaking English?",
+              "target": "Apakah dia sedang bicara bahasa Inggris?"
+            },
+            {
+              "uuid": "DF899814-409F-40BB-9BD8-0DECC21B7754",
+              "source": "Time for party!",
+              "target": "Waktunya pesta!"
+            },
+            {
+              "uuid": "2A4A5F60-ADE5-4512-B0C4-68FA7F495602",
+              "source": "I don't have time.",
+              "target": "Saya tidak punya waktu."
+            },
+            {
+              "uuid": "20C565DC-3ADA-45C7-A8A3-86650D147DA2",
+              "source": "Take your time.",
+              "target": "Jangan buru-buru."
+            },
+            {
+              "uuid": "9BD64394-CB49-4546-A4E3-05A86F34F237",
+              "source": "I am coming from nowhere.",
+              "target": "Saya tidak datang dari mana-mana."
+            },
+            {
+              "uuid": "694C54AB-DE18-4CB8-A962-EC63E37E1FD6",
+              "source": "Are you alright?",
+              "target": "Kamu tidak apa-apa?"
+            }
+          ]
+        },
+        {
+          "uuid": "BAD3EA50-BF92-4D61-9F32-ED38E555FCF2",
+          "title": "Tentang Teman Baik Saya",
+          "comment": "Bab 6",
+          "sort": 282,
+          "words": [
+            {
+              "uuid": "FFD08314-E245-4352-B7C6-D24B3A16D6A7",
+              "source": "old friend",
+              "target": "teman lama"
+            },
+            {
+              "uuid": "F3B4CEB1-9647-4863-B2FC-36FC10F15565",
+              "source": "good friend",
+              "target": "teman baik"
+            },
+            {
+              "uuid": "C3EA2E21-4714-47AA-95D7-F78DB7CB6390",
+              "source": "plan",
+              "target": "rencana"
+            },
+            {
+              "uuid": "49EE2F4E-8D2C-4D80-B725-145F5A670C5C",
+              "source": "phone",
+              "target": "telepon"
+            },
+            {
+              "uuid": "49FB545E-3F83-4BFB-A83C-D72097618A9D",
+              "source": "make",
+              "sourceComment": "formal",
+              "target": "membuat"
+            },
+            {
+              "uuid": "21CB1C24-E87A-4C31-9D89-FF4FC4F026B7",
+              "source": "remember",
+              "target": "ingat"
+            },
+            {
+              "uuid": "63944421-EB48-4394-A5CA-92C2830DEB57",
+              "source": "have",
+              "target": "punya"
+            },
+            {
+              "uuid": "347E6381-2D4C-4A08-8712-95FE2FEC8C4D",
+              "source": "already",
+              "target": "sudah"
+            },
+            {
+              "uuid": "89B39BCC-E60F-49BE-ACE6-AB978E925483",
+              "source": "not yet",
+              "target": "belum"
+            },
+            {
+              "uuid": "C62D840A-E6A9-47B9-B7A5-D38B36EA3FCB",
+              "source": "alot",
+              "target": "banyak"
+            },
+            {
+              "uuid": "66107B50-AFEB-4292-8305-9DFE96E20974",
+              "source": "alittle",
+              "target": "sedikit"
+            },
+            {
+              "uuid": "B1307155-567F-43A8-80FC-40B845AD4FAC",
+              "source": "have to/must",
+              "target": "harus"
+            },
+            {
+              "uuid": "4967BCA9-B69A-42C8-B8CE-6BD587529BA8",
+              "source": "but",
+              "target": "tapi"
+            },
+            {
+              "uuid": "6F2CCEE8-9B6F-4CEF-A9E4-2193441DC90E",
+              "source": "week",
+              "target": "minggu"
+            },
+            {
+              "uuid": "8FC63B84-4615-4972-902F-E62148792E44",
+              "source": "month",
+              "target": "bulan"
+            },
+            {
+              "uuid": "F4534F99-4AE5-49AE-8537-BF2C610A6DD0",
+              "source": "year",
+              "target": "tahun"
+            },
+            {
+              "uuid": "75B24CCC-07DC-4597-B1A9-9CDE25EBC7A8",
+              "source": "last year",
+              "target": "tahun lalu"
+            },
+            {
+              "uuid": "C8196A34-B0AB-4CA1-B6E9-B2D292FC9A2D",
+              "source": "last week",
+              "target": "minggu lalu"
+            },
+            {
+              "uuid": "2EC11CA4-70E5-40A7-81F9-8EECAAB735C5",
+              "source": "last month",
+              "target": "bulan lalu"
+            },
+            {
+              "uuid": "46ACAB78-BC40-44AF-9854-2AEC05170D43",
+              "source": "next week",
+              "target": "minggu depan"
+            },
+            {
+              "uuid": "9D8BC181-102D-49EC-88F0-7331268DE994",
+              "source": "next month",
+              "target": "bulan depan"
+            },
+            {
+              "uuid": "4D90C529-E6BB-4797-9223-E60DDB06ACC7",
+              "source": "next year",
+              "target": "tahun depan"
+            },
+            {
+              "uuid": "F63349D9-B8F4-4885-B2A0-1F48EA42F7D8",
+              "source": "today",
+              "target": "hari ini"
+            },
+            {
+              "uuid": "4995C1A3-8884-4039-9208-26FD81AC5FD8",
+              "source": "this morning",
+              "sourceComment": "after now",
+              "target": "pagi ini"
+            },
+            {
+              "uuid": "15AE7E70-D411-4B28-80E9-C09CDD9E6A41",
+              "source": "this early afternoon",
+              "sourceComment": "after now",
+              "target": "siang ini"
+            },
+            {
+              "uuid": "8F535658-62B8-46A5-86E6-FFB0777D5482",
+              "source": "this late afternoon",
+              "sourceComment": "after now",
+              "target": "sore ini"
+            },
+            {
+              "uuid": "D1B73393-5F8F-4498-A446-36ACBE055ED5",
+              "source": "this night",
+              "sourceComment": "after now",
+              "target": "malam ini"
+            },
+            {
+              "uuid": "66EC3C19-3966-443A-B92D-82B952B28DEE",
+              "source": "this morning",
+              "sourceComment": "before now",
+              "target": "tadi pagi"
+            },
+            {
+              "uuid": "5435512A-63E9-4F55-9728-3A87221CF436",
+              "source": "this early afternoon",
+              "sourceComment": "before now",
+              "target": "tadi sore"
+            },
+            {
+              "uuid": "52D60A89-3B29-443E-80D2-F35A6E9CE8E2",
+              "source": "this late afternoon",
+              "sourceComment": "before now",
+              "target": "tadi sore"
+            },
+            {
+              "uuid": "0ABC785E-FCF3-4170-8E5B-B3B5E62CEE71",
+              "source": "this night",
+              "sourceComment": "before now",
+              "target": "tadi malam"
+            },
+            {
+              "uuid": "31301842-350A-4890-A316-15432141C40B",
+              "source": "later in the early afternoon",
+              "target": "nanti siang"
+            },
+            {
+              "uuid": "5F1A6416-7937-478A-BDE3-B9F871E4CC30",
+              "source": "later in the late afternoon",
+              "target": "nanti sore"
+            },
+            {
+              "uuid": "199F9681-EFED-4E86-99A6-1A453B513863",
+              "source": "later tonight",
+              "target": "nanti malam"
+            },
+            {
+              "uuid": "CF4F5C8F-8900-46F4-A75E-D1DFCFA7F44B",
+              "source": "tomorrow",
+              "target": "besok"
+            },
+            {
+              "uuid": "225A8A0F-3BFB-4DDF-B360-7E3E4FC0C7FD",
+              "source": "tomorrow morning",
+              "target": "besok pagi"
+            },
+            {
+              "uuid": "6EDA411D-5AB8-429C-B674-351292A34961",
+              "source": "tomorrow early afternoon",
+              "target": "besok siang"
+            },
+            {
+              "uuid": "21BED507-5103-4A33-B323-B1399AA838E3",
+              "source": "tomorrow late afternoon",
+              "target": "besok sore"
+            },
+            {
+              "uuid": "FD67E1C5-621C-4951-B6CC-D55AAD664EBB",
+              "source": "tomorrow night",
+              "target": "besok malam"
+            },
+            {
+              "uuid": "1C0A14B1-95CB-40F5-B1A0-0EA950EDEBDB",
+              "source": "yesterday",
+              "target": "kemarin"
+            },
+            {
+              "uuid": "4CB39E33-23D4-42F3-8A46-B86EC330B3DA",
+              "source": "yesterday morning",
+              "target": "kemarin pagi"
+            },
+            {
+              "uuid": "FA9EFD2B-6A50-4F8E-A807-977CC707857B",
+              "source": "yesterday late afternoon",
+              "target": "kemarin sore"
+            },
+            {
+              "uuid": "9A9EC865-1B0A-4BAA-9477-717F197AF252",
+              "source": "yesterday early afternoon",
+              "target": "kemarin siang"
+            },
+            {
+              "uuid": "EE57A2A5-89BC-4C3C-A660-EDF941D0EC0E",
+              "source": "yesterday night",
+              "target": "kemarin malam"
+            },
+            {
+              "uuid": "102A266A-0994-4018-B931-EA1A1339CDF4",
+              "source": "when",
+              "sourceComment": "question word",
+              "target": "kapa"
+            },
+            {
+              "uuid": "B7FB3767-18F5-44E5-B581-CBCFE5BEDB1D",
+              "source": "boat",
+              "target": "kepal"
+            },
+            {
+              "uuid": "5566503A-AC83-40C5-AB95-54E99AE8A11E",
+              "source": "What do you wanna eat in the afternoon?",
+              "target": "Siang ini mau makan apa?"
+            },
+            {
+              "uuid": "39B85A51-4D65-4DB0-85B1-97C804AFD74A",
+              "source": "Where do you want to go tonight?",
+              "target": "Malam ini kalian mau pergi ke mana?"
+            }
+          ]
+        },
+        {
+          "uuid": "A91C38AC-FBE4-46E3-ACB1-0490CABCC00E",
+          "title": "Makan Malam dengan Teman-Teman",
+          "comment": "Bab 7",
+          "sort": 331,
+          "words": [
+            {
+              "uuid": "DE72CE3A-F729-40C1-8778-EBAF17A45B43",
+              "source": "Can I have ... ?",
+              "sourceComment": "question word",
+              "target": "Bisa minta ... ?"
+            },
+            {
+              "uuid": "3E46F56E-A3AC-4B79-A751-77996301D9AC",
+              "source": "order",
+              "target": "pesan"
+            },
+            {
+              "uuid": "8FB2F518-DE8D-4EFC-B040-189F223A007D",
+              "source": "the order",
+              "target": "pesanan"
+            },
+            {
+              "uuid": "B62EF243-D974-43CA-AA55-61958887B162",
+              "source": "eat",
+              "target": "makan"
+            },
+            {
+              "uuid": "77E55A58-F0A7-4870-A5DB-C2DECFE36E80",
+              "source": "food",
+              "target": "makanan"
+            },
+            {
+              "uuid": "F319B4E3-654D-4234-88FE-C7FD697A85ED",
+              "source": "drink",
+              "target": "minum"
+            },
+            {
+              "uuid": "50B23231-1CE3-4859-922C-1FE08FEF292C",
+              "source": "the drink",
+              "target": "minuman"
+            },
+            {
+              "uuid": "90413481-49A2-4216-BB6B-74134FECDCB6",
+              "source": "spicy",
+              "target": "pedas"
+            },
+            {
+              "uuid": "21166743-894B-4458-A353-E012E48A5CB2",
+              "source": "hot",
+              "target": "panas"
+            },
+            {
+              "uuid": "6E28FE76-A3E5-4250-A914-F1052EA29439",
+              "source": "cold",
+              "target": "dingin"
+            },
+            {
+              "uuid": "C30325F0-B92C-4951-8540-E16B85DDDF1D",
+              "source": "sweet",
+              "target": "manis"
+            },
+            {
+              "uuid": "469CEF37-97BB-4CA5-BF64-00EBAAC7C6A1",
+              "source": "empty",
+              "target": "kosong"
+            },
+            {
+              "uuid": "CB0D7FB8-A596-4C89-BB10-990DC2A94371",
+              "source": "dry",
+              "target": "kering"
+            },
+            {
+              "uuid": "6EE553D3-3260-468F-BCD2-B61509A4FA05",
+              "source": "fried",
+              "target": "goreng"
+            },
+            {
+              "uuid": "26F93BB4-9C7E-47D8-959E-278D42CF5388",
+              "source": "duck",
+              "target": "bebek"
+            },
+            {
+              "uuid": "236FC79D-0D00-43CB-8855-7DA433419DCA",
+              "source": "chicken",
+              "target": "ayam"
+            },
+            {
+              "uuid": "A663AE0A-37A0-451F-8845-C59852ABD9C2",
+              "source": "chicken on a stick",
+              "target": "sate ayam"
+            },
+            {
+              "uuid": "5DBF3858-0846-4A5B-9B22-19AF49B9583A",
+              "source": "mixed rice",
+              "target": "nasi campur"
+            },
+            {
+              "uuid": "4D3956A3-BDD8-4474-9208-BD6DB5CE0B58",
+              "source": "suger",
+              "target": "gula"
+            },
+            {
+              "uuid": "77802689-BEC8-4366-B78A-F3189623D144",
+              "source": "more",
+              "target": "lebih"
+            },
+            {
+              "uuid": "9E368E21-699A-4C9C-9686-9281E2DE4908",
+              "source": "Sweet Ice tea",
+              "target": "es teh manis"
+            },
+            {
+              "uuid": "71EEDB92-5298-4BE0-9CDC-BE85B5FB5D8E",
+              "source": "Hot tea",
+              "target": "teh panas"
+            },
+            {
+              "uuid": "AFD87755-BE68-45D6-9188-CA208C8A43C0",
+              "source": "ready",
+              "target": "siap"
+            },
+            {
+              "uuid": "3C21616A-16C7-400F-ABE2-6FEB9F130F5B",
+              "source": "bullshit",
+              "target": "osong kosong"
+            },
+            {
+              "uuid": "5BA380B5-C9A3-43FC-8BD5-18084B805C4A",
+              "source": "repeat",
+              "target": "ulang"
+            },
+            {
+              "uuid": "F7135480-11F7-4D70-9232-79FF99172088",
+              "source": "only",
+              "target": "hanya"
+            },
+            {
+              "uuid": "016680F3-A443-42D1-9EA4-F19426C41186",
+              "source": "ten more minutes",
+              "target": "sepuluh menit lagi"
+            },
+            {
+              "uuid": "178A2069-EE99-436C-8A2B-8D93102553AD",
+              "source": "minute",
+              "target": "menit"
+            },
+            {
+              "uuid": "43D86058-2E33-4C85-B59D-8108E0EC87D9",
+              "source": "ago",
+              "target": "yang lalu"
+            },
+            {
+              "uuid": "C8AC91CC-695E-4431-856B-0DC119D1A09D",
+              "source": "two more days",
+              "target": "dua hari lagi"
+            },
+            {
+              "uuid": "F18436C4-A3A4-4FEA-A7F3-BCD982B5B7E9",
+              "source": "three more weeks",
+              "target": "tiga minggu lagi"
+            },
+            {
+              "uuid": "1E0D2FF7-67B0-4E11-83E7-D50765C7AA46",
+              "source": "four more month",
+              "target": "empat bulan lagi"
+            },
+            {
+              "uuid": "8508BB07-00C4-45B6-AE04-EB36A64D6E5C",
+              "source": "five more years",
+              "target": "lima tahun lagi"
+            },
+            {
+              "uuid": "83322BAF-42AB-40F0-BC2E-B63049B96492",
+              "source": "six hours ago",
+              "target": "enam jam yang lalu"
+            },
+            {
+              "uuid": "7C7AC75F-F1C6-494C-BDFA-1AFF4A8C03F8",
+              "source": "hour",
+              "target": "jam"
+            },
+            {
+              "uuid": "483F84F6-50DD-4761-9632-E0106DF7980B",
+              "source": "seven days ago",
+              "target": "tujuh hari yang lalu"
+            },
+            {
+              "uuid": "F76332E2-C3BC-479B-A13D-38314C4D93A1",
+              "source": "eight weeks ago",
+              "target": "delapan minggu yang lalu"
+            },
+            {
+              "uuid": "11C3850C-BA58-49D5-B37F-5365434AC5E5",
+              "source": "nine month ago",
+              "target": "sembilan bulan yang lalu"
+            },
+            {
+              "uuid": "E7FF1E2E-63C9-4D7B-82FC-81C52B0681F0",
+              "source": "ten years ago",
+              "target": "sepuluh tahun yang lalu"
+            },
+            {
+              "uuid": "CA86643E-D695-4FC8-B190-ED99669A335C",
+              "source": "0",
+              "target": "nol"
+            },
+            {
+              "uuid": "E052D364-DF7B-498D-90F5-992AD4E8C15C",
+              "source": "1",
+              "target": "satu"
+            },
+            {
+              "uuid": "9E4B643B-C80D-47D8-B147-95197986C5BD",
+              "source": "2",
+              "target": "dua"
+            },
+            {
+              "uuid": "3B75FAE1-BD63-421A-867A-CE099F968CE1",
+              "source": "3",
+              "target": "tiga"
+            },
+            {
+              "uuid": "4BDA6285-D475-4330-9132-DF33D60C6393",
+              "source": "4",
+              "target": "empat"
+            },
+            {
+              "uuid": "6DF3B4D3-25B3-40A9-987C-379C66491EEA",
+              "source": "5",
+              "target": "lima"
+            },
+            {
+              "uuid": "25BE804E-289E-400F-9310-122E5276C6B2",
+              "source": "6",
+              "target": "enam"
+            },
+            {
+              "uuid": "3A38375C-CC05-4937-B9D6-C56D39CBF83D",
+              "source": "7",
+              "target": "tujuh"
+            },
+            {
+              "uuid": "A1927EA9-0F2A-40A6-BAD2-34071155FDD6",
+              "source": "8",
+              "target": "delapan"
+            },
+            {
+              "uuid": "62BA2722-9C57-438E-B880-09D0EF552AE9",
+              "source": "9",
+              "target": "sembilan"
+            },
+            {
+              "uuid": "2224A784-D861-49CD-9940-7B574ABF8E11",
+              "source": "10",
+              "target": "sepuluh"
+            },
+            {
+              "uuid": "A6EE68E1-62B5-4D81-9451-2D72F2E1982A",
+              "source": "11",
+              "target": "sebelas"
+            },
+            {
+              "uuid": "BE8C9C72-46D6-4754-91AB-72DFACAA59BD",
+              "source": "12",
+              "target": "dua belas"
+            },
+            {
+              "uuid": "7F534DDC-2534-476F-9F8B-9B61EE7054E2",
+              "source": "13",
+              "target": "tiga belas"
+            },
+            {
+              "uuid": "048F70A0-95AD-4EFF-8067-A4171F8E24C1",
+              "source": "14",
+              "target": "empat belas"
+            },
+            {
+              "uuid": "7DE75AFE-96C0-4134-A594-CE725ED4B5F9",
+              "source": "15",
+              "target": "lima belas"
+            },
+            {
+              "uuid": "162C805C-2B6E-49E2-BD61-B88F41BD1B9B",
+              "source": "16",
+              "target": "enam belas"
+            },
+            {
+              "uuid": "1E171821-DF6B-4341-B5D7-7884CC3F485B",
+              "source": "17",
+              "target": "tujuh belas"
+            },
+            {
+              "uuid": "6A326181-9209-49B6-9013-0EDA72EC0C8A",
+              "source": "18",
+              "target": "delapan belas"
+            },
+            {
+              "uuid": "327E46D6-D2ED-4264-B99F-1379886E0781",
+              "source": "19",
+              "target": "sembilan belas"
+            },
+            {
+              "uuid": "C95926E2-094D-4A2A-A9ED-30947DE6663F",
+              "source": "20",
+              "target": "dua puluh"
+            },
+            {
+              "uuid": "BED47756-706B-4DFD-8FCD-06ED8101FAB0",
+              "source": "21",
+              "target": "dua pulu satu"
+            },
+            {
+              "uuid": "D6C17C02-8EEF-48AE-969E-92AB7897203B",
+              "source": "22",
+              "target": "dua puluh dua"
+            },
+            {
+              "uuid": "ED87BE25-E9EA-4F60-BD9B-453A7D7A7E77",
+              "source": "23",
+              "target": "dua puluh tiga"
+            },
+            {
+              "uuid": "7F5B89AF-1700-4E2B-809F-C2F47814D590",
+              "source": "24",
+              "target": "dua puluh empat"
+            },
+            {
+              "uuid": "57494947-C4BC-406E-865B-5DC90B48F4E0",
+              "source": "25",
+              "target": "dua puluh lima"
+            },
+            {
+              "uuid": "79388C8D-CC39-43DD-95A3-16D1A396824C",
+              "source": "26",
+              "target": "dua puluh enam"
+            },
+            {
+              "uuid": "3E89D868-ABD6-403A-856F-B816E2BDA3CF",
+              "source": "27",
+              "target": "dua puluh tujuh"
+            },
+            {
+              "uuid": "113CB2E9-E991-449C-9BE8-62F0EF3B33E5",
+              "source": "28",
+              "target": "dua puluh delapan"
+            },
+            {
+              "uuid": "89223077-E6F2-4767-A0FB-7EE92A9EEAB8",
+              "source": "29",
+              "target": "dua puluh sembilan"
+            },
+            {
+              "uuid": "A093A4D2-C052-4821-8D96-5FD9789A7424",
+              "source": "30",
+              "target": "tiga puluh"
+            },
+            {
+              "uuid": "EE1E1CCD-B8EB-4EEA-B6B9-297A99A889D5",
+              "source": "40",
+              "target": "empat puluh"
+            },
+            {
+              "uuid": "6F42CBAC-B032-43B0-B2F1-982AEB2CC735",
+              "source": "50",
+              "target": "lima puluh"
+            },
+            {
+              "uuid": "46F6EC34-A847-4212-9B44-6AE84158C8B3",
+              "source": "60",
+              "target": "enam puluh"
+            },
+            {
+              "uuid": "AB899B46-5C6F-43C1-B7DF-94D702C90458",
+              "source": "70",
+              "target": "tujuh puluh"
+            },
+            {
+              "uuid": "0237C7B7-9843-4BE3-A447-DD297061B012",
+              "source": "80",
+              "target": "delapan puluh"
+            },
+            {
+              "uuid": "8319C330-DF35-413D-A830-1FE1902F7E86",
+              "source": "90",
+              "target": "sembilan puluh"
+            },
+            {
+              "uuid": "6B7A5A61-C989-4F3E-A990-7A861CB4DD38",
+              "source": "100",
+              "target": "seratus"
+            },
+            {
+              "uuid": "2D93B22F-1DB0-445A-992D-026EE4336D33",
+              "source": "200",
+              "target": "dua ratus"
+            },
+            {
+              "uuid": "14A6CAEA-481E-4A70-88C8-FF5D655F6452",
+              "source": "300",
+              "target": "tiga ratus"
+            },
+            {
+              "uuid": "29E601D4-43F9-44D6-A917-A84277F0B90F",
+              "source": "1.000",
+              "target": "seribu"
+            },
+            {
+              "uuid": "A0307924-6C9B-4822-8D2B-C02ABF5C4B2B",
+              "source": "2.000",
+              "target": "dua ribu"
+            },
+            {
+              "uuid": "E6EB08CB-7719-4D05-9C0F-8F889E6E27EF",
+              "source": "5.000",
+              "target": "lima ribu"
+            },
+            {
+              "uuid": "66FF6992-8D13-4B57-9A47-23582D6C4329",
+              "source": "5.221",
+              "target": "lima ribu dua ratus dua puluh satu"
+            },
+            {
+              "uuid": "B48448C6-B66F-4125-8808-97055B8EF982",
+              "source": "1.000.000",
+              "target": "sejuta"
+            },
+            {
+              "uuid": "84408A73-3338-48C2-9BCA-26F911FDAC14",
+              "source": "1.000.000.000",
+              "target": "semilliar"
+            },
+            {
+              "uuid": "D2B83E73-0305-4A27-AF2B-95FC70669818",
+              "source": "10ish",
+              "sourceComment": "< 20",
+              "target": "belas"
+            },
+            {
+              "uuid": "D4201521-CC9B-4917-99E5-7C5D2578A321",
+              "source": "10ish",
+              "sourceComment": "> 19",
+              "target": "puluh"
+            },
+            {
+              "uuid": "2F54781F-61BD-4BB5-BE39-9ECD327C6A76",
+              "source": "100ish",
+              "target": "ratus"
+            },
+            {
+              "uuid": "95661ED5-D616-480A-9813-12240EE95D70",
+              "source": "1.000ish",
+              "target": "ribu"
+            },
+            {
+              "uuid": "6D2546CE-09A8-462E-9077-1ECBFA9BF02B",
+              "source": "1.000.000ish",
+              "target": "juta"
+            },
+            {
+              "uuid": "6828ACA1-4F45-460E-9731-EDAD8FFCA317",
+              "source": "1.000.000.000ish",
+              "target": "milliar"
+            },
+            {
+              "uuid": "1CC2B920-3D76-4C0B-A703-443C139293B8",
+              "source": "1",
+              "sourceComment": "as prefix",
+              "target": "se-"
+            },
+            {
+              "uuid": "2B951D54-371B-4187-B26A-A941616BEBDD",
+              "source": "x/y",
+              "target": "-per-"
+            },
+            {
+              "uuid": "BBB4781E-1A17-46E0-A0E3-293CA8C2D533",
+              "source": "1/4",
+              "target": "seperempat"
+            },
+            {
+              "uuid": "899F84F1-0ADB-4496-B8FD-D729CE31EBAB",
+              "source": "1/2",
+              "target": "setengah"
+            },
+            {
+              "uuid": "76C28A6E-7EBD-4584-A04E-3861C855CA6F",
+              "source": "1/5",
+              "target": "seperlima"
+            },
+            {
+              "uuid": "E365F870-8E65-4C5C-B556-1B9250F91ADD",
+              "source": "2/3",
+              "target": "duapertiga"
+            },
+            {
+              "uuid": "94CD60EC-67DD-4F51-BC32-613F2C3724BE",
+              "source": "237.641.326",
+              "target": "dua ratus tiga puluh tujuh juta enam ratus empat puluh satu ribu tiga ratus dua puluh enam"
+            },
+            {
+              "uuid": "4BAD3B3E-D254-403B-A917-8C1BAA839360",
+              "source": "2.000",
+              "target": "dua ribu"
+            },
+            {
+              "uuid": "AF84D8BB-3E2D-4430-AF36-AF419286B60E",
+              "source": "2.010",
+              "target": "dua ribu sebelas"
+            },
+            {
+              "uuid": "A1B88AD5-0896-4F61-A52A-E0D884140A94",
+              "source": "250",
+              "target": "dua ratus lima puluh"
+            },
+            {
+              "uuid": "05B4D9AC-99EC-4FA5-8CF2-78D67087233B",
+              "source": "56,93",
+              "target": "lima puluh koma sembilan tiga"
+            }
+          ]
+        },
+        {
+          "uuid": "B7262DFA-A1D6-45C6-A6C2-BE2821BF0FB0",
+          "title": "Jam Berapa Sekarang?",
+          "comment": "Bab 8",
+          "sort": 434,
+          "words": [
+            {
+              "uuid": "2922419C-46FD-47DD-B091-9A273AB42B28",
+              "source": "good",
+              "target": "bagus"
+            },
+            {
+              "uuid": "AD5B914B-734B-41CE-8838-80833425BF24",
+              "source": "remember",
+              "target": "ingat"
+            },
+            {
+              "uuid": "D43A115E-AF5F-4B66-AF60-C32BC3CEC0E8",
+              "source": "place",
+              "target": "tempat"
+            },
+            {
+              "uuid": "0A549124-98EA-4B9B-A203-04DF3726940F",
+              "source": "please",
+              "target": "tolong"
+            },
+            {
+              "uuid": "896AD4C9-59F2-4335-A064-ADB4CA478399",
+              "source": "come",
+              "target": "dingin"
+            },
+            {
+              "uuid": "F3305F37-D26E-43E3-BF34-D3D99DD71B1F",
+              "source": "again",
+              "target": "nanti"
+            },
+            {
+              "uuid": "335225CF-18DC-485C-8072-F604274B7331",
+              "source": "forget",
+              "target": "lupa"
+            },
+            {
+              "uuid": "DC930635-38D1-49FC-ABA9-7493E02B3DF4",
+              "source": "means",
+              "target": "artinya"
+            },
+            {
+              "uuid": "3B796ECE-5A2C-4B4E-8050-6DB1CC1986DE",
+              "source": "please",
+              "sourceComment": "giving permission",
+              "target": "silakan"
+            },
+            {
+              "uuid": "1C331C06-580E-4422-B7DB-D6A5FC1219A1",
+              "source": "many",
+              "target": "panya"
+            },
+            {
+              "uuid": "2D1731F9-98CC-46D5-92C5-B9000A07CD77",
+              "source": "meet",
+              "target": "bertemu"
+            },
+            {
+              "uuid": "2617D72D-4CD0-4A6C-908B-22412A05E49A",
+              "source": "finish/done",
+              "target": "selesai"
+            },
+            {
+              "uuid": "00BF935E-14D4-4950-9AE9-9664343A16FE",
+              "source": "ask",
+              "target": "minta"
+            },
+            {
+              "uuid": "8FD23DBF-7CE5-48E7-BFDD-258D4FB2583C",
+              "source": "weekend",
+              "target": "akhir minggu"
+            },
+            {
+              "uuid": "B6D2A9FE-010E-4AB6-A25E-23CF24FEF88B",
+              "source": "write",
+              "target": "tulis"
+            },
+            {
+              "uuid": "96A334A5-D77D-4DFE-871A-02C33D3F8E71",
+              "source": "play",
+              "target": "bermain"
+            },
+            {
+              "uuid": "28E54953-D8FE-479B-9359-DE20A2EB8FC1",
+              "source": "principle/head master",
+              "target": "kepala sekolah"
+            },
+            {
+              "uuid": "5DDFA692-AB93-4D16-82F5-F6C1B1DEFA8F",
+              "source": "still",
+              "target": "masih"
+            },
+            {
+              "uuid": "AD2E3324-DCBA-47FA-94B7-4FE572973A4F",
+              "source": "usually",
+              "target": "biasanya"
+            },
+            {
+              "uuid": "91CBBED6-2FBD-4CCA-8982-141A975BBF53",
+              "source": "half",
+              "target": "setengah"
+            },
+            {
+              "uuid": "8C534675-FE6B-44E1-AAC0-AB0C05F38773",
+              "source": "must/have to",
+              "target": "harus"
+            },
+            {
+              "uuid": "BEF303D4-AFAC-40B5-92B1-B4869512A6FB",
+              "source": "not yet",
+              "target": "belum"
+            },
+            {
+              "uuid": "7E5CF1EA-2A83-4E51-B8D5-AA34A57621A3",
+              "source": "after",
+              "target": "lebih"
+            },
+            {
+              "uuid": "7C1263DD-B06E-40F9-BD4C-5FC5F7B2AD85",
+              "source": "before",
+              "target": "kurang"
+            },
+            {
+              "uuid": "CC609AB7-99D0-4EAC-8572-8E5E82084135",
+              "source": "what time?",
+              "target": "jam berapa?"
+            },
+            {
+              "uuid": "E4477077-A930-4C1F-B5CF-1E23F4A195CA",
+              "source": "how many hours?",
+              "target": "berapa jam?"
+            },
+            {
+              "uuid": "4A43FCF3-EC0C-4BB4-8580-E3E10CBA8020",
+              "source": "hour",
+              "target": "jam"
+            },
+            {
+              "uuid": "64B59FC1-3672-4D84-8D6F-00B70B4BCB1C",
+              "source": "minute",
+              "target": "menit"
+            },
+            {
+              "uuid": "62BC9222-8138-473E-A704-689146A3EDCD",
+              "source": "second",
+              "target": "detik"
+            },
+            {
+              "uuid": "2E7A8FCE-E354-487C-8E6C-8C51D27D7FF4",
+              "source": "quarter",
+              "target": "seperempat"
+            },
+            {
+              "uuid": "FB5BD49A-F50D-499E-85A2-7DC10527B6A9",
+              "source": "black",
+              "target": "hitam"
+            },
+            {
+              "uuid": "30FDCC00-63CD-4F14-9FC4-7037CF74DB0A",
+              "source": "half",
+              "target": "setengah"
+            },
+            {
+              "uuid": "38FA684F-78C3-46EB-B0BB-B3879771A594",
+              "source": "wake up",
+              "target": "bangun"
+            },
+            {
+              "uuid": "4B131256-20CB-4E5B-A67D-09C2BCD69B9F",
+              "source": "01:00",
+              "target": "jam satu malam"
+            },
+            {
+              "uuid": "A74C0875-B909-4338-8493-66C4BBEECED8",
+              "source": "02:00",
+              "target": "jam dua pagi"
+            },
+            {
+              "uuid": "999E353F-53BE-4FB2-BE43-E1699497360C",
+              "source": "07:00",
+              "target": "jam tujuh pagi"
+            },
+            {
+              "uuid": "B4C26926-4C63-4228-ADFD-E44F015DF36A",
+              "source": "09:30",
+              "target": "jam setengah sepuluh pagi/jam sembilan lebih tiga puluh menit pagi"
+            },
+            {
+              "uuid": "D6E7194D-CF0F-4134-9FC3-8553E913D2B4",
+              "source": "10:45",
+              "target": "jam sebelas kurang seperempat siang/jam sebelas kurang lima belas menit siang"
+            },
+            {
+              "uuid": "70B6B79A-EAC9-4AF2-95EE-6E34D75BAC82",
+              "source": "12:15",
+              "target": "jam dua belas lebih seperempat siang/jam dua belas lebih lima belas menit siang"
+            },
+            {
+              "uuid": "6549E2F7-0418-415B-8ABD-3AFB683BFF3B",
+              "source": "13:20",
+              "target": "jam satu lebih dua puluh menit siang"
+            },
+            {
+              "uuid": "64F8D59F-5B2B-4361-B7A9-24A914E0FB47",
+              "source": "14:50",
+              "target": "jam dua lebih lima puluh menit sore/jam tiga kurang sepuluh menit sore"
+            },
+            {
+              "uuid": "12D72287-7DEC-46F6-8677-DC8217ED21A5",
+              "source": "16:12",
+              "target": "jam empat lebih dua belas menit sore"
+            },
+            {
+              "uuid": "B2C7C80A-0E58-46F0-8694-BDD0CD33FA8B",
+              "source": "19:00",
+              "target": "jam tujuh malam"
+            },
+            {
+              "uuid": "DFDE9BBD-FF30-4B0B-959E-06B6D30FF495",
+              "source": "22:40",
+              "target": "jam sepuluh lebih empat belas menit malam/jam sebelas kurang dua puluh menit malam"
+            },
+            {
+              "uuid": "0E4A6FFF-6CFD-4A77-AD8F-4C3BEFAC1F36",
+              "source": "XX minutes after",
+              "target": "lebih XX menit"
+            },
+            {
+              "uuid": "773A8275-75B3-473E-91F6-F5952F40AAF1",
+              "source": "XX minutes before",
+              "target": "kurang XX menit"
+            },
+            {
+              "uuid": "36F61F5C-50AE-44A1-B9F1-04D4EA288C01",
+              "source": "XX:30",
+              "target": "jam setengah XX+1"
+            },
+            {
+              "uuid": "E75C1380-2745-4FEE-8E7E-6FBBC398E72F",
+              "source": "03:15",
+              "target": "jam tiga lebih seperempat sore"
+            },
+            {
+              "uuid": "50D993C7-E964-4540-89BF-25677C77B817",
+              "source": "06:10",
+              "target": "jam enam lebih sepuluh menit pagi"
+            },
+            {
+              "uuid": "61AEF88D-D322-4554-95CB-B9AC17ABC538",
+              "source": "04:50",
+              "target": "jam lima kurang sepuluh menit sore"
+            },
+            {
+              "uuid": "51E8F922-CACB-4888-8851-88A4400C1669",
+              "source": "18:20",
+              "target": "jam enam lebih dua puluh menit malam"
+            },
+            {
+              "uuid": "A5CDE2A9-4693-485C-8ABD-99F3A13293E3",
+              "source": "14:15",
+              "target": "jam dua lebih seperempat sore"
+            },
+            {
+              "uuid": "19BF130D-0C2B-452E-B8A0-8E19053DE2AC",
+              "source": "15:55",
+              "target": "jam empat kurang lima menit sore"
+            },
+            {
+              "uuid": "55C82B34-95F6-4290-8F22-6257263072DC",
+              "source": "16:30",
+              "target": "jam setengah lima sore"
+            },
+            {
+              "uuid": "70888BA1-3D4B-413B-A42A-A53271810107",
+              "source": "14:20",
+              "target": "jam dua lebih dua puluh menit sore"
+            }
+          ]
+        },
+        {
+          "uuid": "2DC8459C-1121-421E-80CE-0E14CD214CB0",
+          "title": "Berapa Jumlahnya?",
+          "comment": "Bab 9",
+          "sort": 490,
+          "words": [
+            {
+              "uuid": "ACBE0F2A-1906-41A1-BEE4-63BE2EA67266",
+              "source": "big",
+              "target": "besar"
+            },
+            {
+              "uuid": "4F40E9CE-763E-49DA-9564-B8A24C1C2027",
+              "source": "small",
+              "target": "kecil"
+            },
+            {
+              "uuid": "20A3CE81-6BC0-445D-9A6C-498C6EBF6EC8",
+              "source": "go up",
+              "target": "naik"
+            },
+            {
+              "uuid": "BC4774EA-D269-4F48-BC48-90AD497631C2",
+              "source": "go down",
+              "target": "turun"
+            },
+            {
+              "uuid": "E1E98439-753F-49E7-8813-619D4978CE51",
+              "source": "from … to …",
+              "target": "dari … sampai …"
+            },
+            {
+              "uuid": "049C0F51-5B85-41F9-92DF-45EDB97E7D5B",
+              "source": "sleep",
+              "target": "tidur"
+            },
+            {
+              "uuid": "10874796-B019-463F-879A-4F3C20A6BBC5",
+              "source": "wake up",
+              "target": "bangun"
+            },
+            {
+              "uuid": "71EE5DA9-42AF-41CE-8323-A8F85244BC79",
+              "source": "closed",
+              "target": "tutup"
+            },
+            {
+              "uuid": "FDCE0C04-8AC6-430A-BB8D-3C6F54A2A569",
+              "source": "open",
+              "target": "buka"
+            },
+            {
+              "uuid": "558974E4-DBBF-40F9-974C-9E86E7795618",
+              "source": "I think, …",
+              "target": "Saya pikir, …"
+            },
+            {
+              "uuid": "DBCC2FBB-F67C-42D3-B0CF-6D1D5961133E",
+              "source": "arround/approx.",
+              "target": "sekitar"
+            },
+            {
+              "uuid": "465B5421-136F-41C8-AC01-22FDC1EC2849",
+              "source": "head",
+              "target": "kepala"
+            },
+            {
+              "uuid": "76EBBCFB-10A2-48D2-940F-36CE4BE48C56",
+              "source": "dizzy",
+              "target": "pusing"
+            },
+            {
+              "uuid": "964C0A8B-3C9A-438A-8820-9BA9C82F0F30",
+              "source": "headache",
+              "target": "kepala pusing"
+            },
+            {
+              "uuid": "E75306C7-4450-4EFA-B27D-ACD9E8D6D010",
+              "source": "not yet",
+              "target": "belum"
+            },
+            {
+              "uuid": "A5516915-4AD2-410A-9808-D39E8B6E0558",
+              "source": "before",
+              "target": "sebelum"
+            },
+            {
+              "uuid": "53DA6BE3-03B9-4DA3-AAF0-916A2600C899",
+              "source": "remember",
+              "target": "angka"
+            },
+            {
+              "uuid": "2D4857D2-7162-42ED-843F-28D00A1F53AB",
+              "source": "amount",
+              "target": "jumlah"
+            },
+            {
+              "uuid": "0541EAF5-C7BC-4B68-A9EB-DC638C70D217",
+              "source": "all",
+              "target": "semua"
+            },
+            {
+              "uuid": "44117768-A944-4E24-B22C-3528668AD1B9",
+              "source": "how",
+              "sourceComment": "for numbers",
+              "target": "berapa"
+            },
+            {
+              "uuid": "16FC636C-15F7-4C23-BDB4-E50676C56366",
+              "source": "how many is it",
+              "target": "berapa jumlah"
+            },
+            {
+              "uuid": "02E08F02-D7B3-4289-B55E-F71DD412BF64",
+              "source": "rice field",
+              "target": "sawah"
+            },
+            {
+              "uuid": "945D9ED1-1FD8-4256-AE98-FFC21FE377D0",
+              "source": "percent",
+              "target": "persen"
+            },
+            {
+              "uuid": "936C0D36-8654-4016-A59C-056895296F74",
+              "source": "already",
+              "target": "sudah"
+            },
+            {
+              "uuid": "0033FE56-E7E3-4563-9BCF-5720FD896ACB",
+              "source": "after",
+              "target": "sesudah"
+            },
+            {
+              "uuid": "A1DC3470-555D-440F-BCC2-458D3FECCEC7",
+              "source": "after that",
+              "target": "sesudahnya"
+            },
+            {
+              "uuid": "AAD6F632-9199-4562-97F9-FE32BCCD9297",
+              "source": "before that",
+              "target": "sebelumnya"
+            }
+          ]
+        },
+        {
+          "uuid": "8D2994DF-0A8D-4E50-8ECF-9D6C0BD9654D",
+          "title": "Berapa Harganya?",
+          "comment": "Bab 10",
+          "sort": 518,
+          "words": [
+            {
+              "uuid": "A494EC70-01BA-46A5-A399-DBB57707D5B0",
+              "source": "Can I help you?",
+              "target": "Bisa saya bantu?"
+            },
+            {
+              "uuid": "10A1C06B-6539-442D-88D5-E26878F295A7",
+              "source": "Can I have a look?",
+              "target": "Boleh saya lihat-lihat dulu?"
+            },
+            {
+              "uuid": "AB1A2E31-E62C-4802-B36A-5BBE277539B2",
+              "source": "please",
+              "sourceComment": "giving permission",
+              "target": "silakan"
+            },
+            {
+              "uuid": "C47A6C26-D086-4D1C-8FED-D9085A57FC5D",
+              "source": "please",
+              "sourceComment": "to ask for something",
+              "target": "tolong"
+            },
+            {
+              "uuid": "959CD4B9-DAA9-497C-A520-6BEEF3AB3AF9",
+              "source": "And this?",
+              "target": "Kalau ini?"
+            },
+            {
+              "uuid": "8FA982DC-4FE1-44C1-B5F4-4E2DD095E9EF",
+              "source": "How much is that?",
+              "target": "Berapa harganya?"
+            },
+            {
+              "uuid": "012DD02F-E6EB-4ADF-ACD0-311B53CF2041",
+              "source": "Is there discount?",
+              "target": "Ada diskon?"
+            },
+            {
+              "uuid": "048A36B1-531C-4753-90AC-49CE518F5DF3",
+              "source": "Sorry Mrs.",
+              "target": "Maaf, Bu"
+            },
+            {
+              "uuid": "769937F6-7E37-4C73-A5CF-94008882D333",
+              "source": "price",
+              "target": "harga"
+            },
+            {
+              "uuid": "84DD0819-21CE-46C8-9514-3AE1D5A4B904",
+              "source": "item",
+              "target": "barang"
+            },
+            {
+              "uuid": "8BBB38FD-546F-4CF6-BF47-242396FAB223",
+              "source": "credit card",
+              "target": "kartu kredit"
+            },
+            {
+              "uuid": "87824E0C-BEBD-41CB-8F00-39B46F79D9AF",
+              "source": "bag",
+              "sourceComment": "any kind of",
+              "target": "tas"
+            },
+            {
+              "uuid": "2F34B7C7-6A5B-425D-AFFB-0BCA5ED83526",
+              "source": "discount",
+              "target": "diskon"
+            },
+            {
+              "uuid": "00CEE839-537E-4DAA-8011-784C428871EB",
+              "source": "see",
+              "target": "lihat"
+            },
+            {
+              "uuid": "414DDA88-82B1-4405-8319-7F633A21C66E",
+              "source": "looking",
+              "target": "lihat-lihat"
+            },
+            {
+              "uuid": "695AB6C4-0A88-4F8B-935E-96B52B6C7D90",
+              "source": "buy",
+              "target": "beli"
+            },
+            {
+              "uuid": "3C52FD54-9155-4E60-B750-A1164A40E21C",
+              "source": "pay",
+              "target": "bayar"
+            },
+            {
+              "uuid": "21B79FA6-2ACE-4458-90D0-04E6847BEF0B",
+              "source": "sorry",
+              "target": "maaf"
+            },
+            {
+              "uuid": "A0F6DBCC-6993-4F52-867C-D162E0AA14A5",
+              "source": "excuse me",
+              "target": "permisi"
+            },
+            {
+              "uuid": "C0DF1C6D-CC8B-41B6-98EF-3F809EFECA59",
+              "source": "expensive",
+              "target": "mahal"
+            },
+            {
+              "uuid": "5A96EEA0-1388-4548-8593-F33BD2B53035",
+              "source": "cheap",
+              "target": "murah"
             }
           ]
         }
       ]
     },
     {
-      "uuid": "cd08076c-018d-4f84-95a0-904498a45fd7",
-      "title": "Cinta Bahasa 1B",
-      "comment": "Yayasan Cinta Bahasa Indonesia"
+      "uuid": "209B8634-3D7A-4145-A2E9-8A8A36BD4191",
+      "title": "Buku - 1B",
+      "sort": 540,
+      "chapters": [
+        {
+          "uuid": "AC6EC591-1106-4944-82A4-38409CDDE5D0",
+          "title": "Bisa Antar Saya ke Bandara?",
+          "comment": "Bab 1",
+          "sort": 541,
+          "words": [
+            {
+              "uuid": "E6F0042F-6EA3-48E4-8ECA-55D3DBC9FD22",
+              "source": "drop of/deliver",
+              "target": "antar"
+            }
+          ]
+        },
+        {
+          "uuid": "5C9E45FD-7733-4891-8E37-D28A34405D6B",
+          "title": "Jakarta Lebih Macet Daripada Bali",
+          "comment": "Bab 2",
+          "sort": 543,
+          "words": [
+            {
+              "uuid": "7B339582-B4E2-49DB-998F-CC89C9E355CF",
+              "source": "happy",
+              "target": "senang"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

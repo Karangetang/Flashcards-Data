@@ -13,15 +13,36 @@
       "name": "Indonesian",
       "image": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/indonesia.png",
       "icon": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/id.png"
+    },
+    {
+      "code": "tw",
+      "voice": "zh",
+      "name": "Chinese (繁體字)",
+      "image": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/taiwan.png",
+      "icon": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/tw.png"
+    },
+    {
+      "code": "cn",
+      "voice": "zh",
+      "name": "Chinese (简体字)",
+      "image": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/china.png",
+      "icon": "https://github.com/Karangetang/Flashcards-Data/raw/master/images/cn.png"
     }
   ],
   "courses": [
     {
-      "uuid": "b7cd8611-763d-42e0-92c2-33cf54c80374",
-      "title": "Cinta Bahasa",
+      "uuid": "0A3A2EBB-77A4-4B5D-95E1-A0BBE87740BC",
+      "title": "Cintah Bahasa",
       "url": "https://raw.githubusercontent.com/Karangetang/Flashcards-Data/master/courses/cinta-bahasa.json",
       "sourceLng": "en",
       "targetLng": "id"
+    },
+    {
+      "uuid": "0FC94542-26CE-4340-9743-730D1571935D",
+      "title": "Practical Audio-Visual Chinese",
+      "url": "https://raw.githubusercontent.com/Karangetang/Flashcards-Data/master/courses/pavc.json",
+      "sourceLng": "en",
+      "targetLng": "tw"
     }
   ]
 }
