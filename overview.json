@@ -36,14 +36,14 @@
   "courses": [
     {
       "uuid": "0A3A2EBB-77A4-4B5D-95E1-A0BBE87740BC",
-      "title": "Cintah Bahasa",
+      "title": "Cintah Bahasa, Bali",
       "url": "https://raw.githubusercontent.com/Karangetang/Flashcards-Data/master/courses/cinta-bahasa.json",
       "sourceLng": "en",
       "targetLng": "id"
     },
     {
       "uuid": "0FC94542-26CE-4340-9743-730D1571935D",
-      "title": "National Taiwan Normal University",
+      "title": "NTNU, Taipei",
       "url": "https://raw.githubusercontent.com/Karangetang/Flashcards-Data/master/courses/pavc.json",
       "sourceLng": "en",
       "targetLng": "tw"
