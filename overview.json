@@ -36,7 +36,7 @@
   "courses": [
     {
       "uuid": "0A3A2EBB-77A4-4B5D-95E1-A0BBE87740BC",
-      "title": "Cintah Bahasa, Bali",
+      "title": "Cinta Bahasa, Bali",
       "url": "https://raw.githubusercontent.com/Karangetang/Flashcards-Data/master/courses/cinta-bahasa.json",
       "sourceLng": "en",
       "targetLng": "id"
